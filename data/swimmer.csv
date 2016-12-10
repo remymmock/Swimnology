@@ -1,0 +1,1172 @@
+,City,Edition,Sport,Discipline,Athlete,NOC,Gender,Event,Event_gender,Medal,DOB,height,age,weight_lbs,weight_kg
+0,Athens,1896,Aquatics,Swimming,"HAJOS, Alfred",HUN,Men,100m freestyle,M,Gold,"February 1, 1878",NA,18,NA,#VALUE!
+1,Athens,1896,Aquatics,Swimming,"HERSCHMANN, Otto",AUT,Men,100m freestyle,M,Silver,"January 4, 1877",NA,19,NA,#VALUE!
+2,Athens,1896,Aquatics,Swimming,"CHOROPHAS, Efstathios",GRE,Men,400m freestyle,M,Bronze,NA,NA,NA,NA,#VALUE!
+3,Athens,1896,Aquatics,Swimming,"NEUMANN, Paul",AUT,Men,400m freestyle,M,Gold,26-Jan-25,177.8,NA,NA,#VALUE!
+4,Athens,1896,Aquatics,Swimming,"PEPANOS, Antonios",GRE,Men,400m freestyle,M,Silver,1866,NA,30,NA,#VALUE!
+5,Paris,1900,Aquatics,Swimming,"HALMAY, Zoltan",HUN,Men,1500m freestyle,M,Bronze,"June 18, 1881",NA,19,NA,#VALUE!
+6,Paris,1900,Aquatics,Swimming,"JARVIS, John Arthur",GBR,Men,1500m freestyle,M,Gold,"February 24, 1872",NA,28,NA,#VALUE!
+7,Paris,1900,Aquatics,Swimming,"WAHLE, Otto",AUT,Men,1500m freestyle,M,Silver,"November 5, 1879",NA,20,NA,#VALUE!
+8,Paris,1900,Aquatics,Swimming,"DROST, Johannes",NED,Men,200m backstroke,M,Bronze,"June 22, 1880",NA,20,NA,#VALUE!
+9,Paris,1900,Aquatics,Swimming,"HOPPENBERG, Ernst",GER,Men,200m backstroke,M,Gold,"July 26, 1878",NA,22,NA,#VALUE!
+10,Paris,1900,Aquatics,Swimming,"RUBERL, Karl",AUT,Men,200m backstroke,M,Silver,"October 3, 1880",NA,19,NA,#VALUE!
+11,Paris,1900,Aquatics,Swimming,"RUBERL, Karl",AUT,Men,200m freestyle,M,Bronze,"October 3, 1880",NA,19,NA,#VALUE!
+12,Paris,1900,Aquatics,Swimming,"LANE, Frederick C.V.",AUS,Men,200m freestyle,M,Gold,"February 2, 1880",NA,20,NA,#VALUE!
+13,Paris,1900,Aquatics,Swimming,"HALMAY, Zoltan",HUN,Men,200m freestyle,M,Silver,"June 18, 1881",NA,19,NA,#VALUE!
+14,St Louis,1904,Aquatics,Swimming,"ZACHARIAS, Georg",GER,Men,100m backstroke,M,Bronze,NA,NA,NA,NA,#VALUE!
+15,St Louis,1904,Aquatics,Swimming,"BRACK, Walter",GER,Men,100m backstroke,M,Gold,"November 20, 1880",NA,23,NA,#VALUE!
+16,St Louis,1904,Aquatics,Swimming,"HOFFMANN, Georg",GER,Men,100m backstroke,M,Silver,"March 21, 1880",NA,24,NA,#VALUE!
+17,St Louis,1904,Aquatics,Swimming,"LEARY, J. Scott",USA,Men,100m freestyle,M,Bronze,NA,NA,NA,NA,#VALUE!
+18,St Louis,1904,Aquatics,Swimming,"HALMAY, Zoltan",HUN,Men,100m freestyle,M,Gold,"June 18, 1881",NA,23,NA,#VALUE!
+19,St Louis,1904,Aquatics,Swimming,"DANIELS, Charles",USA,Men,100m freestyle,M,Silver,"October 28, 1936 (age 80 years)",187.96,NA,154,70
+20,St Louis,1904,Aquatics,Swimming,"GAILEY, Francis",USA,Men,1500m freestyle,M,Bronze,"January 21, 1882",NA,22,NA,#VALUE!
+21,St Louis,1904,Aquatics,Swimming,"RAUSCH, Emil",GER,Men,1500m freestyle,M,Gold,"September 11, 1883",NA,20,NA,#VALUE!
+22,St Louis,1904,Aquatics,Swimming,"KISS, Geza",HUN,Men,1500m freestyle,M,Silver,"October 22, 1882",NA,21,NA,#VALUE!
+23,St Louis,1904,Aquatics,Swimming,"RAUSCH, Emil",GER,Men,200m freestyle,M,Bronze,"September 11, 1883",NA,20,NA,#VALUE!
+24,St Louis,1904,Aquatics,Swimming,"DANIELS, Charles",USA,Men,200m freestyle,M,Gold,"October 28, 1936 (age 80 years)",187.96,NA,154,70
+25,St Louis,1904,Aquatics,Swimming,"GAILEY, Francis",USA,Men,200m freestyle,M,Silver,"January 21, 1882",NA,22,NA,#VALUE!
+26,St Louis,1904,Aquatics,Swimming,"WAHLE, Otto",AUT,Men,400m freestyle,M,Bronze,"November 5, 1879",NA,24,NA,#VALUE!
+27,St Louis,1904,Aquatics,Swimming,"DANIELS, Charles",USA,Men,400m freestyle,M,Gold,"October 28, 1936 (age 80 years)",187.96,NA,154,70
+28,St Louis,1904,Aquatics,Swimming,"GAILEY, Francis",USA,Men,400m freestyle,M,Silver,"January 21, 1882",NA,22,NA,#VALUE!
+29,London,1908,Aquatics,Swimming,"HARESNAPE, Herbert Nickall",GBR,Men,100m backstroke,M,Bronze,"July 2, 1880",175.26,28,NA,#VALUE!
+30,London,1908,Aquatics,Swimming,"BIEBERSTEIN, Arno",GER,Men,100m backstroke,M,Gold,"October 24, 1884",NA,23,NA,#VALUE!
+31,London,1908,Aquatics,Swimming,"DAM, Hans Peter Ludwig",DEN,Men,100m backstroke,M,Silver,NA,NA,NA,NA,#VALUE!
+32,London,1908,Aquatics,Swimming,"JULIN, Harald S.A.",SWE,Men,100m freestyle,M,Bronze,NA,NA,NA,NA,#VALUE!
+33,London,1908,Aquatics,Swimming,"DANIELS, Charles",USA,Men,100m freestyle,M,Gold,"October 28, 1936 (age 80 years)",187.96,NA,154,70
+34,London,1908,Aquatics,Swimming,"HALMAY, Zoltan",HUN,Men,100m freestyle,M,Silver,"June 18, 1881",NA,27,NA,#VALUE!
+35,London,1908,Aquatics,Swimming,"BEAUREPAIRE, Frank E.",ANZ,Men,1500m freestyle,M,Bronze,"May 13, 1891",NA,17,NA,#VALUE!
+36,London,1908,Aquatics,Swimming,"TAYLOR, Henry",GBR,Men,1500m freestyle,M,Gold,"June 21, 1942 (age 74 years)",NA,NA,146,66.36363636
+37,London,1908,Aquatics,Swimming,"BATTERSBY, Thomas Sidney",GBR,Men,1500m freestyle,M,Silver,"November 18, 1887",NA,20,NA,#VALUE!
+38,London,1908,Aquatics,Swimming,"HANSSON, Pontus",SWE,Men,200m breaststroke,M,Bronze,"May 24, 1894",NA,14,NA,#VALUE!
+39,London,1908,Aquatics,Swimming,"HOLMAN, Frederick",GBR,Men,200m breaststroke,M,Gold,March 1883,177.8,25,157,71.36363636
+40,London,1908,Aquatics,Swimming,"ROBINSON, William Walter",GBR,Men,200m breaststroke,M,Silver,NA,NA,NA,NA,#VALUE!
+41,London,1908,Aquatics,Swimming,"SCHEFF, Otto",AUT,Men,400m freestyle,M,Bronze,"December 12, 1889",NA,18,NA,#VALUE!
+42,London,1908,Aquatics,Swimming,"TAYLOR, Henry",GBR,Men,400m freestyle,M,Gold,"June 21, 1942 (age 74 years)",NA,NA,146,66.36363636
+43,London,1908,Aquatics,Swimming,"BEAUREPAIRE, Frank E.",ANZ,Men,400m freestyle,M,Silver,"May 13, 1891",NA,17,NA,#VALUE!
+44,Stockholm,1912,Aquatics,Swimming,"KELLNER, Paul",GER,Men,100m backstroke,M,Bronze,"June 6, 1890",NA,22,NA,#VALUE!
+45,Stockholm,1912,Aquatics,Swimming,"HEBNER, Harry J.",USA,Men,100m backstroke,M,Gold,NA,NA,NA,NA,#VALUE!
+46,Stockholm,1912,Aquatics,Swimming,"FAHR, Otto",GER,Men,100m backstroke,M,Silver,"August 19, 1892",NA,20,NA,#VALUE!
+47,Stockholm,1912,Aquatics,Swimming,"HUSZAGH, Kenneth",USA,Men,100m freestyle,M,Bronze,"September 3, 1891",NA,21,NA,#VALUE!
+48,Stockholm,1912,Aquatics,Swimming,"KAHANAMOKU, Duke Paoa",USA,Men,100m freestyle,M,Gold,"August 24, 1890",185.42,22,NA,#VALUE!
+49,Stockholm,1912,Aquatics,Swimming,"HEALY, Cecil",ANZ,Men,100m freestyle,M,Silver,"November 28, 1881",NA,30,NA,#VALUE!
+50,Stockholm,1912,Aquatics,Swimming,"FLETCHER, Jennie",GBR,Women,100m freestyle,W,Bronze,"March 19, 1890",NA,22,NA,#VALUE!
+51,Stockholm,1912,Aquatics,Swimming,"DURACK, Fanny",ANZ,Women,100m freestyle,W,Gold,"October 27, 1889",NA,22,NA,#VALUE!
+52,Stockholm,1912,Aquatics,Swimming,"WYLIE, Wilhelmina",ANZ,Women,100m freestyle,W,Silver,"June 27, 1891",NA,21,NA,#VALUE!
+53,Stockholm,1912,Aquatics,Swimming,"HARDWICK, Harold H.",ANZ,Men,1500m freestyle,M,Bronze,NA,NA,NA,NA,#VALUE!
+54,Stockholm,1912,Aquatics,Swimming,"HODGSON, George Ritchie",CAN,Men,1500m freestyle,M,Gold,NA,NA,NA,NA,#VALUE!
+55,Stockholm,1912,Aquatics,Swimming,"HATFIELD, John Gatenby",GBR,Men,1500m freestyle,M,Silver,"August 15, 1893",NA,19,NA,#VALUE!
+56,Stockholm,1912,Aquatics,Swimming,"MALISCH, Kurt Paul",GER,Men,200m breaststroke,M,Bronze,NA,NA,NA,NA,#VALUE!
+57,Stockholm,1912,Aquatics,Swimming,"BATHE, Walter",GER,Men,200m breaststroke,M,Gold,"December 1, 1892",NA,19,NA,#VALUE!
+58,Stockholm,1912,Aquatics,Swimming,"L TZOW, Willy",GER,Men,200m breaststroke,M,Silver,NA,NA,NA,NA,#VALUE!
+59,Stockholm,1912,Aquatics,Swimming,"HARDWICK, Harold H.",ANZ,Men,400m freestyle,M,Bronze,NA,NA,NA,NA,#VALUE!
+60,Stockholm,1912,Aquatics,Swimming,"HODGSON, George Ritchie",CAN,Men,400m freestyle,M,Gold,NA,NA,NA,NA,#VALUE!
+61,Stockholm,1912,Aquatics,Swimming,"HATFIELD, John Gatenby",GBR,Men,400m freestyle,M,Silver,"August 15, 1893",NA,19,NA,#VALUE!
+62,Antwerp,1920,Aquatics,Swimming,"BLITZ, Gerard",BEL,Men,100m backstroke,M,Bronze,28-Feb-12,NA,NA,NA,#VALUE!
+63,Antwerp,1920,Aquatics,Swimming,"KEALOHA, Warren Paoa",USA,Men,100m backstroke,M,Gold,NA,NA,NA,NA,#VALUE!
+64,Antwerp,1920,Aquatics,Swimming,"KEGERIS, Raymond",USA,Men,100m backstroke,M,Silver,10-Sep-01,170.18,18,NA,#VALUE!
+65,Antwerp,1920,Aquatics,Swimming,"HARRIS, William",USA,Men,100m freestyle,M,Bronze,"March 28, 1883",NA,37,NA,#VALUE!
+66,Antwerp,1920,Aquatics,Swimming,"KAHANAMOKU, Duke Paoa",USA,Men,100m freestyle,M,Gold,"August 24, 1890",185.42,30,NA,#VALUE!
+67,Antwerp,1920,Aquatics,Swimming,"KEALOHA, Pua Kela",USA,Men,100m freestyle,M,Silver,14-Nov-02,NA,17,NA,#VALUE!
+68,Antwerp,1920,Aquatics,Swimming,"SCHROTH, Frances",USA,Women,100m freestyle,W,Bronze,"April 11, 1893",167.64,27,NA,#VALUE!
+69,Antwerp,1920,Aquatics,Swimming,"BLEIBTREY, Ethelda",USA,Women,100m freestyle,W,Gold,27-Feb-02,NA,18,NA,#VALUE!
+70,Antwerp,1920,Aquatics,Swimming,"GUEST, Irene",USA,Women,100m freestyle,W,Silver,NA,157.48,NA,NA,#VALUE!
+71,Antwerp,1920,Aquatics,Swimming,"BEAUREPAIRE, Frank E.",AUS,Men,1500m freestyle,M,Bronze,"May 13, 1891",NA,29,NA,#VALUE!
+72,Antwerp,1920,Aquatics,Swimming,"ROSS, Norman",USA,Men,1500m freestyle,M,Gold,"January 7, 1959 (age 57 years)",NA,NA,NA,#VALUE!
+73,Antwerp,1920,Aquatics,Swimming,"VERNOT, George",CAN,Men,1500m freestyle,M,Silver,NA,152.4,NA,198,90
+74,Antwerp,1920,Aquatics,Swimming,"AALTONEN, Arvo Ossian",FIN,Men,200m breaststroke,M,Bronze,"December 2, 1892",NA,27,NA,#VALUE!
+75,Antwerp,1920,Aquatics,Swimming,"MALMROT, Hakan",SWE,Men,200m breaststroke,M,Gold,29-Nov-00,NA,19,NA,#VALUE!
+76,Antwerp,1920,Aquatics,Swimming,"HENNING, Tor",SWE,Men,200m breaststroke,M,Silver,"April 4, 1979 (age 37 years)",187.96,NA,NA,#VALUE!
+77,Antwerp,1920,Aquatics,Swimming,"VERNOT, George",CAN,Men,400m freestyle,M,Bronze,NA,152.4,NA,198,90
+78,Antwerp,1920,Aquatics,Swimming,"ROSS, Norman",USA,Men,400m freestyle,M,Gold,"January 7, 1959 (age 57 years)",NA,NA,NA,#VALUE!
+79,Antwerp,1920,Aquatics,Swimming,"LANGER, Ludy",USA,Men,400m freestyle,M,Silver,"January 22, 1893",175.26,27,161,73.18181818
+80,Antwerp,1920,Aquatics,Swimming,"SCHROTH, Frances",USA,Women,400m freestyle,W,Bronze,"April 11, 1893",167.64,27,NA,#VALUE!
+81,Antwerp,1920,Aquatics,Swimming,"BLEIBTREY, Ethelda",USA,Women,400m freestyle,W,Gold,27-Feb-02,NA,18,NA,#VALUE!
+82,Antwerp,1920,Aquatics,Swimming,"WOODBRIDGE, Margaret",USA,Women,400m freestyle,W,Silver,NA,170.18,NA,NA,#VALUE!
+83,Paris,1924,Aquatics,Swimming,"BARTHA, Istvàn",HUN,Men,100m backstroke,M,Bronze,NA,NA,NA,NA,#VALUE!
+84,Paris,1924,Aquatics,Swimming,"KEALOHA, Warren Paoa",USA,Men,100m backstroke,M,Gold,NA,NA,NA,NA,#VALUE!
+85,Paris,1924,Aquatics,Swimming,"WYATT, Paul",USA,Men,100m backstroke,M,Silver,NA,182.88,NA,NA,#VALUE!
+86,Paris,1924,Aquatics,Swimming,"RIGGIN, Aileen",USA,Women,100m backstroke,W,Bronze,2-May-06,142.24,18,NA,#VALUE!
+87,Paris,1924,Aquatics,Swimming,"BAUER, Sybil",USA,Women,100m backstroke,W,Gold,18-Sep-03,NA,20,NA,#VALUE!
+88,Paris,1924,Aquatics,Swimming,"HARDING, Phyllis",GBR,Women,100m backstroke,W,Silver,15-Dec-07,NA,16,NA,#VALUE!
+89,Paris,1924,Aquatics,Swimming,"KAHANAMOKU, Samuel",USA,Men,100m freestyle,M,Bronze,4-Nov-02,NA,21,NA,#VALUE!
+90,Paris,1924,Aquatics,Swimming,"WEISSMULLER, Johnny",USA,Men,100m freestyle,M,Gold,2-Jun-04,190.5,20,NA,#VALUE!
+91,Paris,1924,Aquatics,Swimming,"KAHANAMOKU, Duke Paoa",USA,Men,100m freestyle,M,Silver,"August 24, 1890",185.42,34,NA,#VALUE!
+92,Paris,1924,Aquatics,Swimming,"EDERLE, Gertrude",USA,Women,100m freestyle,W,Bronze,23-Oct-05,167.64,18,141,64.09090909
+93,Paris,1924,Aquatics,Swimming,"LACKIE, Ethel",USA,Women,100m freestyle,W,Gold,10-Feb-07,162.56,17,NA,#VALUE!
+94,Paris,1924,Aquatics,Swimming,"WEHSELAU, Mariechen",USA,Women,100m freestyle,W,Silver,15-May-06,NA,18,NA,#VALUE!
+95,Paris,1924,Aquatics,Swimming,"DE BEAUREPAIRE, Frank",AUS,Men,1500m freestyle,M,Bronze,"May 13, 1891",NA,33,143,65
+96,Paris,1924,Aquatics,Swimming,"CHARLTON, Andrew",AUS,Men,1500m freestyle,M,Gold,12-Aug-07,182.88,17,NA,#VALUE!
+97,Paris,1924,Aquatics,Swimming,"BORG, Arne",SWE,Men,1500m freestyle,M,Silver,NA,NA,NA,NA,#VALUE!
+98,Paris,1924,Aquatics,Swimming,"KIRSHBAUM, William",USA,Men,200m breaststroke,M,Bronze,NA,NA,NA,NA,#VALUE!
+99,Paris,1924,Aquatics,Swimming,"SKELTON, Robert",USA,Men,200m breaststroke,M,Gold,"October 4, 1896",NA,27,NA,#VALUE!
+100,Paris,1924,Aquatics,Swimming,"DE COMBE, Joseph",BEL,Men,200m breaststroke,M,Silver,19-Jun-01,NA,23,NA,#VALUE!
+101,Paris,1924,Aquatics,Swimming,"CARSON, Gladys",GBR,Women,200m breaststroke,W,Bronze,8-Feb-03,NA,21,NA,#VALUE!
+102,Paris,1924,Aquatics,Swimming,"MORTON, Lucille",GBR,Women,200m breaststroke,W,Gold,6-Aug-11,170.18,13,NA,#VALUE!
+103,Paris,1924,Aquatics,Swimming,"GERAGHTY, Agnes",USA,Women,200m breaststroke,W,Silver,NA,NA,NA,NA,#VALUE!
+104,Paris,1924,Aquatics,Swimming,"CHARLTON, Andrew",AUS,Men,400m freestyle,M,Bronze,NA,182.88,NA,NA,#VALUE!
+105,Paris,1924,Aquatics,Swimming,"WEISSMULLER, Johnny",USA,Men,400m freestyle,M,Gold,NA,190.5,NA,NA,#VALUE!
+106,Paris,1924,Aquatics,Swimming,"BORG, Arne",SWE,Men,400m freestyle,M,Silver,NA,NA,NA,NA,#VALUE!
+107,Paris,1924,Aquatics,Swimming,"EDERLE, Gertrude",USA,Women,400m freestyle,W,Bronze,NA,167.64,NA,141,64.09090909
+108,Paris,1924,Aquatics,Swimming,"NORELIUS, Martha",USA,Women,400m freestyle,W,Gold,NA,NA,NA,NA,#VALUE!
+109,Paris,1924,Aquatics,Swimming,"WAINWRIGHT, Helen",USA,Women,400m freestyle,W,Silver,15-Mar-06,154.94,18,NA,#VALUE!
+110,Amsterdam,1928,Aquatics,Swimming,"WYATT, Paul",USA,Men,100m backstroke,M,Bronze,NA,182.88,NA,NA,#VALUE!
+111,Amsterdam,1928,Aquatics,Swimming,"KOJAC, George Harold",USA,Men,100m backstroke,M,Gold,2-Mar-10,NA,18,NA,#VALUE!
+112,Amsterdam,1928,Aquatics,Swimming,"LAUFER, Walter",USA,Men,100m backstroke,M,Silver,5-Jul-06,NA,22,NA,#VALUE!
+113,Amsterdam,1928,Aquatics,Swimming,"COOPER, Margaret Joyce",GBR,Women,100m backstroke,W,Bronze,NA,NA,NA,NA,#VALUE!
+114,Amsterdam,1928,Aquatics,Swimming,"BRAUN, Maria Johanna",NED,Women,100m backstroke,W,Gold,22-Jun-11,170.18,17,NA,#VALUE!
+115,Amsterdam,1928,Aquatics,Swimming,"KING, Ellen Elizabeth",GBR,Women,100m backstroke,W,Silver,16-Jan-09,NA,19,NA,#VALUE!
+116,Amsterdam,1928,Aquatics,Swimming,"TAKAISHI, Katsuo",JPN,Men,100m freestyle,M,Bronze,14-Oct-06,NA,21,NA,#VALUE!
+117,Amsterdam,1928,Aquatics,Swimming,"WEISSMULLER, Johnny",USA,Men,100m freestyle,M,Gold,2-Jun-04,190.5,24,NA,#VALUE!
+118,Amsterdam,1928,Aquatics,Swimming,"BARANY, Istvan",HUN,Men,100m freestyle,M,Silver,20-Dec-07,NA,20,NA,#VALUE!
+119,Amsterdam,1928,Aquatics,Swimming,"COOPER, Margaret Joyce",GBR,Women,100m freestyle,W,Bronze,NA,NA,NA,NA,#VALUE!
+120,Amsterdam,1928,Aquatics,Swimming,"OSIPOWICH, Albina Lucy",USA,Women,100m freestyle,W,Gold,26-Feb-11,NA,17,NA,#VALUE!
+121,Amsterdam,1928,Aquatics,Swimming,"SAVILLE, Eleanor",USA,Women,100m freestyle,W,Silver,12-Jun-09,NA,19,NA,#VALUE!
+122,Amsterdam,1928,Aquatics,Swimming,"CRABBE, Clarence",USA,Men,1500m freestyle,M,Bronze,7-Feb-08,NA,20,NA,#VALUE!
+123,Amsterdam,1928,Aquatics,Swimming,"BORG, Arne",SWE,Men,1500m freestyle,M,Gold,NA,NA,NA,NA,#VALUE!
+124,Amsterdam,1928,Aquatics,Swimming,"CHARLTON, Andrew",AUS,Men,1500m freestyle,M,Silver,12-Aug-07,182.88,21,NA,#VALUE!
+125,Amsterdam,1928,Aquatics,Swimming,"YLDEFONSO, Teofilo",PHI,Men,200m breaststroke,M,Bronze,5-Nov-02,170.18,25,NA,#VALUE!
+126,Amsterdam,1928,Aquatics,Swimming,"TSURUTA, Yoshiyuki",JPN,Men,200m breaststroke,M,Gold,1-Oct-03,NA,24,NA,#VALUE!
+127,Amsterdam,1928,Aquatics,Swimming,"RADEMACHER, Erich",GER,Men,200m breaststroke,M,Silver,9-Jun-01,NA,27,NA,#VALUE!
+128,Amsterdam,1928,Aquatics,Swimming,"M HE, Charlotte",GER,Women,200m breaststroke,W,Bronze,NA,NA,NA,NA,#VALUE!
+129,Amsterdam,1928,Aquatics,Swimming,"SCHRADER, Hilde",GER,Women,200m breaststroke,W,Gold,4-Jan-10,NA,18,NA,#VALUE!
+130,Amsterdam,1928,Aquatics,Swimming,"BARON, Mietje",NED,Women,200m breaststroke,W,Silver,NA,NA,NA,NA,#VALUE!
+131,Amsterdam,1928,Aquatics,Swimming,"BORG, Arne",SWE,Men,400m freestyle,M,Bronze,NA,NA,NA,NA,#VALUE!
+132,Amsterdam,1928,Aquatics,Swimming,"ZORRILLA, Victoriano",ARG,Men,400m freestyle,M,Gold,11-Feb-06,NA,22,NA,#VALUE!
+133,Amsterdam,1928,Aquatics,Swimming,"CHARLTON, Andrew",AUS,Men,400m freestyle,M,Silver,12-Aug-07,182.88,21,NA,#VALUE!
+134,Amsterdam,1928,Aquatics,Swimming,"MCKIM, Josephine E.",USA,Women,400m freestyle,W,Bronze,4-Jan-10,NA,18,NA,#VALUE!
+135,Amsterdam,1928,Aquatics,Swimming,"NORELIUS, Martha",USA,Women,400m freestyle,W,Gold,21-Jan-11,NA,17,NA,#VALUE!
+136,Amsterdam,1928,Aquatics,Swimming,"BRAUN, Maria Johanna",NED,Women,400m freestyle,W,Silver,22-Jun-11,170.18,17,NA,#VALUE!
+137,Los Angeles,1932,Aquatics,Swimming,"KAWATSU, Kentaro",JPN,Men,100m backstroke,M,Bronze,26-Sep-15,NA,16,NA,#VALUE!
+138,Los Angeles,1932,Aquatics,Swimming,"KIYOKAWA, Masaji",JPN,Men,100m backstroke,M,Gold,11-Feb-13,NA,19,NA,#VALUE!
+139,Los Angeles,1932,Aquatics,Swimming,"IRIYE, Toshio",JPN,Men,100m backstroke,M,Silver,NA,NA,NA,NA,#VALUE!
+140,Los Angeles,1932,Aquatics,Swimming,"DAVIES, Elizabeth Valerie",GBR,Women,100m backstroke,W,Bronze,NA,NA,NA,NA,#VALUE!
+141,Los Angeles,1932,Aquatics,Swimming,"HOLM, Eleanor",USA,Women,100m backstroke,W,Gold,6-Dec-13,NA,18,NA,#VALUE!
+142,Los Angeles,1932,Aquatics,Swimming,"MEALING, Philomenia Alecia",AUS,Women,100m backstroke,W,Silver,NA,NA,NA,NA,#VALUE!
+143,Los Angeles,1932,Aquatics,Swimming,"SCHWARTZ, Albert",USA,Men,100m freestyle,M,Bronze,21-Dec-07,NA,24,NA,#VALUE!
+144,Los Angeles,1932,Aquatics,Swimming,"MIOYAZAKI, Yasuji",JPN,Men,100m freestyle,M,Gold,15-Oct-16,NA,15,NA,#VALUE!
+145,Los Angeles,1932,Aquatics,Swimming,"KAWAISHI, Tatsugo",JPN,Men,100m freestyle,M,Silver,10-Dec-11,NA,20,NA,#VALUE!
+146,Los Angeles,1932,Aquatics,Swimming,"SAVILLE, Eleanor",USA,Women,100m freestyle,W,Bronze,12-Jun-09,NA,23,NA,#VALUE!
+147,Los Angeles,1932,Aquatics,Swimming,"MADISON, Helene",USA,Women,100m freestyle,W,Gold,19-Jun-13,NA,19,NA,#VALUE!
+148,Los Angeles,1932,Aquatics,Swimming,"DEN OUDEN, Willemyntje (Willy)",NED,Women,100m freestyle,W,Silver,1-Jan-18,162.56,14,NA,#VALUE!
+149,Los Angeles,1932,Aquatics,Swimming,"CRISTY, James Crapo Jr.",USA,Men,1500m freestyle,M,Bronze,22-Jan-13,NA,19,NA,#VALUE!
+150,Los Angeles,1932,Aquatics,Swimming,"KITAMURA, Kusuo",JPN,Men,1500m freestyle,M,Gold,19-Oct-17,NA,14,NA,#VALUE!
+151,Los Angeles,1932,Aquatics,Swimming,"MAKINO, Shozo",JPN,Men,1500m freestyle,M,Silver,"September 22, 1878",154.94,53,119,54.09090909
+152,Los Angeles,1932,Aquatics,Swimming,"YLDEFONSO, Teofilo",PHI,Men,200m breaststroke,M,Bronze,5-Nov-02,170.18,29,NA,#VALUE!
+153,Los Angeles,1932,Aquatics,Swimming,"TSURUTA, Yoshiyuki",JPN,Men,200m breaststroke,M,Gold,1-Oct-03,NA,28,NA,#VALUE!
+154,Los Angeles,1932,Aquatics,Swimming,"KOIKE, Reizo",JPN,Men,200m breaststroke,M,Silver,12-Dec-15,NA,16,NA,#VALUE!
+155,Los Angeles,1932,Aquatics,Swimming,"JACOBSEN, Else Agnes Ella",DEN,Women,200m breaststroke,W,Bronze,NA,NA,NA,NA,#VALUE!
+156,Los Angeles,1932,Aquatics,Swimming,"DENNIS, Clare",AUS,Women,200m breaststroke,W,Gold,NA,NA,NA,NA,#VALUE!
+157,Los Angeles,1932,Aquatics,Swimming,"MAEHATA, Hideko",JPN,Women,200m breaststroke,W,Silver,20-May-14,NA,18,NA,#VALUE!
+158,Los Angeles,1932,Aquatics,Swimming,"OYOKOTA, Tsutomu",JPN,Men,400m freestyle,M,Bronze,"April 20, 1913 (age 103 years)",NA,NA,NA,#VALUE!
+159,Los Angeles,1932,Aquatics,Swimming,"CRABBE, Clarence",USA,Men,400m freestyle,M,Gold,7-Feb-08,NA,24,NA,#VALUE!
+160,Los Angeles,1932,Aquatics,Swimming,"TARIS, Jean",FRA,Men,400m freestyle,M,Silver,6-Jul-09,177.8,23,NA,#VALUE!
+161,Los Angeles,1932,Aquatics,Swimming,"MAAKAL, Jenny",RSA,Women,400m freestyle,W,Bronze,NA,NA,NA,NA,#VALUE!
+162,Los Angeles,1932,Aquatics,Swimming,"MADISON, Helene",USA,Women,400m freestyle,W,Gold,NA,NA,NA,NA,#VALUE!
+163,Los Angeles,1932,Aquatics,Swimming,"KIGHT-WINGARD, Lenore",USA,Women,400m freestyle,W,Silver,NA,NA,NA,NA,#VALUE!
+164,Berlin,1936,Aquatics,Swimming,"KIYOKAWA, Masaji",JPN,Men,100m backstroke,M,Bronze,NA,NA,NA,NA,#VALUE!
+165,Berlin,1936,Aquatics,Swimming,"KIEFER, Adolph Gustav",USA,Men,100m backstroke,M,Gold,NA,NA,NA,NA,#VALUE!
+166,Berlin,1936,Aquatics,Swimming,"VAN DE WEGHE, Albert",USA,Men,100m backstroke,M,Silver,NA,NA,NA,NA,#VALUE!
+167,Berlin,1936,Aquatics,Swimming,"BRIDGES, Alice W.",USA,Women,100m backstroke,W,Bronze,NA,NA,NA,NA,#VALUE!
+168,Berlin,1936,Aquatics,Swimming,"SENFF, Dina Willemina Jacoba",NED,Women,100m backstroke,W,Gold,3-Apr-20,NA,16,NA,#VALUE!
+169,Berlin,1936,Aquatics,Swimming,"MASTENBROEK, Hendrika",NED,Women,100m backstroke,W,Silver,26-Feb-19,NA,17,NA,#VALUE!
+170,Berlin,1936,Aquatics,Swimming,"ARAI, Shigeo",JPN,Men,100m freestyle,M,Bronze,8-Aug-16,NA,20,NA,#VALUE!
+171,Berlin,1936,Aquatics,Swimming,"CSIK, Ferenc",HUN,Men,100m freestyle,M,Gold,12-Dec-13,NA,22,NA,#VALUE!
+172,Berlin,1936,Aquatics,Swimming,"YUSA, Masanori",JPN,Men,100m freestyle,M,Silver,8-Jan-15,NA,21,NA,#VALUE!
+173,Berlin,1936,Aquatics,Swimming,"ARENDT-JACOBS, Gisela",GER,Women,100m freestyle,W,Bronze,NA,NA,NA,NA,#VALUE!
+174,Berlin,1936,Aquatics,Swimming,"MASTENBROEK, Hendrika",NED,Women,100m freestyle,W,Gold,26-Feb-19,NA,17,NA,#VALUE!
+175,Berlin,1936,Aquatics,Swimming,"CAMPBELL, Jeanette Morven",ARG,Women,100m freestyle,W,Silver,8-Mar-16,NA,20,NA,#VALUE!
+176,Berlin,1936,Aquatics,Swimming,"UTO, Shunpei",JPN,Men,1500m freestyle,M,Bronze,"December 1, 1918 (age 97 years)",NA,NA,NA,#VALUE!
+177,Berlin,1936,Aquatics,Swimming,"TERADA, Noboru",JPN,Men,1500m freestyle,M,Gold,25-Nov-17,NA,18,NA,#VALUE!
+178,Berlin,1936,Aquatics,Swimming,"MEDICA, Jack C.",USA,Men,1500m freestyle,M,Silver,NA,NA,NA,NA,#VALUE!
+179,Berlin,1936,Aquatics,Swimming,"KOIKE, Reizo",JPN,Men,200m breaststroke,M,Bronze,12-Dec-15,NA,20,NA,#VALUE!
+180,Berlin,1936,Aquatics,Swimming,"HAMURO, Tetsuo",JPN,Men,200m breaststroke,M,Gold,7-Sep-17,NA,18,NA,#VALUE!
+181,Berlin,1936,Aquatics,Swimming,"SIETAS, Erwin",GER,Men,200m breaststroke,M,Silver,24-Jul-10,NA,26,NA,#VALUE!
+182,Berlin,1936,Aquatics,Swimming,"SÉRENSEN, Inge",DEN,Women,200m breaststroke,W,Bronze,NA,NA,NA,NA,#VALUE!
+183,Berlin,1936,Aquatics,Swimming,"MAEHATA, Hideko",JPN,Women,200m breaststroke,W,Gold,20-May-14,NA,22,NA,#VALUE!
+184,Berlin,1936,Aquatics,Swimming,"GENENGER, Martha",GER,Women,200m breaststroke,W,Silver,11-Nov-11,NA,24,NA,#VALUE!
+185,Berlin,1936,Aquatics,Swimming,"MAKINO, Shozo",JPN,Men,400m freestyle,M,Bronze,"September 22, 1878",154.94,57,119,54.09090909
+186,Berlin,1936,Aquatics,Swimming,"MEDICA, Jack C.",USA,Men,400m freestyle,M,Gold,NA,NA,NA,NA,#VALUE!
+187,Berlin,1936,Aquatics,Swimming,"UTO, Shunpei",JPN,Men,400m freestyle,M,Silver,"December 1, 1918 (age 97 years)",NA,NA,NA,#VALUE!
+188,Berlin,1936,Aquatics,Swimming,"KIGHT-WINGARD, Lenore",USA,Women,400m freestyle,W,Bronze,26-Sep-11,NA,24,NA,#VALUE!
+189,Berlin,1936,Aquatics,Swimming,"MASTENBROEK, Hendrika",NED,Women,400m freestyle,W,Gold,26-Feb-19,NA,17,NA,#VALUE!
+190,Berlin,1936,Aquatics,Swimming,"HVEGER, Ragnild Tove",DEN,Women,400m freestyle,W,Silver,10-Dec-20,NA,15,NA,#VALUE!
+191,London,1948,Aquatics,Swimming,"VALLEREY JR., Georges",FRA,Men,100m backstroke,M,Bronze,21-Oct-27,NA,20,NA,#VALUE!
+192,London,1948,Aquatics,Swimming,"STACK, Allen Mcintyre",USA,Men,100m backstroke,M,Gold,23-Jan-28,NA,20,NA,#VALUE!
+193,London,1948,Aquatics,Swimming,"COWELL, Robert Elmer",USA,Men,100m backstroke,M,Silver,NA,193.04,NA,NA,#VALUE!
+194,London,1948,Aquatics,Swimming,"DAVIES, Judith Joy",AUS,Women,100m backstroke,W,Bronze,5-Jun-28,NA,20,NA,#VALUE!
+195,London,1948,Aquatics,Swimming,"HARUP, Karen Margrethe",DEN,Women,100m backstroke,W,Gold,20-Nov-24,NA,23,NA,#VALUE!
+196,London,1948,Aquatics,Swimming,"ZIMMERMAN, Suzanne Winona",USA,Women,100m backstroke,W,Silver,"July 13, 1925 (age 91 years)",NA,NA,NA,#VALUE!
+197,London,1948,Aquatics,Swimming,"KADAS, Geza",HUN,Men,100m freestyle,M,Bronze,7-Aug-26,NA,22,NA,#VALUE!
+198,London,1948,Aquatics,Swimming,"RIS, Walter Stephen",USA,Men,100m freestyle,M,Gold,NA,NA,NA,NA,#VALUE!
+199,London,1948,Aquatics,Swimming,"FORD, Alan Robert",USA,Men,100m freestyle,M,Silver,NA,NA,NA,170,77.27272727
+200,London,1948,Aquatics,Swimming,"LINSSEN-VAESSEN, Marie-Louise Jean",NED,Women,100m freestyle,W,Bronze,19-Mar-28,NA,20,NA,#VALUE!
+201,London,1948,Aquatics,Swimming,"ANDERSEN, Greta Marie",DEN,Women,100m freestyle,W,Gold,"May 1, 1927 (age 89 years)",175.26,NA,NA,#VALUE!
+202,London,1948,Aquatics,Swimming,"CURTIS, Ann Elisabeth",USA,Women,100m freestyle,W,Silver,6-Mar-26,180.34,22,NA,#VALUE!
+203,London,1948,Aquatics,Swimming,"MITRO, Gy_rgy",HUN,Men,1500m freestyle,M,Bronze,NA,NA,NA,NA,#VALUE!
+204,London,1948,Aquatics,Swimming,"MCLANE, James Price Jr.",USA,Men,1500m freestyle,M,Gold,"September 13, 1930 (age 86 years)",NA,NA,NA,#VALUE!
+205,London,1948,Aquatics,Swimming,"MARSHALL, John Birnie",AUS,Men,1500m freestyle,M,Silver,29-Mar-30,NA,18,NA,#VALUE!
+206,London,1948,Aquatics,Swimming,"SOHL, Robert Raymond",USA,Men,200m breaststroke,M,Bronze,28-Mar-28,NA,20,NA,#VALUE!
+207,London,1948,Aquatics,Swimming,"VERDEUR, Joseph Thomas",USA,Men,200m breaststroke,M,Gold,7-Mar-26,NA,22,NA,#VALUE!
+208,London,1948,Aquatics,Swimming,"CARTER, Keith Eyre",USA,Men,200m breaststroke,M,Silver,30-Aug-24,NA,24,NA,#VALUE!
+209,London,1948,Aquatics,Swimming,"NOVAK-GERARD, Eva",HUN,Women,200m breaststroke,W,Bronze,NA,NA,NA,NA,#VALUE!
+210,London,1948,Aquatics,Swimming,"VAN VLIET, Petronella (Nel)",NED,Women,200m breaststroke,W,Gold,NA,NA,NA,NA,#VALUE!
+211,London,1948,Aquatics,Swimming,"LYONS, Beatrice Nancy",AUS,Women,200m breaststroke,W,Silver,"April 12, 1930 (age 86 years)",NA,NA,NA,#VALUE!
+212,London,1948,Aquatics,Swimming,"MARSHALL, John Birnie",AUS,Men,400m freestyle,M,Bronze,29-Mar-30,NA,18,NA,#VALUE!
+213,London,1948,Aquatics,Swimming,"SMITH, William M. Jr.",USA,Men,400m freestyle,M,Gold,NA,NA,NA,NA,#VALUE!
+214,London,1948,Aquatics,Swimming,"MCLANE, James Price Jr.",USA,Men,400m freestyle,M,Silver,"September 13, 1930 (age 86 years)",NA,NA,NA,#VALUE!
+215,London,1948,Aquatics,Swimming,"GIBSON, Catherine",GBR,Women,400m freestyle,W,Bronze,21-Mar-31,NA,17,NA,#VALUE!
+216,London,1948,Aquatics,Swimming,"CURTIS, Ann Elisabeth",USA,Women,400m freestyle,W,Gold,6-Mar-26,180.34,22,NA,#VALUE!
+217,London,1948,Aquatics,Swimming,"HARUP, Karen Margrethe",DEN,Women,400m freestyle,W,Silver,20-Nov-24,NA,23,NA,#VALUE!
+218,Helsinki,1952,Aquatics,Swimming,"TAYLOR, Jack George Neil",USA,Men,100m backstroke,M,Bronze,31-Jan-31,NA,21,NA,#VALUE!
+219,Helsinki,1952,Aquatics,Swimming,"OYAKAWA, Yoshinobu",USA,Men,100m backstroke,M,Gold,"August 9, 1933 (age 83 years)",170.18,NA,154,70
+220,Helsinki,1952,Aquatics,Swimming,"BOZON, Gilbert",FRA,Men,100m backstroke,M,Silver,19-Mar-35,NA,17,NA,#VALUE!
+221,Helsinki,1952,Aquatics,Swimming,"STEWART, Jean",NZL,Women,100m backstroke,W,Bronze,"December 23, 1930 (age 85 years)",NA,NA,NA,#VALUE!
+222,Helsinki,1952,Aquatics,Swimming,"HARRISON, Joan Cynthia",RSA,Women,100m backstroke,W,Gold,NA,NA,NA,NA,#VALUE!
+223,Helsinki,1952,Aquatics,Swimming,"WIELEMA, Geertje",NED,Women,100m backstroke,W,Silver,24-Jul-34,NA,18,NA,#VALUE!
+224,Helsinki,1952,Aquatics,Swimming,"LARSSON, G_ran",SWE,Men,100m freestyle,M,Bronze,NA,NA,NA,NA,#VALUE!
+225,Helsinki,1952,Aquatics,Swimming,"SCHOLES, Clark Currie",USA,Men,100m freestyle,M,Gold,25-Nov-30,190.5,21,174,79.09090909
+226,Helsinki,1952,Aquatics,Swimming,"SUZUKI, Hiroshi",JPN,Men,100m freestyle,M,Silver,"December 13, 1973 (age 42 years)",NA,NA,NA,#VALUE!
+227,Helsinki,1952,Aquatics,Swimming,"TEMES, Judith",HUN,Women,100m freestyle,W,Bronze,NA,NA,NA,NA,#VALUE!
+228,Helsinki,1952,Aquatics,Swimming,"SZÉKE, Katalin",HUN,Women,100m freestyle,W,Gold,NA,NA,NA,NA,#VALUE!
+229,Helsinki,1952,Aquatics,Swimming,"TERMEULEN, Johanna Maria",NED,Women,100m freestyle,W,Silver,18-Feb-29,NA,23,NA,#VALUE!
+230,Helsinki,1952,Aquatics,Swimming,"OKAMOTO, Tetsuo",BRA,Men,1500m freestyle,M,Bronze,20-Mar-32,NA,20,NA,#VALUE!
+231,Helsinki,1952,Aquatics,Swimming,"KONNO, Ford Hiroshi",USA,Men,1500m freestyle,M,Gold,NA,NA,NA,150,68.18181818
+232,Helsinki,1952,Aquatics,Swimming,"HASHIZUME, Shiro",JPN,Men,1500m freestyle,M,Silver,1928,182.88,24,161,73.18181818
+233,Helsinki,1952,Aquatics,Swimming,"KLEIN, Herbert",GER,Men,200m breaststroke,M,Bronze,"January 6, 1936 (age 80 years)",NA,NA,NA,#VALUE!
+234,Helsinki,1952,Aquatics,Swimming,"DAVIES, John Griffith",AUS,Men,200m breaststroke,M,Gold,NA,NA,NA,NA,#VALUE!
+235,Helsinki,1952,Aquatics,Swimming,"STASSFORTH, Bowen Dow",USA,Men,200m breaststroke,M,Silver,"August 7, 1926 (age 90 years)",NA,NA,NA,#VALUE!
+236,Helsinki,1952,Aquatics,Swimming,"GORDON-MCKAY, Helen Orr",GBR,Women,200m breaststroke,W,Bronze,NA,NA,NA,NA,#VALUE!
+237,Helsinki,1952,Aquatics,Swimming,"SZEKELY, Eva",HUN,Women,200m breaststroke,W,Gold,"April 3, 1927 (age 89 years)",NA,NA,NA,#VALUE!
+238,Helsinki,1952,Aquatics,Swimming,"NOVAK-GERARD, Eva",HUN,Women,200m breaststroke,W,Silver,NA,NA,NA,NA,#VALUE!
+239,Helsinki,1952,Aquatics,Swimming,"ÉSTRAND, Per-Olof",SWE,Men,400m freestyle,M,Bronze,NA,NA,NA,NA,#VALUE!
+240,Helsinki,1952,Aquatics,Swimming,"BOITEUX, Jean",FRA,Men,400m freestyle,M,Gold,20-Jun-33,185.42,19,183,83.18181818
+241,Helsinki,1952,Aquatics,Swimming,"KONNO, Ford Hiroshi",USA,Men,400m freestyle,M,Silver,NA,NA,NA,150,68.18181818
+242,Helsinki,1952,Aquatics,Swimming,"KAWAMOTO, Evelyn Tokue",USA,Women,400m freestyle,W,Bronze,"September 17, 1933 (age 83 years)",NA,NA,NA,#VALUE!
+243,Helsinki,1952,Aquatics,Swimming,"GYENGE, Valeria",HUN,Women,400m freestyle,W,Gold,"April 3, 1933 (age 83 years)",NA,NA,NA,#VALUE!
+244,Helsinki,1952,Aquatics,Swimming,"NOVAK-GERARD, Eva",HUN,Women,400m freestyle,W,Silver,NA,NA,NA,NA,#VALUE!
+245,Melbourne / Stockholm,1956,Aquatics,Swimming,"MCKINNEY, Frank Edward Jr.",USA,Men,100m backstroke,M,Bronze,3-Nov-38,182.88,17,163,74.09090909
+246,Melbourne / Stockholm,1956,Aquatics,Swimming,"THEILE, David Egmont",AUS,Men,100m backstroke,M,Gold,"January 17, 1938 (age 78 years)",190.5,NA,NA,#VALUE!
+247,Melbourne / Stockholm,1956,Aquatics,Swimming,"MONCKTON, John James",AUS,Men,100m backstroke,M,Silver,"October 28, 1938 (age 78 years)",193.04,NA,183,83.18181818
+248,Melbourne / Stockholm,1956,Aquatics,Swimming,"EDWARDS, Margaret",GBR,Women,100m backstroke,W,Bronze,23-Oct-02,NA,53,119,54.09090909
+249,Melbourne / Stockholm,1956,Aquatics,Swimming,"GRINHAM, Judith Brenda",GBR,Women,100m backstroke,W,Gold,"March 5, 1939 (age 77 years)",NA,NA,NA,#VALUE!
+250,Melbourne / Stockholm,1956,Aquatics,Swimming,"CONE, Carin Alice",USA,Women,100m backstroke,W,Silver,"April 18, 1940 (age 76 years)",167.64,NA,130,59.09090909
+251,Melbourne / Stockholm,1956,Aquatics,Swimming,"SEARS, Mary Jane",USA,Women,100m butterfly,W,Bronze,NA,NA,NA,130,59.09090909
+252,Melbourne / Stockholm,1956,Aquatics,Swimming,"MANN, Shelley Isabel",USA,Women,100m butterfly,W,Gold,NA,172.72,NA,134,60.90909091
+253,Melbourne / Stockholm,1956,Aquatics,Swimming,"RAMEY, Nancy Jane",USA,Women,100m butterfly,W,Silver,NA,175.26,NA,112,50.90909091
+254,Melbourne / Stockholm,1956,Aquatics,Swimming,"CHAPMAN, Gary",AUS,Men,100m freestyle,M,Bronze,"January 10, 1938 (age 78 years)",NA,NA,NA,#VALUE!
+255,Melbourne / Stockholm,1956,Aquatics,Swimming,"HENRICKS, Jon Malcolm",AUS,Men,100m freestyle,M,Gold,"June 6, 1935 (age 81 years)",182.88,NA,172,78.18181818
+256,Melbourne / Stockholm,1956,Aquatics,Swimming,"DEVITT, John",AUS,Men,100m freestyle,M,Silver,NA,185.42,NA,187,85
+257,Melbourne / Stockholm,1956,Aquatics,Swimming,"LEECH, Faith Yvonne",AUS,Women,100m freestyle,W,Bronze,NA,177.8,NA,NA,#VALUE!
+258,Melbourne / Stockholm,1956,Aquatics,Swimming,"FRASER, Dawn",AUS,Women,100m freestyle,W,Gold,"September 4, 1937 (age 79 years)",172.72,NA,148,67.27272727
+259,Melbourne / Stockholm,1956,Aquatics,Swimming,"CRAPP, Lorraine Joyce",AUS,Women,100m freestyle,W,Silver,"October 1, 1938 (age 78 years)",167.64,NA,NA,#VALUE!
+260,Melbourne / Stockholm,1956,Aquatics,Swimming,"BREEN, George Thomas",USA,Men,1500m freestyle,M,Bronze,"July 19, 1935 (age 81 years)",182.88,NA,183,83.18181818
+261,Melbourne / Stockholm,1956,Aquatics,Swimming,"ROSE, Murray",AUS,Men,1500m freestyle,M,Gold,6-Jan-39,185.42,17,176,80
+262,Melbourne / Stockholm,1956,Aquatics,Swimming,"YAMANAKA, Tsuyoshi",JPN,Men,1500m freestyle,M,Silver,"January 18, 1939 (age 77 years)",170.18,NA,165,75
+263,Melbourne / Stockholm,1956,Aquatics,Swimming,"YUNICHEV, Kharis",URS,Men,200m breaststroke,M,Bronze,7-Aug-31,NA,25,NA,#VALUE!
+264,Melbourne / Stockholm,1956,Aquatics,Swimming,"FURUKAWA, Masaru",JPN,Men,200m breaststroke,M,Gold,6-Jan-36,NA,20,NA,#VALUE!
+265,Melbourne / Stockholm,1956,Aquatics,Swimming,"YOSHIMURA, Masahiro",JPN,Men,200m breaststroke,M,Silver,28-Oct-36,NA,19,NA,#VALUE!
+266,Melbourne / Stockholm,1956,Aquatics,Swimming,"TEN ELSEN, Eva-Maria",EUA,Women,200m breaststroke,W,Bronze,"September 14, 1937 (age 79 years)",NA,NA,NA,#VALUE!
+267,Melbourne / Stockholm,1956,Aquatics,Swimming,"HAPPE-KREY, Ursula",EUA,Women,200m breaststroke,W,Gold,"October 20, 1926 (age 90 years)",NA,NA,NA,#VALUE!
+268,Melbourne / Stockholm,1956,Aquatics,Swimming,"SZEKELY, Eva",HUN,Women,200m breaststroke,W,Silver,"April 3, 1927 (age 89 years)",NA,NA,NA,#VALUE!
+269,Melbourne / Stockholm,1956,Aquatics,Swimming,"TUMPEK, Gy_rgy",HUN,Men,200m butterfly,M,Bronze,NA,NA,NA,NA,#VALUE!
+270,Melbourne / Stockholm,1956,Aquatics,Swimming,"YORZYK, William Albert Jr.",USA,Men,200m butterfly,M,Gold,"May 29, 1933 (age 83 years)",177.8,NA,163,74.09090909
+271,Melbourne / Stockholm,1956,Aquatics,Swimming,"ISHIMOTO, Takashi",JPN,Men,200m butterfly,M,Silver,NA,NA,NA,NA,#VALUE!
+272,Melbourne / Stockholm,1956,Aquatics,Swimming,"BREEN, George Thomas",USA,Men,400m freestyle,M,Bronze,NA,182.88,NA,183,83.18181818
+273,Melbourne / Stockholm,1956,Aquatics,Swimming,"ROSE, Murray",AUS,Men,400m freestyle,M,Gold,NA,185.42,NA,176,80
+274,Melbourne / Stockholm,1956,Aquatics,Swimming,"YAMANAKA, Tsuyoshi",JPN,Men,400m freestyle,M,Silver,NA,170.18,NA,165,75
+275,Melbourne / Stockholm,1956,Aquatics,Swimming,"RUUSKA, Sylvia Eliina",USA,Women,400m freestyle,W,Bronze,NA,172.72,NA,139,63.18181818
+276,Melbourne / Stockholm,1956,Aquatics,Swimming,"CRAPP, Lorraine Joyce",AUS,Women,400m freestyle,W,Gold,NA,167.64,NA,NA,#VALUE!
+277,Melbourne / Stockholm,1956,Aquatics,Swimming,"FRASER, Dawn",AUS,Women,400m freestyle,W,Silver,NA,172.72,NA,148,67.27272727
+278,Rome,1960,Aquatics,Swimming,"BENNETT, Robert Earl",USA,Men,100m backstroke,M,Bronze,NA,182.88,NA,172,78.18181818
+279,Rome,1960,Aquatics,Swimming,"THEILE, David Egmont",AUS,Men,100m backstroke,M,Gold,"January 17, 1938 (age 78 years)",190.5,NA,NA,#VALUE!
+280,Rome,1960,Aquatics,Swimming,"MCKINNEY, Frank Edward Jr.",USA,Men,100m backstroke,M,Silver,3-Nov-38,182.88,21,163,74.09090909
+281,Rome,1960,Aquatics,Swimming,"TANAKA, Satoko",JPN,Women,100m backstroke,W,Bronze,"February 3, 1942 (age 74 years)",157.48,NA,130,59.09090909
+282,Rome,1960,Aquatics,Swimming,"BURKE, Lynn Edythe",USA,Women,100m backstroke,W,Gold,"March 22, 1943 (age 73 years)",172.72,NA,134,60.90909091
+283,Rome,1960,Aquatics,Swimming,"STEWARD, Natalie Alwyne",GBR,Women,100m backstroke,W,Silver,"April 30, 1943 (age 73 years)",NA,NA,154,70
+284,Rome,1960,Aquatics,Swimming,"ANDREW, Janice",AUS,Women,100m butterfly,W,Bronze,"January 5, 1943 (age 73 years)",162.56,NA,119,54.09090909
+285,Rome,1960,Aquatics,Swimming,"SCHULER, Carolyn Jane",USA,Women,100m butterfly,W,Gold,"January 5, 1943 (age 73 years)",167.64,NA,139,63.18181818
+286,Rome,1960,Aquatics,Swimming,"HEEMSKERK, Marianne Yvonne",NED,Women,100m butterfly,W,Silver,"August 28, 1944 (age 72 years)",NA,NA,121,55
+287,Rome,1960,Aquatics,Swimming,"DOS SANTOS, Manoel",BRA,Men,100m freestyle,M,Bronze,"July 23, 1988 (age 28 years)",NA,NA,139,63.18181818
+288,Rome,1960,Aquatics,Swimming,"DEVITT, John",AUS,Men,100m freestyle,M,Gold,NA,185.42,NA,187,85
+289,Rome,1960,Aquatics,Swimming,"LARSON, Lance Melvin",USA,Men,100m freestyle,M,Silver,"July 3, 1940 (age 76 years)",185.42,NA,174,79.09090909
+290,Rome,1960,Aquatics,Swimming,"STEWARD, Natalie Alwyne",GBR,Women,100m freestyle,W,Bronze,"April 30, 1943 (age 73 years)",NA,NA,154,70
+291,Rome,1960,Aquatics,Swimming,"FRASER, Dawn",AUS,Women,100m freestyle,W,Gold,"September 4, 1937 (age 79 years)",172.72,NA,148,67.27272727
+292,Rome,1960,Aquatics,Swimming,"VON SALTZA, Susan Christina",USA,Women,100m freestyle,W,Silver,"January 13, 1944 (age 72 years)",NA,NA,139,63.18181818
+293,Rome,1960,Aquatics,Swimming,"BREEN, George Thomas",USA,Men,1500m freestyle,M,Bronze,"July 19, 1935 (age 81 years)",182.88,NA,183,83.18181818
+294,Rome,1960,Aquatics,Swimming,"KONRADS, John (Jon)",AUS,Men,1500m freestyle,M,Gold,"May 21, 1942 (age 74 years)",177.8,NA,NA,#VALUE!
+295,Rome,1960,Aquatics,Swimming,"ROSE, Murray",AUS,Men,1500m freestyle,M,Silver,6-Jan-39,185.42,21,176,80
+296,Rome,1960,Aquatics,Swimming,"MENSONIDES, Wieger Emile",NED,Men,200m breaststroke,M,Bronze,"July 12, 1938 (age 78 years)",177.8,NA,179,81.36363636
+297,Rome,1960,Aquatics,Swimming,"MULLIKEN, William Danforth",USA,Men,200m breaststroke,M,Gold,27-Aug-39,187.96,21,183,83.18181818
+298,Rome,1960,Aquatics,Swimming,"OSAKI, Yoshihiko",JPN,Men,200m breaststroke,M,Silver,27-Feb-39,175.26,21,150,68.18181818
+299,Rome,1960,Aquatics,Swimming,"GÉBEL, Barbara",EUA,Women,200m breaststroke,W,Bronze,NA,NA,NA,NA,#VALUE!
+300,Rome,1960,Aquatics,Swimming,"LONSBROUGH, Anita",GBR,Women,200m breaststroke,W,Gold,"August 10, 1941 (age 75 years)",NA,NA,154,70
+301,Rome,1960,Aquatics,Swimming,"URSELMANN, Wiltrud",EUA,Women,200m breaststroke,W,Silver,"May 12, 1942 (age 74 years)",175.26,NA,161,73.18181818
+302,Rome,1960,Aquatics,Swimming,"GILLANDERS, John David",USA,Men,200m butterfly,M,Bronze,NA,180.34,NA,154,70
+303,Rome,1960,Aquatics,Swimming,"TROY, Michael Francis",USA,Men,200m butterfly,M,Gold,"October 3, 1940 (age 76 years)",185.42,NA,170,77.27272727
+304,Rome,1960,Aquatics,Swimming,"HAYES, Neville",AUS,Men,200m butterfly,M,Silver,"December 2, 1943 (age 72 years)",182.88,NA,176,80
+305,Rome,1960,Aquatics,Swimming,"KONRADS, John (Jon)",AUS,Men,400m freestyle,M,Bronze,"May 21, 1942 (age 74 years)",177.8,NA,NA,#VALUE!
+306,Rome,1960,Aquatics,Swimming,"ROSE, Murray",AUS,Men,400m freestyle,M,Gold,6-Jan-39,185.42,21,176,80
+307,Rome,1960,Aquatics,Swimming,"YAMANAKA, Tsuyoshi",JPN,Men,400m freestyle,M,Silver,"January 18, 1939 (age 77 years)",170.18,NA,165,75
+308,Rome,1960,Aquatics,Swimming,"LAGERBERG, Catharina (Tineke)",NED,Women,400m freestyle,W,Bronze,"January 30, 1941 (age 75 years)",149.86,NA,NA,#VALUE!
+309,Rome,1960,Aquatics,Swimming,"VON SALTZA, Susan Christina",USA,Women,400m freestyle,W,Gold,"January 13, 1944 (age 72 years)",NA,NA,139,63.18181818
+310,Rome,1960,Aquatics,Swimming,"CEDERQVIST, Jane",SWE,Women,400m freestyle,W,Silver,"July 1, 1945 (age 71 years)",172.72,NA,146,66.36363636
+311,Tokyo,1964,Aquatics,Swimming,"DUENKEL, Virginia Ruth",USA,Women,100m backstroke,W,Bronze,"March 7, 1947 (age 69 years)",170.18,NA,134,60.90909091
+312,Tokyo,1964,Aquatics,Swimming,"FERGUSON, Kathleen Jean",USA,Women,100m backstroke,W,Gold,NA,NA,NA,NA,#VALUE!
+313,Tokyo,1964,Aquatics,Swimming,"CARON, Christine (Kiki)",FRA,Women,100m backstroke,W,Silver,NA,NA,NA,NA,#VALUE!
+314,Tokyo,1964,Aquatics,Swimming,"ELLIS, Kathleen",USA,Women,100m butterfly,W,Bronze,NA,NA,NA,130,59.09090909
+315,Tokyo,1964,Aquatics,Swimming,"STOUDER, Sharon Marie",USA,Women,100m butterfly,W,Gold,NA,172.72,NA,134,60.90909091
+316,Tokyo,1964,Aquatics,Swimming,"KOK, Aagje Ada",NED,Women,100m butterfly,W,Silver,"June 6, 1947 (age 69 years)",182.88,NA,187,85
+317,Tokyo,1964,Aquatics,Swimming,"KLEIN, Hans-Joachim",EUA,Men,100m freestyle,M,Bronze,"December 21, 1947 (age 68 years)",NA,NA,176,80
+318,Tokyo,1964,Aquatics,Swimming,"SCHOLLANDER, Donald Arthur",USA,Men,100m freestyle,M,Gold,"April 30, 1946 (age 70 years)",180.34,NA,174,79.09090909
+319,Tokyo,1964,Aquatics,Swimming,"MCGREGOR, Robert Bilsland",GBR,Men,100m freestyle,M,Silver,NA,NA,NA,176,80
+320,Tokyo,1964,Aquatics,Swimming,"ELLIS, Kathleen",USA,Women,100m freestyle,W,Bronze,NA,NA,NA,130,59.09090909
+321,Tokyo,1964,Aquatics,Swimming,"FRASER, Dawn",AUS,Women,100m freestyle,W,Gold,"September 4, 1937 (age 79 years)",172.72,NA,148,67.27272727
+322,Tokyo,1964,Aquatics,Swimming,"STOUDER, Sharon Marie",USA,Women,100m freestyle,W,Silver,9-Nov-48,172.72,15,134,60.90909091
+323,Tokyo,1964,Aquatics,Swimming,"WOOD, Allan",AUS,Men,1500m freestyle,M,Bronze,"December 1, 1935 (age 80 years)",165.1,NA,150,68.18181818
+324,Tokyo,1964,Aquatics,Swimming,"WINDLE, Robert George",AUS,Men,1500m freestyle,M,Gold,"November 7, 1944 (age 72 years)",185.42,NA,170,77.27272727
+325,Tokyo,1964,Aquatics,Swimming,"NELSON, John Mauer",USA,Men,1500m freestyle,M,Silver,NA,NA,NA,146,66.36363636
+326,Tokyo,1964,Aquatics,Swimming,"BENNETT, Robert Earl",USA,Men,200m backstroke,M,Bronze,NA,182.88,NA,172,78.18181818
+327,Tokyo,1964,Aquatics,Swimming,"GRAEF, Jedward Richard",USA,Men,200m backstroke,M,Gold,NA,NA,NA,201,91.36363636
+328,Tokyo,1964,Aquatics,Swimming,"DILLEY, Gary J.",USA,Men,200m backstroke,M,Silver,"January 15, 1945 (age 71 years)",185.42,NA,165,75
+329,Tokyo,1964,Aquatics,Swimming,"JASTREMSKI, Chester Andrew",USA,Men,200m breaststroke,M,Bronze,12-Jan-41,175.26,23,176,80
+330,Tokyo,1964,Aquatics,Swimming,"O'BRIEN, Lawrence Ian",AUS,Men,200m breaststroke,M,Gold,NA,NA,NA,NA,#VALUE!
+331,Tokyo,1964,Aquatics,Swimming,"PROKOPENKO, Georgi",URS,Men,200m breaststroke,M,Silver,"February 21, 1937 (age 79 years)",180.34,NA,NA,#VALUE!
+332,Tokyo,1964,Aquatics,Swimming,"BABANINA, Svetlana",URS,Women,200m breaststroke,W,Bronze,"February 4, 1943 (age 73 years)",172.72,NA,137,62.27272727
+333,Tokyo,1964,Aquatics,Swimming,"PROZUMENSCHIKOVA-STEPANOVA, Galina",URS,Women,200m breaststroke,W,Gold,26-Nov-48,170.18,15,NA,#VALUE!
+334,Tokyo,1964,Aquatics,Swimming,"KOLB, Claudia Anne",USA,Women,200m breaststroke,W,Silver,"December 19, 1949 (age 66 years)",170.18,NA,134,60.90909091
+335,Tokyo,1964,Aquatics,Swimming,"SCHMIDT, Frederick Weber",USA,Men,200m butterfly,M,Bronze,NA,187.96,NA,185,84.09090909
+336,Tokyo,1964,Aquatics,Swimming,"BERRY, Kevin John",AUS,Men,200m butterfly,M,Gold,10-Apr-45,172.72,19,157,71.36363636
+337,Tokyo,1964,Aquatics,Swimming,"ROBIE, Carl Joseph III",USA,Men,200m butterfly,M,Silver,2-May-45,177.8,19,161,73.18181818
+338,Tokyo,1964,Aquatics,Swimming,"WOOD, Allan",AUS,Men,400m freestyle,M,Bronze,"December 1, 1935 (age 80 years)",165.1,NA,150,68.18181818
+339,Tokyo,1964,Aquatics,Swimming,"SCHOLLANDER, Donald Arthur",USA,Men,400m freestyle,M,Gold,"April 30, 1946 (age 70 years)",180.34,NA,174,79.09090909
+340,Tokyo,1964,Aquatics,Swimming,"WIEGAND, Frank",EUA,Men,400m freestyle,M,Silver,"March 15, 1943 (age 73 years)",180.34,NA,154,70
+341,Tokyo,1964,Aquatics,Swimming,"STICKLES, Therese Lee",USA,Women,400m freestyle,W,Bronze,NA,NA,NA,NA,#VALUE!
+342,Tokyo,1964,Aquatics,Swimming,"DUENKEL, Virginia Ruth",USA,Women,400m freestyle,W,Gold,"March 7, 1947 (age 69 years)",170.18,NA,134,60.90909091
+343,Tokyo,1964,Aquatics,Swimming,"RAMENOFSKY, Marilyn",USA,Women,400m freestyle,W,Silver,"August 20, 1946 (age 70 years)",170.18,NA,134,60.90909091
+344,Tokyo,1964,Aquatics,Swimming,"HETZ, Gerhard",EUA,Men,400m individual medley,M,Bronze,13-Jul-42,177.8,22,154,70
+345,Tokyo,1964,Aquatics,Swimming,"ROTH, Richard William",USA,Men,400m individual medley,M,Gold,NA,182.88,NA,185,84.09090909
+346,Tokyo,1964,Aquatics,Swimming,"SAARI, Roy Allen",USA,Men,400m individual medley,M,Silver,NA,187.96,NA,190,86.36363636
+347,Tokyo,1964,Aquatics,Swimming,"RANDALL, Martha Irene",USA,Women,400m individual medley,W,Bronze,"June 12, 1948 (age 68 years)",165.1,NA,126,57.27272727
+348,Tokyo,1964,Aquatics,Swimming,"DE VARONA, Donna Elizabeth",USA,Women,400m individual medley,W,Gold,"April 26, 1947 (age 69 years)",167.64,NA,134,60.90909091
+349,Tokyo,1964,Aquatics,Swimming,"FINNERAN, Sharon Evans",USA,Women,400m individual medley,W,Silver,"February 4, 1946 (age 70 years)",160.02,NA,110,50
+350,Mexico,1968,Aquatics,Swimming,"MILLS, Ronald P.",USA,Men,100m backstroke,M,Bronze,NA,NA,NA,NA,#VALUE!
+351,Mexico,1968,Aquatics,Swimming,"MATTHES, Roland",GDR,Men,100m backstroke,M,Gold,"November 17, 1950 (age 65 years)",NA,NA,163,74.09090909
+352,Mexico,1968,Aquatics,Swimming,"HICKCOX, Charles Buchanan",USA,Men,100m backstroke,M,Silver,6-Feb-47,190.5,21,176,80
+353,Mexico,1968,Aquatics,Swimming,"SWAGERTY, Jane Ellen",USA,Women,100m backstroke,W,Bronze,"July 30, 1951 (age 65 years)",172.72,NA,143,65
+354,Mexico,1968,Aquatics,Swimming,"HALL, Kaye Marie",USA,Women,100m backstroke,W,Gold,NA,170.18,NA,143,65
+355,Mexico,1968,Aquatics,Swimming,"TANNER, Elaine",CAN,Women,100m backstroke,W,Silver,"February 22, 1951 (age 65 years)",160.02,NA,134,60.90909091
+356,Mexico,1968,Aquatics,Swimming,"PANKIN, Nikolai",URS,Men,100m breaststroke,M,Bronze,"January 2, 1949 (age 67 years)",177.8,NA,NA,#VALUE!
+357,Mexico,1968,Aquatics,Swimming,"MCKENZIE, Donald Ward Jr.",USA,Men,100m breaststroke,M,Gold,11-May-47,185.42,21,176,80
+358,Mexico,1968,Aquatics,Swimming,"KOSINSKY, Vladimir",URS,Men,100m breaststroke,M,Silver,NA,NA,NA,148,67.27272727
+359,Mexico,1968,Aquatics,Swimming,"WICHMAN, Sharon Lynn",USA,Women,100m breaststroke,W,Bronze,NA,175.26,NA,132,60
+360,Mexico,1968,Aquatics,Swimming,"BJEDOV, Djurdjica",YUG,Women,100m breaststroke,W,Gold,NA,170.18,NA,NA,#VALUE!
+361,Mexico,1968,Aquatics,Swimming,"PROZUMENSCHIKOVA-STEPANOVA, Galina",URS,Women,100m breaststroke,W,Silver,NA,170.18,NA,NA,#VALUE!
+362,Mexico,1968,Aquatics,Swimming,"WALES, Ross Elliott",USA,Men,100m butterfly,M,Bronze,NA,NA,NA,165,75
+363,Mexico,1968,Aquatics,Swimming,"RUSSELL, Douglas Albert",USA,Men,100m butterfly,M,Gold,NA,172.72,NA,150,68.18181818
+364,Mexico,1968,Aquatics,Swimming,"SPITZ, Mark",USA,Men,100m butterfly,M,Silver,"February 10, 1950 (age 66 years)",182.88,NA,161,73.18181818
+365,Mexico,1968,Aquatics,Swimming,"SHIELDS, Susanne Marie",USA,Women,100m butterfly,W,Bronze,NA,170.18,NA,132,60
+366,Mexico,1968,Aquatics,Swimming,"MCCLEMENTS, Lynette",AUS,Women,100m butterfly,W,Gold,"May 11, 1951 (age 65 years)",177.8,NA,146,66.36363636
+367,Mexico,1968,Aquatics,Swimming,"DANIEL, Eleanor Suzanne",USA,Women,100m butterfly,W,Silver,"June 11, 1950 (age 66 years)",172.72,NA,143,65
+368,Mexico,1968,Aquatics,Swimming,"SPITZ, Mark",USA,Men,100m freestyle,M,Bronze,"February 10, 1950 (age 66 years)",182.88,NA,161,73.18181818
+369,Mexico,1968,Aquatics,Swimming,"WENDEN, Michael Vincent",AUS,Men,100m freestyle,M,Gold,NA,182.88,NA,168,76.36363636
+370,Mexico,1968,Aquatics,Swimming,"WALSH, Kenneth Marshall",USA,Men,100m freestyle,M,Silver,"February 11, 1945 (age 71 years)",187.96,NA,185,84.09090909
+371,Mexico,1968,Aquatics,Swimming,"GUSTAVSON, Linda Lee",USA,Women,100m freestyle,W,Bronze,"November 30, 1949 (age 66 years)",175.26,NA,134,60.90909091
+372,Mexico,1968,Aquatics,Swimming,"HENNE, Jane Margo",USA,Women,100m freestyle,W,Gold,NA,NA,NA,NA,#VALUE!
+373,Mexico,1968,Aquatics,Swimming,"PEDERSEN, Susan Jane",USA,Women,100m freestyle,W,Silver,NA,175.26,NA,154,70
+374,Mexico,1968,Aquatics,Swimming,"BROUGH, Gregory",AUS,Men,1500m freestyle,M,Bronze,26-Mar-51,187.96,17,174,79.09090909
+375,Mexico,1968,Aquatics,Swimming,"BURTON, Michael Jay",USA,Men,1500m freestyle,M,Gold,"July 3, 1947 (age 69 years)",175.26,NA,154,70
+376,Mexico,1968,Aquatics,Swimming,"KINSELLA, John Pitann",USA,Men,1500m freestyle,M,Silver,"August 26, 1952 (age 64 years)",193.04,NA,201,91.36363636
+377,Mexico,1968,Aquatics,Swimming,"HORSLEY, Jack S.",USA,Men,200m backstroke,M,Bronze,"September 25, 1951 (age 65 years)",182.88,NA,141,64.09090909
+378,Mexico,1968,Aquatics,Swimming,"MATTHES, Roland",GDR,Men,200m backstroke,M,Gold,"November 17, 1950 (age 65 years)",NA,NA,163,74.09090909
+379,Mexico,1968,Aquatics,Swimming,"IVEY, Mitchell",USA,Men,200m backstroke,M,Silver,"September 28, 1979 (age 37 years)",NA,NA,159,72.27272727
+380,Mexico,1968,Aquatics,Swimming,"HALL, Kaye Marie",USA,Women,200m backstroke,W,Bronze,NA,170.18,NA,143,65
+381,Mexico,1968,Aquatics,Swimming,"WATSON, Lillian Debra",USA,Women,200m backstroke,W,Gold,"July 11, 1950 (age 66 years)",175.26,NA,146,66.36363636
+382,Mexico,1968,Aquatics,Swimming,"TANNER, Elaine",CAN,Women,200m backstroke,W,Silver,"February 22, 1951 (age 65 years)",160.02,NA,134,60.90909091
+383,Mexico,1968,Aquatics,Swimming,"JOB, Brian Gregory",USA,Men,200m breaststroke,M,Bronze,"November 29, 1951 (age 64 years)",180.34,NA,163,74.09090909
+384,Mexico,1968,Aquatics,Swimming,"MUNOZ, Felipe",MEX,Men,200m breaststroke,M,Gold,"February 3, 1951 (age 65 years)",180.34,NA,NA,#VALUE!
+385,Mexico,1968,Aquatics,Swimming,"KOSINSKY, Vladimir",URS,Men,200m breaststroke,M,Silver,26-Feb-45,NA,23,148,67.27272727
+386,Mexico,1968,Aquatics,Swimming,"PROZUMENSCHIKOVA-STEPANOVA, Galina",URS,Women,200m breaststroke,W,Bronze,26-Nov-48,170.18,19,NA,#VALUE!
+387,Mexico,1968,Aquatics,Swimming,"WICHMAN, Sharon Lynn",USA,Women,200m breaststroke,W,Gold,"May 13, 1952 (age 64 years)",175.26,NA,132,60
+388,Mexico,1968,Aquatics,Swimming,"BJEDOV, Djurdjica",YUG,Women,200m breaststroke,W,Silver,"April 5, 1947 (age 69 years)",170.18,NA,NA,#VALUE!
+389,Mexico,1968,Aquatics,Swimming,"FERRIS, John Edward",USA,Men,200m butterfly,M,Bronze,"July 24, 1949 (age 67 years)",180.34,NA,165,75
+390,Mexico,1968,Aquatics,Swimming,"ROBIE, Carl Joseph III",USA,Men,200m butterfly,M,Gold,2-May-45,177.8,23,161,73.18181818
+391,Mexico,1968,Aquatics,Swimming,"WOODROFFE, Martyn John",GBR,Men,200m butterfly,M,Silver,"September 8, 1950 (age 66 years)",NA,NA,154,70
+392,Mexico,1968,Aquatics,Swimming,"DANIEL, Eleanor Suzanne",USA,Women,200m butterfly,W,Bronze,"June 11, 1950 (age 66 years)",172.72,NA,143,65
+393,Mexico,1968,Aquatics,Swimming,"KOK, Aagje Ada",NED,Women,200m butterfly,W,Gold,"June 6, 1947 (age 69 years)",182.88,NA,187,85
+394,Mexico,1968,Aquatics,Swimming,"LINDNER, Helga",GDR,Women,200m butterfly,W,Silver,NA,170.18,NA,146,66.36363636
+395,Mexico,1968,Aquatics,Swimming,"NELSON, John Mauer",USA,Men,200m freestyle,M,Bronze,NA,NA,NA,146,66.36363636
+396,Mexico,1968,Aquatics,Swimming,"WENDEN, Michael Vincent",AUS,Men,200m freestyle,M,Gold,NA,182.88,NA,168,76.36363636
+397,Mexico,1968,Aquatics,Swimming,"SCHOLLANDER, Donald Arthur",USA,Men,200m freestyle,M,Silver,NA,180.34,NA,174,79.09090909
+398,Mexico,1968,Aquatics,Swimming,"BARKMAN, Jane Louise",USA,Women,200m freestyle,W,Bronze,NA,170.18,NA,134,60.90909091
+399,Mexico,1968,Aquatics,Swimming,"MEYER, Deborah",USA,Women,200m freestyle,W,Gold,NA,170.18,NA,115,52.27272727
+400,Mexico,1968,Aquatics,Swimming,"HENNE, Jane Margo",USA,Women,200m freestyle,W,Silver,NA,NA,NA,NA,#VALUE!
+401,Mexico,1968,Aquatics,Swimming,"FERRIS, John Edward",USA,Men,200m individual medley,M,Bronze,"July 24, 1949 (age 67 years)",180.34,NA,165,75
+402,Mexico,1968,Aquatics,Swimming,"HICKCOX, Charles Buchanan",USA,Men,200m individual medley,M,Gold,6-Feb-47,190.5,21,176,80
+403,Mexico,1968,Aquatics,Swimming,"BUCKINGHAM, Gregory F.",USA,Men,200m individual medley,M,Silver,29-Jul-45,NA,23,NA,#VALUE!
+404,Mexico,1968,Aquatics,Swimming,"HENNE, Jane Margo",USA,Women,200m individual medley,W,Bronze,NA,NA,NA,NA,#VALUE!
+405,Mexico,1968,Aquatics,Swimming,"KOLB, Claudia Anne",USA,Women,200m individual medley,W,Gold,"December 19, 1949 (age 66 years)",170.18,NA,134,60.90909091
+406,Mexico,1968,Aquatics,Swimming,"PEDERSEN, Susan Jane",USA,Women,200m individual medley,W,Silver,NA,175.26,NA,154,70
+407,Mexico,1968,Aquatics,Swimming,"MOSCONI, Alain",FRA,Men,400m freestyle,M,Bronze,"September 9, 1949 (age 67 years)",180.34,NA,176,80
+408,Mexico,1968,Aquatics,Swimming,"BURTON, Michael Jay",USA,Men,400m freestyle,M,Gold,"July 3, 1947 (age 69 years)",175.26,NA,154,70
+409,Mexico,1968,Aquatics,Swimming,"HUTTON, Ralph",CAN,Men,400m freestyle,M,Silver,"March 6, 1948 (age 68 years)",182.88,NA,190,86.36363636
+410,Mexico,1968,Aquatics,Swimming,"MORAS, Karen Lynne",AUS,Women,400m freestyle,W,Bronze,"January 6, 1954 (age 62 years)",167.64,NA,117,53.18181818
+411,Mexico,1968,Aquatics,Swimming,"MEYER, Deborah",USA,Women,400m freestyle,W,Gold,"August 14, 1952 (age 64 years)",170.18,NA,115,52.27272727
+412,Mexico,1968,Aquatics,Swimming,"GUSTAVSON, Linda Lee",USA,Women,400m freestyle,W,Silver,"November 30, 1949 (age 66 years)",175.26,NA,134,60.90909091
+413,Mexico,1968,Aquatics,Swimming,"HOLTHAUS, Michael",FRG,Men,400m individual medley,M,Bronze,"July 13, 1950 (age 66 years)",NA,NA,168,76.36363636
+414,Mexico,1968,Aquatics,Swimming,"HICKCOX, Charles Buchanan",USA,Men,400m individual medley,M,Gold,6-Feb-47,190.5,21,176,80
+415,Mexico,1968,Aquatics,Swimming,"HALL, Gary Wayne",USA,Men,400m individual medley,M,Silver,NA,198.12,NA,163,74.09090909
+416,Mexico,1968,Aquatics,Swimming,"STEINBACH, Sabine",GDR,Women,400m individual medley,W,Bronze,"July 18, 1952 (age 64 years)",165.1,NA,123,55.90909091
+417,Mexico,1968,Aquatics,Swimming,"KOLB, Claudia Anne",USA,Women,400m individual medley,W,Gold,"December 19, 1949 (age 66 years)",170.18,NA,134,60.90909091
+418,Mexico,1968,Aquatics,Swimming,"VIDALI, Lynn Marie",USA,Women,400m individual medley,W,Silver,"May 26, 1952 (age 64 years)",170.18,NA,141,64.09090909
+419,Mexico,1968,Aquatics,Swimming,"RAMIREZ, Maria Teresa",MEX,Women,800m freestyle,W,Bronze,"August 15, 1954 (age 62 years)",170.18,NA,NA,#VALUE!
+420,Mexico,1968,Aquatics,Swimming,"MEYER, Deborah",USA,Women,800m freestyle,W,Gold,"August 14, 1952 (age 64 years)",170.18,NA,115,52.27272727
+421,Mexico,1968,Aquatics,Swimming,"KRUSE, Pamela Jean",USA,Women,800m freestyle,W,Silver,"June 3, 1950 (age 66 years)",165.1,NA,130,59.09090909
+422,Munich,1972,Aquatics,Swimming,"MURPHY, John Joseph",USA,Men,100m backstroke,M,Bronze,24-Sep-22,NA,49,194,88.18181818
+423,Munich,1972,Aquatics,Swimming,"MATTHES, Roland",GDR,Men,100m backstroke,M,Gold,"November 17, 1950 (age 65 years)",NA,NA,163,74.09090909
+424,Munich,1972,Aquatics,Swimming,"STAMM, Michael Eugene",USA,Men,100m backstroke,M,Silver,NA,190.5,NA,179,81.36363636
+425,Munich,1972,Aquatics,Swimming,"ATWOOD, Susanne Jean",USA,Women,100m backstroke,W,Bronze,"June 5, 1953 (age 63 years)",170.18,NA,146,66.36363636
+426,Munich,1972,Aquatics,Swimming,"BELOTE, Melissa Louise",USA,Women,100m backstroke,W,Gold,"October 16, 1956 (age 60 years)",170.18,NA,132,60
+427,Munich,1972,Aquatics,Swimming,"GYARMATI, Andrea",HUN,Women,100m backstroke,W,Silver,"April 15, 1954 (age 62 years)",170.18,NA,141,64.09090909
+428,Munich,1972,Aquatics,Swimming,"HENCKEN, John Frederick",USA,Men,100m breaststroke,M,Bronze,"May 29, 1954 (age 62 years)",182.88,NA,170,77.27272727
+429,Munich,1972,Aquatics,Swimming,"TAGUCHI, Nobutaka",JPN,Men,100m breaststroke,M,Gold,"June 18, 1951 (age 65 years)",172.72,NA,150,68.18181818
+430,Munich,1972,Aquatics,Swimming,"BRUCE, Thomas Edwin",USA,Men,100m breaststroke,M,Silver,NA,NA,NA,161,73.18181818
+431,Munich,1972,Aquatics,Swimming,"WHITFIELD, Beverley Joy",AUS,Women,100m breaststroke,W,Bronze,15-Jun-54,162.56,18,126,57.27272727
+432,Munich,1972,Aquatics,Swimming,"CARR, Catherine L.",USA,Women,100m breaststroke,W,Gold,"May 27, 1954 (age 62 years)",170.18,NA,115,52.27272727
+433,Munich,1972,Aquatics,Swimming,"PROZUMENSCHIKOVA-STEPANOVA, Galina",URS,Women,100m breaststroke,W,Silver,26-Nov-48,170.18,23,NA,#VALUE!
+434,Munich,1972,Aquatics,Swimming,"HEIDENREICH, Jerry Alan",USA,Men,100m butterfly,M,Bronze,4-Feb-50,182.88,22,161,73.18181818
+435,Munich,1972,Aquatics,Swimming,"SPITZ, Mark",USA,Men,100m butterfly,M,Gold,"February 10, 1950 (age 66 years)",182.88,NA,161,73.18181818
+436,Munich,1972,Aquatics,Swimming,"ROBERTSON, Bruce Richard",CAN,Men,100m butterfly,M,Silver,NA,177.8,NA,154,70
+437,Munich,1972,Aquatics,Swimming,"GYARMATI, Andrea",HUN,Women,100m butterfly,W,Bronze,"April 15, 1954 (age 62 years)",170.18,NA,141,64.09090909
+438,Munich,1972,Aquatics,Swimming,"AOKI, Mayumi",JPN,Women,100m butterfly,W,Gold,"May 1, 1953 (age 63 years)",165.1,NA,139,63.18181818
+439,Munich,1972,Aquatics,Swimming,"BEIER, Roswitha",GDR,Women,100m butterfly,W,Silver,"December 22, 1956 (age 59 years)",160.02,NA,115,52.27272727
+440,Munich,1972,Aquatics,Swimming,"BURE, Vladimir",URS,Men,100m freestyle,M,Bronze,"December 4, 1950 (age 65 years)",180.34,NA,190,86.36363636
+441,Munich,1972,Aquatics,Swimming,"SPITZ, Mark",USA,Men,100m freestyle,M,Gold,"February 10, 1950 (age 66 years)",182.88,NA,161,73.18181818
+442,Munich,1972,Aquatics,Swimming,"HEIDENREICH, Jerry Alan",USA,Men,100m freestyle,M,Silver,4-Feb-50,182.88,22,161,73.18181818
+443,Munich,1972,Aquatics,Swimming,"GOULD, Shane",AUS,Women,100m freestyle,W,Bronze,NA,170.18,NA,130,59.09090909
+444,Munich,1972,Aquatics,Swimming,"NEILSON, Alexandra Lynn",USA,Women,100m freestyle,W,Gold,NA,NA,NA,139,63.18181818
+445,Munich,1972,Aquatics,Swimming,"BABASHOFF, Shirley Farber",USA,Women,100m freestyle,W,Silver,NA,NA,NA,NA,#VALUE!
+446,Munich,1972,Aquatics,Swimming,"NORTHWAY, Douglas Dale",USA,Men,1500m freestyle,M,Bronze,NA,180.34,NA,58-73,#VALUE!
+447,Munich,1972,Aquatics,Swimming,"BURTON, Michael Jay",USA,Men,1500m freestyle,M,Gold,NA,175.26,NA,154,70
+448,Munich,1972,Aquatics,Swimming,"WINDEATT, Graham Claud",AUS,Men,1500m freestyle,M,Silver,"August 5, 1954 (age 62 years)",187.96,NA,172,78.18181818
+449,Munich,1972,Aquatics,Swimming,"IVEY, Mitchell",USA,Men,200m backstroke,M,Bronze,"September 28, 1979 (age 37 years)",NA,NA,159,72.27272727
+450,Munich,1972,Aquatics,Swimming,"MATTHES, Roland",GDR,Men,200m backstroke,M,Gold,"November 17, 1950 (age 65 years)",NA,NA,163,74.09090909
+451,Munich,1972,Aquatics,Swimming,"STAMM, Michael Eugene",USA,Men,200m backstroke,M,Silver,NA,190.5,NA,179,81.36363636
+452,Munich,1972,Aquatics,Swimming,"GURR, Donna Marie",CAN,Women,200m backstroke,W,Bronze,"February 18, 1955 (age 61 years)",167.64,NA,110,50
+453,Munich,1972,Aquatics,Swimming,"BELOTE, Melissa Louise",USA,Women,200m backstroke,W,Gold,"October 16, 1956 (age 60 years)",170.18,NA,132,60
+454,Munich,1972,Aquatics,Swimming,"ATWOOD, Susanne Jean",USA,Women,200m backstroke,W,Silver,"June 5, 1953 (age 63 years)",170.18,NA,146,66.36363636
+455,Munich,1972,Aquatics,Swimming,"TAGUCHI, Nobutaka",JPN,Men,200m breaststroke,M,Bronze,"June 18, 1951 (age 65 years)",172.72,NA,150,68.18181818
+456,Munich,1972,Aquatics,Swimming,"HENCKEN, John Frederick",USA,Men,200m breaststroke,M,Gold,"May 29, 1954 (age 62 years)",182.88,NA,170,77.27272727
+457,Munich,1972,Aquatics,Swimming,"WILKIE, David Andrew",GBR,Men,200m breaststroke,M,Silver,"March 8, 1954 (age 62 years)",182.88,NA,168,76.36363636
+458,Munich,1972,Aquatics,Swimming,"PROZUMENSCHIKOVA-STEPANOVA, Galina",URS,Women,200m breaststroke,W,Bronze,26-Nov-48,170.18,23,NA,#VALUE!
+459,Munich,1972,Aquatics,Swimming,"WHITFIELD, Beverley Joy",AUS,Women,200m breaststroke,W,Gold,15-Jun-54,162.56,18,126,57.27272727
+460,Munich,1972,Aquatics,Swimming,"SCHOENFIELD, Dana Lee",USA,Women,200m breaststroke,W,Silver,NA,172.72,NA,146,66.36363636
+461,Munich,1972,Aquatics,Swimming,"BACKHAUS, Robin James",USA,Men,200m butterfly,M,Bronze,"February 12, 1955 (age 61 years)",182.88,NA,170,77.27272727
+462,Munich,1972,Aquatics,Swimming,"SPITZ, Mark",USA,Men,200m butterfly,M,Gold,"February 10, 1950 (age 66 years)",182.88,NA,161,73.18181818
+463,Munich,1972,Aquatics,Swimming,"HALL, Gary Wayne",USA,Men,200m butterfly,M,Silver,NA,198.12,NA,163,74.09090909
+464,Munich,1972,Aquatics,Swimming,"DANIEL, Eleanor Suzanne",USA,Women,200m butterfly,W,Bronze,"June 11, 1950 (age 66 years)",172.72,NA,143,65
+465,Munich,1972,Aquatics,Swimming,"MOE-THORNTON, Karen Patricia",USA,Women,200m butterfly,W,Gold,NA,NA,NA,123,55.90909091
+466,Munich,1972,Aquatics,Swimming,"COLELLA, Lynn Ann",USA,Women,200m butterfly,W,Silver,"June 13, 1950 (age 66 years)",170.18,NA,134,60.90909091
+467,Munich,1972,Aquatics,Swimming,"LAMPE, Werner",FRG,Men,200m freestyle,M,Bronze,1950,195.58,22,176,80
+468,Munich,1972,Aquatics,Swimming,"SPITZ, Mark",USA,Men,200m freestyle,M,Gold,"February 10, 1950 (age 66 years)",182.88,NA,161,73.18181818
+469,Munich,1972,Aquatics,Swimming,"GENTER, Robert Steven",USA,Men,200m freestyle,M,Silver,"January 4, 1951 (age 65 years)",195.58,NA,185,84.09090909
+470,Munich,1972,Aquatics,Swimming,"ROTHHAMMER, Keena Ruth",USA,Women,200m freestyle,W,Bronze,"February 26, 1957 (age 59 years)",175.26,NA,146,66.36363636
+471,Munich,1972,Aquatics,Swimming,"GOULD, Shane",AUS,Women,200m freestyle,W,Gold,"November 23, 1956 (age 59 years)",170.18,NA,130,59.09090909
+472,Munich,1972,Aquatics,Swimming,"BABASHOFF, Shirley Farber",USA,Women,200m freestyle,W,Silver,NA,NA,NA,NA,#VALUE!
+473,Munich,1972,Aquatics,Swimming,"FURNISS, Steven Charles",USA,Men,200m individual medley,M,Bronze,NA,193.04,NA,176,80
+474,Munich,1972,Aquatics,Swimming,"LARSSON, Gunnar",SWE,Men,200m individual medley,M,Gold,"May 12, 1951 (age 65 years)",185.42,NA,190,86.36363636
+475,Munich,1972,Aquatics,Swimming,"MCKEE, Alexander Timothy",USA,Men,200m individual medley,M,Silver,NA,172.72,NA,154,70
+476,Munich,1972,Aquatics,Swimming,"VIDALI, Lynn Marie",USA,Women,200m individual medley,W,Bronze,"May 26, 1952 (age 64 years)",170.18,NA,141,64.09090909
+477,Munich,1972,Aquatics,Swimming,"GOULD, Shane",AUS,Women,200m individual medley,W,Gold,"November 23, 1956 (age 59 years)",170.18,NA,130,59.09090909
+478,Munich,1972,Aquatics,Swimming,"ENDER, Kornelia",GDR,Women,200m individual medley,W,Silver,"October 25, 1958 (age 58 years)",172.72,NA,130,59.09090909
+479,Munich,1972,Aquatics,Swimming,"MCBREEN, Thomas Sean",USA,Men,400m freestyle,M,Bronze,NA,182.88,NA,154,70
+480,Munich,1972,Aquatics,Swimming,"COOPER, Bradford Paul",AUS,Men,400m freestyle,M,Gold,NA,160.02,NA,159,72.27272727
+481,Munich,1972,Aquatics,Swimming,"GENTER, Robert Steven",USA,Men,400m freestyle,M,Silver,NA,195.58,NA,185,84.09090909
+482,Munich,1972,Aquatics,Swimming,"WEGNER, Gudrun",GDR,Women,400m freestyle,W,Bronze,NA,175.26,NA,143,65
+483,Munich,1972,Aquatics,Swimming,"GOULD, Shane",AUS,Women,400m freestyle,W,Gold,NA,170.18,NA,130,59.09090909
+484,Munich,1972,Aquatics,Swimming,"CALLIGARIS, Novella",ITA,Women,400m freestyle,W,Silver,NA,162.56,NA,106,48.18181818
+485,Munich,1972,Aquatics,Swimming,"HARGITAY, Andras",HUN,Men,400m individual medley,M,Bronze,"March 17, 1956 (age 60 years)",187.96,NA,NA,#VALUE!
+486,Munich,1972,Aquatics,Swimming,"LARSSON, Gunnar",SWE,Men,400m individual medley,M,Gold,"May 12, 1951 (age 65 years)",185.42,NA,190,86.36363636
+487,Munich,1972,Aquatics,Swimming,"MCKEE, Alexander Timothy",USA,Men,400m individual medley,M,Silver,NA,172.72,NA,154,70
+488,Munich,1972,Aquatics,Swimming,"CALLIGARIS, Novella",ITA,Women,400m individual medley,W,Bronze,"December 27, 1954 (age 61 years)",162.56,NA,106,48.18181818
+489,Munich,1972,Aquatics,Swimming,"NEALL, Gail",AUS,Women,400m individual medley,W,Gold,"August 2, 1955 (age 61 years)",162.56,NA,115,52.27272727
+490,Munich,1972,Aquatics,Swimming,"CLIFF, Leslie",CAN,Women,400m individual medley,W,Silver,"March 11, 1955 (age 61 years)",172.72,NA,132,60
+491,Munich,1972,Aquatics,Swimming,"CALLIGARIS, Novella",ITA,Women,800m freestyle,W,Bronze,"December 27, 1954 (age 61 years)",162.56,NA,106,48.18181818
+492,Munich,1972,Aquatics,Swimming,"ROTHHAMMER, Keena Ruth",USA,Women,800m freestyle,W,Gold,"February 26, 1957 (age 59 years)",175.26,NA,146,66.36363636
+493,Munich,1972,Aquatics,Swimming,"GOULD, Shane",AUS,Women,800m freestyle,W,Silver,"November 23, 1956 (age 59 years)",170.18,NA,130,59.09090909
+494,Montreal,1976,Aquatics,Swimming,"MATTHES, Roland",GDR,Men,100m backstroke,M,Bronze,"November 17, 1950 (age 65 years)",NA,NA,163,74.09090909
+495,Montreal,1976,Aquatics,Swimming,"NABER, John Phillips",USA,Men,100m backstroke,M,Gold,NA,198.12,NA,194,88.18181818
+496,Montreal,1976,Aquatics,Swimming,"ROCCA, Peter Drake",USA,Men,100m backstroke,M,Silver,NA,190.5,NA,176,80
+497,Montreal,1976,Aquatics,Swimming,"GARAPICK, Nancy Ellen",CAN,Women,100m backstroke,W,Bronze,"September 24, 1961 (age 55 years)",167.64,NA,119,54.09090909
+498,Montreal,1976,Aquatics,Swimming,"RICHTER, Ulrike",GDR,Women,100m backstroke,W,Gold,"June 17, 1959 (age 57 years)",172.72,NA,146,66.36363636
+499,Montreal,1976,Aquatics,Swimming,"TREIBER, Birgit",GDR,Women,100m backstroke,W,Silver,"February 26, 1960 (age 56 years)",172.72,NA,146,66.36363636
+500,Montreal,1976,Aquatics,Swimming,"YOZAITIS, Arvidas",URS,Men,100m breaststroke,M,Bronze,"April 18, 1956 (age 60 years)",NA,NA,NA,#VALUE!
+501,Montreal,1976,Aquatics,Swimming,"HENCKEN, John Frederick",USA,Men,100m breaststroke,M,Gold,"May 29, 1954 (age 62 years)",182.88,NA,170,77.27272727
+502,Montreal,1976,Aquatics,Swimming,"WILKIE, David Andrew",GBR,Men,100m breaststroke,M,Silver,"March 8, 1954 (age 62 years)",182.88,NA,168,76.36363636
+503,Montreal,1976,Aquatics,Swimming,"KOSHEVAYA, Marina",URS,Women,100m breaststroke,W,Bronze,"April 1, 1960 (age 56 years)",NA,NA,128,58.18181818
+504,Montreal,1976,Aquatics,Swimming,"ANKE, Hannelore",GDR,Women,100m breaststroke,W,Gold,"December 8, 1957 (age 58 years)",160.02,NA,115,52.27272727
+505,Montreal,1976,Aquatics,Swimming,"RUSANOVA, Lyubov",URS,Women,100m breaststroke,W,Silver,"February 2, 1954 (age 62 years)",165.1,NA,143,65
+506,Montreal,1976,Aquatics,Swimming,"HALL, Gary Wayne",USA,Men,100m butterfly,M,Bronze,NA,198.12,NA,163,74.09090909
+507,Montreal,1976,Aquatics,Swimming,"VOGEL, Matthew Haynes",USA,Men,100m butterfly,M,Gold,NA,NA,NA,187,85
+508,Montreal,1976,Aquatics,Swimming,"BOTTOM, Joseph Stuart",USA,Men,100m butterfly,M,Silver,"April 18, 1955 (age 61 years)",195.58,NA,192,87.27272727
+509,Montreal,1976,Aquatics,Swimming,"BOGLIOLI, Wendy Lansbach",USA,Women,100m butterfly,W,Bronze,NA,NA,NA,141,64.09090909
+510,Montreal,1976,Aquatics,Swimming,"ENDER, Kornelia",GDR,Women,100m butterfly,W,Gold,"October 25, 1958 (age 58 years)",172.72,NA,130,59.09090909
+511,Montreal,1976,Aquatics,Swimming,"POLLACK, Andrea",GDR,Women,100m butterfly,W,Silver,"May 8, 1961 (age 55 years)",165.1,NA,134,60.90909091
+512,Montreal,1976,Aquatics,Swimming,"NOCKE, Peter",FRG,Men,100m freestyle,M,Bronze,"October 25, 1955 (age 61 years)",182.88,NA,NA,#VALUE!
+513,Montreal,1976,Aquatics,Swimming,"MONTGOMERY, James Paul",USA,Men,100m freestyle,M,Gold,NA,NA,NA,194,88.18181818
+514,Montreal,1976,Aquatics,Swimming,"BABASHOFF, Jack, Jr.",USA,Men,100m freestyle,M,Silver,NA,NA,NA,Silver,#VALUE!
+515,Montreal,1976,Aquatics,Swimming,"BRIGITHA, Enith",NED,Women,100m freestyle,W,Bronze,NA,NA,NA,148,67.27272727
+516,Montreal,1976,Aquatics,Swimming,"ENDER, Kornelia",GDR,Women,100m freestyle,W,Gold,NA,172.72,NA,130,59.09090909
+517,Montreal,1976,Aquatics,Swimming,"PRIEMER, Petra",GDR,Women,100m freestyle,W,Silver,NA,NA,NA,150,68.18181818
+518,Montreal,1976,Aquatics,Swimming,"HOLLAND, Stephen",AUS,Men,1500m freestyle,M,Bronze,1941,NA,35,NA,#VALUE!
+519,Montreal,1976,Aquatics,Swimming,"GOODELL, Brian Stuart",USA,Men,1500m freestyle,M,Gold,"April 2, 1959 (age 57 years)",172.72,NA,148,67.27272727
+520,Montreal,1976,Aquatics,Swimming,"HACKETT, Robert William",USA,Men,1500m freestyle,M,Silver,"August 15, 1959 (age 57 years)",187.96,NA,183,83.18181818
+521,Montreal,1976,Aquatics,Swimming,"HARRIGAN, Daniel Lee",USA,Men,200m backstroke,M,Bronze,NA,182.88,NA,170,77.27272727
+522,Montreal,1976,Aquatics,Swimming,"NABER, John Phillips",USA,Men,200m backstroke,M,Gold,NA,198.12,NA,194,88.18181818
+523,Montreal,1976,Aquatics,Swimming,"ROCCA, Peter Drake",USA,Men,200m backstroke,M,Silver,NA,190.5,NA,176,80
+524,Montreal,1976,Aquatics,Swimming,"GARAPICK, Nancy Ellen",CAN,Women,200m backstroke,W,Bronze,"September 24, 1961 (age 55 years)",167.64,NA,119,54.09090909
+525,Montreal,1976,Aquatics,Swimming,"RICHTER, Ulrike",GDR,Women,200m backstroke,W,Gold,"June 17, 1959 (age 57 years)",172.72,NA,146,66.36363636
+526,Montreal,1976,Aquatics,Swimming,"TREIBER, Birgit",GDR,Women,200m backstroke,W,Silver,"February 26, 1960 (age 56 years)",172.72,NA,146,66.36363636
+527,Montreal,1976,Aquatics,Swimming,"COLELLA, Richard Phillip Jr.",USA,Men,200m breaststroke,M,Bronze,"December 14, 1951 (age 64 years)",185.42,NA,181,82.27272727
+528,Montreal,1976,Aquatics,Swimming,"WILKIE, David Andrew",GBR,Men,200m breaststroke,M,Gold,"March 8, 1954 (age 62 years)",182.88,NA,168,76.36363636
+529,Montreal,1976,Aquatics,Swimming,"HENCKEN, John Frederick",USA,Men,200m breaststroke,M,Silver,"May 29, 1954 (age 62 years)",182.88,NA,170,77.27272727
+530,Montreal,1976,Aquatics,Swimming,"RUSANOVA, Lyubov",URS,Women,200m breaststroke,W,Bronze,"February 2, 1954 (age 62 years)",165.1,NA,143,65
+531,Montreal,1976,Aquatics,Swimming,"KOSHEVAYA, Marina",URS,Women,200m breaststroke,W,Gold,"April 1, 1960 (age 56 years)",NA,NA,128,58.18181818
+532,Montreal,1976,Aquatics,Swimming,"YURCHENYA, Marina",URS,Women,200m breaststroke,W,Silver,NA,NA,NA,NA,#VALUE!
+533,Montreal,1976,Aquatics,Swimming,"FORRESTER, William Ronald, Jr.",USA,Men,200m butterfly,M,Bronze,"December 18, 1957 (age 58 years)",180.34,NA,Bronze,#VALUE!
+534,Montreal,1976,Aquatics,Swimming,"BRUNER, Michael Lee",USA,Men,200m butterfly,M,Gold,NA,177.8,NA,161,73.18181818
+535,Montreal,1976,Aquatics,Swimming,"GREGG, Steven Garrett",USA,Men,200m butterfly,M,Silver,NA,193.04,NA,185,84.09090909
+536,Montreal,1976,Aquatics,Swimming,"KOTHER-GABRIEL, Rosemarie",GDR,Women,200m butterfly,W,Bronze,NA,NA,NA,110,50
+537,Montreal,1976,Aquatics,Swimming,"POLLACK, Andrea",GDR,Women,200m butterfly,W,Gold,"May 8, 1961 (age 55 years)",165.1,NA,134,60.90909091
+538,Montreal,1976,Aquatics,Swimming,"TAUBER, Ulrike",GDR,Women,200m butterfly,W,Silver,"June 16, 1958 (age 58 years)",172.72,NA,134,60.90909091
+539,Montreal,1976,Aquatics,Swimming,"MONTGOMERY, James Paul",USA,Men,200m freestyle,M,Bronze,"January 24, 1955 (age 61 years)",190.5,NA,194,88.18181818
+540,Montreal,1976,Aquatics,Swimming,"FURNISS, Bruce Macfarlane",USA,Men,200m freestyle,M,Gold,"May 27, 1957 (age 59 years)",182.88,NA,161,73.18181818
+541,Montreal,1976,Aquatics,Swimming,"NABER, John Phillips",USA,Men,200m freestyle,M,Silver,NA,198.12,NA,194,88.18181818
+542,Montreal,1976,Aquatics,Swimming,"BRIGITHA, Enith",NED,Women,200m freestyle,W,Bronze,"April 15, 1955 (age 61 years)",175.26,NA,148,67.27272727
+543,Montreal,1976,Aquatics,Swimming,"ENDER, Kornelia",GDR,Women,200m freestyle,W,Gold,NA,172.72,NA,130,59.09090909
+544,Montreal,1976,Aquatics,Swimming,"BABASHOFF, Shirley Farber",USA,Women,200m freestyle,W,Silver,NA,NA,NA,NA,#VALUE!
+545,Montreal,1976,Aquatics,Swimming,"RASKATOV, Vladimir",URS,Men,400m freestyle,M,Bronze,NA,NA,NA,NA,#VALUE!
+546,Montreal,1976,Aquatics,Swimming,"GOODELL, Brian Stuart",USA,Men,400m freestyle,M,Gold,"April 2, 1959 (age 57 years)",172.72,NA,148,67.27272727
+547,Montreal,1976,Aquatics,Swimming,"SHAW, Timothy Andrew",USA,Men,400m freestyle,M,Silver,"November 8, 1957 (age 58 years)",187.96,NA,196,89.09090909
+548,Montreal,1976,Aquatics,Swimming,"SMITH, Shannon",CAN,Women,400m freestyle,W,Bronze,"September 28, 1961 (age 55 years)",175.26,NA,139,63.18181818
+549,Montreal,1976,Aquatics,Swimming,"TH MER, Petra",GDR,Women,400m freestyle,W,Gold,NA,NA,NA,NA,#VALUE!
+550,Montreal,1976,Aquatics,Swimming,"BABASHOFF, Shirley Farber",USA,Women,400m freestyle,W,Silver,NA,NA,NA,NA,#VALUE!
+551,Montreal,1976,Aquatics,Swimming,"SMIRNOV, Andrei",URS,Men,400m individual medley,M,Bronze,"March 12, 1941 (age 75 years)",NA,NA,NA,#VALUE!
+552,Montreal,1976,Aquatics,Swimming,"STRACHAN, Rodney",USA,Men,400m individual medley,M,Gold,NA,182.88,NA,170,77.27272727
+553,Montreal,1976,Aquatics,Swimming,"MCKEE, Alexander Timothy",USA,Men,400m individual medley,M,Silver,NA,172.72,NA,154,70
+554,Montreal,1976,Aquatics,Swimming,"SMITH, Rebecca",CAN,Women,400m individual medley,W,Bronze,NA,NA,NA,123,55.90909091
+555,Montreal,1976,Aquatics,Swimming,"TAUBER, Ulrike",GDR,Women,400m individual medley,W,Gold,"June 16, 1958 (age 58 years)",172.72,NA,134,60.90909091
+556,Montreal,1976,Aquatics,Swimming,"GIBSON, Cheryl",CAN,Women,400m individual medley,W,Silver,"July 28, 1959 (age 57 years)",172.72,NA,130,59.09090909
+557,Montreal,1976,Aquatics,Swimming,"WEINBERG, Wendy Elizabeth",USA,Women,800m freestyle,W,Bronze,NA,NA,NA,NA,#VALUE!
+558,Montreal,1976,Aquatics,Swimming,"TH MER, Petra",GDR,Women,800m freestyle,W,Gold,NA,NA,NA,NA,#VALUE!
+559,Montreal,1976,Aquatics,Swimming,"BABASHOFF, Shirley Farber",USA,Women,800m freestyle,W,Silver,NA,NA,NA,NA,#VALUE!
+560,Moscow,1980,Aquatics,Swimming,"DOLGOV, Vladimir",URS,Men,100m backstroke,M,Bronze,"May 11, 1960 (age 56 years)",NA,NA,NA,#VALUE!
+561,Moscow,1980,Aquatics,Swimming,"BARON, Bengt",SWE,Men,100m backstroke,M,Gold,"March 6, 1962 (age 54 years)",NA,NA,183,83.18181818
+562,Moscow,1980,Aquatics,Swimming,"KUZNETSOV, Viktor",URS,Men,100m backstroke,M,Silver,"February 25, 1949 (age 67 years)",NA,NA,220,100
+563,Moscow,1980,Aquatics,Swimming,"RIEDEL, Petra",GDR,Women,100m backstroke,W,Bronze,NA,170.18,NA,139,63.18181818
+564,Moscow,1980,Aquatics,Swimming,"REINISCH, Rica",GDR,Women,100m backstroke,W,Gold,"April 6, 1965 (age 51 years)",177.8,NA,146,66.36363636
+565,Moscow,1980,Aquatics,Swimming,"KLEBER, Ina",GDR,Women,100m backstroke,W,Silver,NA,180.34,NA,141,64.09090909
+566,Moscow,1980,Aquatics,Swimming,"EVANS, Peter",AUS,Men,100m breaststroke,M,Bronze,"January 20, 1987 (age 29 years)",180.34,NA,170,77.27272727
+567,Moscow,1980,Aquatics,Swimming,"GOODHEW, Dunkan",GBR,Men,100m breaststroke,M,Gold,"May 27, 1957 (age 59 years)",182.88,NA,NA,#VALUE!
+568,Moscow,1980,Aquatics,Swimming,"MISKAROV, Arsen",URS,Men,100m breaststroke,M,Silver,"March 3, 1961 (age 55 years)",182.88,NA,165,75
+569,Moscow,1980,Aquatics,Swimming,"NIELSSON, Susanne Schultz",DEN,Women,100m breaststroke,W,Bronze,"July 8, 1960 (age 56 years)",NA,NA,132,60
+570,Moscow,1980,Aquatics,Swimming,"GEWENIGER, Ute",GDR,Women,100m breaststroke,W,Gold,"February 24, 1964 (age 52 years)",177.8,NA,137,62.27272727
+571,Moscow,1980,Aquatics,Swimming,"VASILKOVA, Elvira",URS,Women,100m breaststroke,W,Silver,"May 15, 1962 (age 54 years)",172.72,NA,137,62.27272727
+572,Moscow,1980,Aquatics,Swimming,"LOPEZ-ZUBERO PURCELL, David",ESP,Men,100m butterfly,M,Bronze,"February 11, 1959 (age 57 years)",177.8,NA,NA,#VALUE!
+573,Moscow,1980,Aquatics,Swimming,"ARVIDSSON, P_r",SWE,Men,100m butterfly,M,Gold,NA,NA,NA,NA,#VALUE!
+574,Moscow,1980,Aquatics,Swimming,"PYTTEL, Roger",GDR,Men,100m butterfly,M,Silver,"May 8, 1957 (age 59 years)",175.26,NA,150,68.18181818
+575,Moscow,1980,Aquatics,Swimming,"KNACKE, Christiane",GDR,Women,100m butterfly,W,Bronze,"April 17, 1962 (age 54 years)",165.1,NA,132,60
+576,Moscow,1980,Aquatics,Swimming,"METSCHUCK, Caren",GDR,Women,100m butterfly,W,Gold,"September 27, 1963 (age 53 years)",182.88,NA,168,76.36363636
+577,Moscow,1980,Aquatics,Swimming,"POLLACK, Andrea",GDR,Women,100m butterfly,W,Silver,"May 8, 1961 (age 55 years)",165.1,NA,134,60.90909091
+578,Moscow,1980,Aquatics,Swimming,"JOHANSSON, Per",SWE,Men,100m freestyle,M,Bronze,"May 6, 1978 (age 38 years)",193.04,NA,165,75
+579,Moscow,1980,Aquatics,Swimming,"WOITHE, J_rg",GDR,Men,100m freestyle,M,Gold,NA,NA,NA,NA,#VALUE!
+580,Moscow,1980,Aquatics,Swimming,"HOLMERTZ, Per",SWE,Men,100m freestyle,M,Silver,"February 3, 1960 (age 56 years)",185.42,NA,165,75
+581,Moscow,1980,Aquatics,Swimming,"DIERS, Ines",GDR,Women,100m freestyle,W,Bronze,"November 2, 1963 (age 53 years)",175.26,NA,141,64.09090909
+582,Moscow,1980,Aquatics,Swimming,"KRAUSE, Barbara",GDR,Women,100m freestyle,W,Gold,"July 7, 1959 (age 57 years)",180.34,NA,150,68.18181818
+583,Moscow,1980,Aquatics,Swimming,"METSCHUCK, Caren",GDR,Women,100m freestyle,W,Silver,"September 27, 1963 (age 53 years)",182.88,NA,168,76.36363636
+584,Moscow,1980,Aquatics,Swimming,"METZKER, Maxwell",AUS,Men,1500m freestyle,M,Bronze,NA,177.8,NA,154,70
+585,Moscow,1980,Aquatics,Swimming,"SALNIKOV, Vladimir",URS,Men,1500m freestyle,M,Gold,"May 21, 1960 (age 56 years)",180.34,NA,163,74.09090909
+586,Moscow,1980,Aquatics,Swimming,"CHAEV, Aleksandr",URS,Men,1500m freestyle,M,Silver,NA,NA,NA,NA,#VALUE!
+587,Moscow,1980,Aquatics,Swimming,"KERRY, Mark",AUS,Men,200m backstroke,M,Bronze,NA,187.96,NA,179,81.36363636
+588,Moscow,1980,Aquatics,Swimming,"WLADAR, Sandor",HUN,Men,200m backstroke,M,Gold,"July 19, 1963 (age 53 years)",182.88,NA,NA,#VALUE!
+589,Moscow,1980,Aquatics,Swimming,"VERRASZTO, Zoltan",HUN,Men,200m backstroke,M,Silver,"March 15, 1956 (age 60 years)",175.26,NA,NA,#VALUE!
+590,Moscow,1980,Aquatics,Swimming,"TREIBER, Birgit",GDR,Women,200m backstroke,W,Bronze,"February 26, 1960 (age 56 years)",172.72,NA,146,66.36363636
+591,Moscow,1980,Aquatics,Swimming,"REINISCH, Rica",GDR,Women,200m backstroke,W,Gold,"April 6, 1965 (age 51 years)",177.8,NA,146,66.36363636
+592,Moscow,1980,Aquatics,Swimming,"POLIT, Cornelia",GDR,Women,200m backstroke,W,Silver,"February 18, 1963 (age 53 years)",175.26,NA,139,63.18181818
+593,Moscow,1980,Aquatics,Swimming,"MISKAROV, Arsen",URS,Men,200m breaststroke,M,Bronze,NA,182.88,NA,165,75
+594,Moscow,1980,Aquatics,Swimming,"ZHULPA, Robertas",URS,Men,200m breaststroke,M,Gold,NA,NA,NA,NA,#VALUE!
+595,Moscow,1980,Aquatics,Swimming,"VERMES, Alban",HUN,Men,200m breaststroke,M,Silver,1957,NA,23,NA,#VALUE!
+596,Moscow,1980,Aquatics,Swimming,"BOGDANOVA, Yulia",URS,Women,200m breaststroke,W,Bronze,"April 27, 1964 (age 52 years)",170.18,NA,NA,#VALUE!
+597,Moscow,1980,Aquatics,Swimming,"KACHUSHITE, Lina",URS,Women,200m breaststroke,W,Gold,"January 1, 1963 (age 53 years)",NA,NA,NA,#VALUE!
+598,Moscow,1980,Aquatics,Swimming,"VARGANOVA, Svetlana",URS,Women,200m breaststroke,W,Silver,"November 19, 1964 (age 51 years)",170.18,NA,128,58.18181818
+599,Moscow,1980,Aquatics,Swimming,"PYTTEL, Roger",GDR,Men,200m butterfly,M,Bronze,"May 8, 1957 (age 59 years)",175.26,NA,150,68.18181818
+600,Moscow,1980,Aquatics,Swimming,"FESENKO, Sergei",URS,Men,200m butterfly,M,Gold,"January 29, 1959 (age 57 years)",187.96,NA,NA,#VALUE!
+601,Jul-60,1980,6'1,Swimming,"HUBBLE, Philip",GBR,Men,200m butterfly,M,Silver,"July 19, 1960 (age 56 years)",185.42,NA,174,79.09090909
+602,Jul-62,1980,5'3,Swimming,"FORD, Michelle",AUS,Women,200m butterfly,W,Bronze,"October 1, 1968 (age 48 years)",NA,NA,119,54.09090909
+603,Feb-63,1980,5'5,Swimming,"GEISSLER, Ines",GDR,Women,200m butterfly,W,Gold,"February 16, 1963 (age 53 years)",165.1,NA,NA,#VALUE!
+604,Jul-64,1980,5'5.5,Swimming,"SCHÉNROCK, Sybille",GDR,Women,200m butterfly,W,Silver,NA,NA,NA,NA,#VALUE!
+605,Moscow,1980,Aquatics,Swimming,"BREWER, Graeme",AUS,Men,200m freestyle,M,Bronze,"December 1, 1958 (age 57 years)",193.04,NA,212,96.36363636
+606,Moscow,1980,Aquatics,Swimming,"KOPLYAKOV, Sergei",URS,Men,200m freestyle,M,Gold,"January 23, 1959 (age 57 years)",NA,NA,NA,#VALUE!
+607,Moscow,1980,Aquatics,Swimming,"KRYLOV, Andrei",URS,Men,200m freestyle,M,Silver,"March 3, 1959 (age 57 years)",NA,NA,NA,#VALUE!
+608,Moscow,1980,Aquatics,Swimming,"SCHMIDT, Carmela",GDR,Women,200m freestyle,W,Bronze,"May 16, 1962 (age 54 years)",175.26,NA,146,66.36363636
+609,Moscow,1980,Aquatics,Swimming,"KRAUSE, Barbara",GDR,Women,200m freestyle,W,Gold,"July 7, 1959 (age 57 years)",180.34,NA,150,68.18181818
+610,Moscow,1980,Aquatics,Swimming,"DIERS, Ines",GDR,Women,200m freestyle,W,Silver,"November 2, 1963 (age 53 years)",175.26,NA,141,64.09090909
+611,Moscow,1980,Aquatics,Swimming,"STUKOLKIN, Ivar",URS,Men,400m freestyle,M,Bronze,1960,NA,20,170,77.27272727
+612,Moscow,1980,Aquatics,Swimming,"SALNIKOV, Vladimir",URS,Men,400m freestyle,M,Gold,"May 21, 1960 (age 56 years)",180.34,NA,163,74.09090909
+613,Moscow,1980,Aquatics,Swimming,"KRYLOV, Andrei",URS,Men,400m freestyle,M,Silver,"March 3, 1959 (age 57 years)",NA,NA,NA,#VALUE!
+614,Moscow,1980,Aquatics,Swimming,"SCHMIDT, Carmela",GDR,Women,400m freestyle,W,Bronze,"May 16, 1962 (age 54 years)",175.26,NA,146,66.36363636
+615,Moscow,1980,Aquatics,Swimming,"DIERS, Ines",GDR,Women,400m freestyle,W,Gold,"November 2, 1963 (age 53 years)",175.26,NA,141,64.09090909
+616,Moscow,1980,Aquatics,Swimming,"SCHNEIDER, Petra",GDR,Women,400m freestyle,W,Silver,"January 11, 1963 (age 53 years)",172.72,NA,148,67.27272727
+617,Moscow,1980,Aquatics,Swimming,"VERRASZTO, Zoltan",HUN,Men,400m individual medley,M,Bronze,"March 15, 1956 (age 60 years)",175.26,NA,NA,#VALUE!
+618,Moscow,1980,Aquatics,Swimming,"SIDORENKO, Aleksandr",URS,Men,400m individual medley,M,Gold,"May 27, 1960 (age 56 years)",187.96,NA,201,91.36363636
+619,Moscow,1980,Aquatics,Swimming,"FESENKO, Sergei",URS,Men,400m individual medley,M,Silver,"January 29, 1959 (age 57 years)",187.96,NA,NA,#VALUE!
+620,Moscow,1980,Aquatics,Swimming,"CZOPEK, Agnieszka",POL,Women,400m individual medley,W,Bronze,"January 9, 1964 (age 52 years)",NA,NA,139,63.18181818
+621,Moscow,1980,Aquatics,Swimming,"SCHNEIDER, Petra",GDR,Women,400m individual medley,W,Gold,"January 11, 1963 (age 53 years)",172.72,NA,148,67.27272727
+622,Moscow,1980,Aquatics,Swimming,"DAVIES, Sharron Elizabeth",GBR,Women,400m individual medley,W,Silver,"November 1, 1962 (age 54 years)",180.34,NA,148,67.27272727
+623,Moscow,1980,Aquatics,Swimming,"DÛHNE, Heike",GDR,Women,800m freestyle,W,Bronze,NA,NA,NA,NA,#VALUE!
+624,Moscow,1980,Aquatics,Swimming,"FORD, Michelle",AUS,Women,800m freestyle,W,Gold,"October 1, 1968 (age 48 years)",NA,NA,119,54.09090909
+625,Moscow,1980,Aquatics,Swimming,"DIERS, Ines",GDR,Women,800m freestyle,W,Silver,"November 2, 1963 (age 53 years)",175.26,NA,141,64.09090909
+626,Los Angeles,1984,Aquatics,Swimming,"WEST, Michael",CAN,Men,100m backstroke,M,Bronze,NA,NA,NA,170,77.27272727
+627,Los Angeles,1984,Aquatics,Swimming,"CAREY, Richard John",USA,Men,100m backstroke,M,Gold,NA,182.88,NA,181,82.27272727
+628,Los Angeles,1984,Aquatics,Swimming,"WILSON, David Dennis",USA,Men,100m backstroke,M,Silver,NA,NA,NA,187,85
+629,Los Angeles,1984,Aquatics,Swimming,"DE ROVER, Jolanda",NED,Women,100m backstroke,W,Bronze,"October 10, 1963 (age 53 years)",185.42,NA,154,70
+630,Los Angeles,1984,Aquatics,Swimming,"ANDREWS, Theresa",USA,Women,100m backstroke,W,Gold,"August 25, 1962 (age 54 years)",167.64,NA,137,62.27272727
+631,Los Angeles,1984,Aquatics,Swimming,"MITCHELL, Elizabeth",USA,Women,100m backstroke,W,Silver,"March 27, 1970 (age 46 years)",175.26,NA,150,68.18181818
+632,Los Angeles,1984,Aquatics,Swimming,"EVANS, Peter",AUS,Men,100m breaststroke,M,Bronze,"January 20, 1987 (age 29 years)",180.34,NA,170,77.27272727
+633,Los Angeles,1984,Aquatics,Swimming,"LUNDQUIST, Steven K.",USA,Men,100m breaststroke,M,Gold,"February 20, 1961 (age 55 years)",187.96,NA,NA,#VALUE!
+634,Los Angeles,1984,Aquatics,Swimming,"DAVIS, Victor",CAN,Men,100m breaststroke,M,Silver,10-Feb-64,187.96,20,192,87.27272727
+635,Los Angeles,1984,Aquatics,Swimming,"POIROT, Catherine",FRA,Women,100m breaststroke,W,Bronze,"April 9, 1963 (age 53 years)",NA,NA,139,63.18181818
+636,Los Angeles,1984,Aquatics,Swimming,"VAN STAVEREN, Petra",NED,Women,100m breaststroke,W,Gold,"June 2, 1966 (age 50 years)",170.18,NA,132,60
+637,Los Angeles,1984,Aquatics,Swimming,"OTTENBRITE, Anne",CAN,Women,100m breaststroke,W,Silver,"May 12, 1966 (age 50 years)",175.26,NA,132,60
+638,Los Angeles,1984,Aquatics,Swimming,"BUCHANAN, Glenn",AUS,Men,100m butterfly,M,Bronze,"November 19, 1962 (age 53 years)",180.34,NA,170,77.27272727
+639,Los Angeles,1984,Aquatics,Swimming,"GROSS, Michael",FRG,Men,100m butterfly,M,Gold,"June 21, 1947 (age 69 years)",190.5,NA,NA,#VALUE!
+640,Los Angeles,1984,Aquatics,Swimming,"MORALES, Pablo",USA,Men,100m butterfly,M,Silver,"December 5, 1964 (age 51 years)",190.5,NA,185,84.09090909
+641,Los Angeles,1984,Aquatics,Swimming,"SEICK, Karin",FRG,Women,100m butterfly,W,Bronze,"November 11, 1961 (age 54 years)",182.88,NA,139,63.18181818
+642,Los Angeles,1984,Aquatics,Swimming,"MEAGHER, Mary T.",USA,Women,100m butterfly,W,Gold,"October 27, 1964 (age 52 years)",172.72,NA,141,64.09090909
+643,Los Angeles,1984,Aquatics,Swimming,"JOHNSON, Jenna Leigh",USA,Women,100m butterfly,W,Silver,"September 11, 1967 (age 49 years)",180.34,NA,139,63.18181818
+644,Los Angeles,1984,Aquatics,Swimming,"JOHANSSON, Per",SWE,Men,100m freestyle,M,Bronze,"May 6, 1978 (age 38 years)",193.04,NA,165,75
+645,Los Angeles,1984,Aquatics,Swimming,"GAINES, Ambrose Iv",USA,Men,100m freestyle,M,Gold,"February 17, 1959 (age 57 years)",185.42,NA,161,73.18181818
+646,Los Angeles,1984,Aquatics,Swimming,"STOCKWELL, Marcus",AUS,Men,100m freestyle,M,Silver,NA,NA,NA,194,88.18181818
+647,Los Angeles,1984,Aquatics,Swimming,"VERSTAPPEN, Annemarie",NED,Women,100m freestyle,W,Bronze,"October 3, 1965 (age 51 years)",NA,NA,146,66.36363636
+648,Los Angeles,1984,Aquatics,Swimming,"HOGSHEAD, Nancy Lynn",USA,Women,100m freestyle,W,Gold,"April 17, 1962 (age 54 years)",172.72,NA,146,66.36363636
+649,Los Angeles,1984,Aquatics,Swimming,"STEINSEIFER, Carolyn",USA,Women,100m freestyle,W,Gold,"February 12, 1968 (age 48 years)",167.64,NA,126,57.27272727
+650,Los Angeles,1984,Aquatics,Swimming,"PFEIFFER, Stefan",FRG,Men,1500m freestyle,M,Bronze,"November 15, 1965 (age 50 years)",190.5,NA,176,80
+651,Los Angeles,1984,Aquatics,Swimming,"O'BRIEN, Michael Jon",USA,Men,1500m freestyle,M,Gold,NA,NA,NA,154,70
+652,Los Angeles,1984,Aquatics,Swimming,"DICARLO, George Thomas",USA,Men,1500m freestyle,M,Silver,NA,180.34,NA,163,74.09090909
+653,Los Angeles,1984,Aquatics,Swimming,"HENNING, Cameron",CAN,Men,200m backstroke,M,Bronze,"November 24, 1960 (age 55 years)",187.96,NA,185,84.09090909
+654,Los Angeles,1984,Aquatics,Swimming,"CAREY, Richard John",USA,Men,200m backstroke,M,Gold,NA,182.88,NA,181,82.27272727
+655,Los Angeles,1984,Aquatics,Swimming,"DELCOURT, Frederic",FRA,Men,200m backstroke,M,Silver,"February 14, 1964 (age 52 years)",180.34,NA,NA,#VALUE!
+656,Los Angeles,1984,Aquatics,Swimming,"PATRASCOIU, Aneta",ROU,Women,200m backstroke,W,Bronze,"October 17, 1967 (age 49 years)",177.8,NA,NA,#VALUE!
+657,Los Angeles,1984,Aquatics,Swimming,"DE ROVER, Jolanda",NED,Women,200m backstroke,W,Gold,"October 10, 1963 (age 53 years)",185.42,NA,154,70
+658,Los Angeles,1984,Aquatics,Swimming,"WHITE, Amy Lee",USA,Women,200m backstroke,W,Silver,NA,NA,NA,126,57.27272727
+659,Los Angeles,1984,Aquatics,Swimming,"DAGON, Etienne",SUI,Men,200m breaststroke,M,Bronze,NA,NA,NA,NA,#VALUE!
+660,Los Angeles,1984,Aquatics,Swimming,"DAVIS, Victor",CAN,Men,200m breaststroke,M,Gold,NA,187.96,NA,192,87.27272727
+661,Los Angeles,1984,Aquatics,Swimming,"BERINGEN, Glenn",AUS,Men,200m breaststroke,M,Silver,NA,185.42,NA,159,72.27272727
+662,Los Angeles,1984,Aquatics,Swimming,"LEMPEREUR, Ingrid",BEL,Women,200m breaststroke,W,Bronze,NA,NA,NA,126,57.27272727
+663,Los Angeles,1984,Aquatics,Swimming,"OTTENBRITE, Anne",CAN,Women,200m breaststroke,W,Gold,"May 12, 1966 (age 50 years)",175.26,NA,132,60
+664,Los Angeles,1984,Aquatics,Swimming,"RAPP, Susan Gerard",USA,Women,200m breaststroke,W,Silver,"July 5, 1965 (age 51 years)",177.8,NA,146,66.36363636
+665,Los Angeles,1984,Aquatics,Swimming,"VIDAL CASTRO, Rafael Antonio",VEN,Men,200m butterfly,M,Bronze,6-Jan-64,180.34,20,159,72.27272727
+666,Los Angeles,1984,Aquatics,Swimming,"SIEBEN, Jonathan",AUS,Men,200m butterfly,M,Gold,"August 24, 1966 (age 50 years)",175.26,NA,163,74.09090909
+667,Los Angeles,1984,Aquatics,Swimming,"GROSS, Michael",FRG,Men,200m butterfly,M,Silver,"June 21, 1947 (age 69 years)",190.5,NA,NA,#VALUE!
+668,Los Angeles,1984,Aquatics,Swimming,"BEYERMANN, Ina",FRG,Women,200m butterfly,W,Bronze,"April 11, 1965 (age 51 years)",NA,NA,132,60
+669,Los Angeles,1984,Aquatics,Swimming,"MEAGHER, Mary T.",USA,Women,200m butterfly,W,Gold,"October 27, 1964 (age 52 years)",172.72,NA,141,64.09090909
+670,Los Angeles,1984,Aquatics,Swimming,"PHILLIPS, Karen",AUS,Women,200m butterfly,W,Silver,"September 7, 1945 (age 71 years)",NA,NA,128,58.18181818
+671,Los Angeles,1984,Aquatics,Swimming,"FAHRNER, Thomas",FRG,Men,200m freestyle,M,Bronze,"February 7, 1963 (age 53 years)",187.96,NA,176,80
+672,Los Angeles,1984,Aquatics,Swimming,"GROSS, Michael",FRG,Men,200m freestyle,M,Gold,"June 21, 1947 (age 69 years)",190.5,NA,NA,#VALUE!
+673,Los Angeles,1984,Aquatics,Swimming,"HEATH, Michael Steward",USA,Men,200m freestyle,M,Silver,"April 9, 1964 (age 52 years)",182.88,NA,170,77.27272727
+674,Los Angeles,1984,Aquatics,Swimming,"VERSTAPPEN, Annemarie",NED,Women,200m freestyle,W,Bronze,"October 3, 1965 (age 51 years)",NA,NA,146,66.36363636
+675,Los Angeles,1984,Aquatics,Swimming,"WAYTE, Mary Alice",USA,Women,200m freestyle,W,Gold,"March 25, 1965 (age 51 years)",175.26,NA,128,58.18181818
+676,Los Angeles,1984,Aquatics,Swimming,"WOODHEAD, Cynthia Lee",USA,Women,200m freestyle,W,Silver,"February 7, 1964 (age 52 years)",167.64,NA,119,54.09090909
+677,Los Angeles,1984,Aquatics,Swimming,"COCHRAN, Neil",GBR,Men,200m individual medley,M,Bronze,"April 12, 1965 (age 51 years)",175.26,NA,154,70
+678,Los Angeles,1984,Aquatics,Swimming,"BAUMANN, Alexander",CAN,Men,200m individual medley,M,Gold,"April 21, 1964 (age 52 years)",187.96,NA,176,80
+679,Los Angeles,1984,Aquatics,Swimming,"MORALES, Pablo",USA,Men,200m individual medley,M,Silver,"December 5, 1964 (age 51 years)",190.5,NA,185,84.09090909
+680,Los Angeles,1984,Aquatics,Swimming,"PEARSON, Michelle",AUS,Women,200m individual medley,W,Bronze,"April 22, 1962 (age 54 years)",182.88,NA,157,71.36363636
+681,Los Angeles,1984,Aquatics,Swimming,"CAULKINS, Tracy Anne",USA,Women,200m individual medley,W,Gold,"January 11, 1963 (age 53 years)",175.26,NA,NA,#VALUE!
+682,Los Angeles,1984,Aquatics,Swimming,"HOGSHEAD, Nancy Lynn",USA,Women,200m individual medley,W,Silver,"April 17, 1962 (age 54 years)",172.72,NA,146,66.36363636
+683,Los Angeles,1984,Aquatics,Swimming,"LEMBERG, Justin",AUS,Men,400m freestyle,M,Bronze,"August 23, 1966 (age 50 years)",182.88,NA,172,78.18181818
+684,Los Angeles,1984,Aquatics,Swimming,"DICARLO, George Thomas",USA,Men,400m freestyle,M,Gold,NA,180.34,NA,163,74.09090909
+685,Los Angeles,1984,Aquatics,Swimming,"MYKKANEN, John Cary",USA,Men,400m freestyle,M,Silver,"September 8, 1966 (age 50 years)",180.34,NA,146,66.36363636
+686,Los Angeles,1984,Aquatics,Swimming,"CROFT, June",GBR,Women,400m freestyle,W,Bronze,"June 17, 1963 (age 53 years)",170.18,NA,132,60
+687,Los Angeles,1984,Aquatics,Swimming,"COHEN, Tiffany Lisa",USA,Women,400m freestyle,W,Gold,"June 11, 1966 (age 50 years)",175.26,NA,139,63.18181818
+688,Los Angeles,1984,Aquatics,Swimming,"HARDCASTLE, Sarah",GBR,Women,400m freestyle,W,Silver,"April 9, 1969 (age 47 years)",182.88,NA,132,60
+689,Los Angeles,1984,Aquatics,Swimming,"WOODHOUSE, Robert",AUS,Men,400m individual medley,M,Bronze,"April 28, 1773",190.5,211,170,77.27272727
+690,Los Angeles,1984,Aquatics,Swimming,"BAUMANN, Alexander",CAN,Men,400m individual medley,M,Gold,"April 21, 1964 (age 52 years)",187.96,NA,176,80
+691,Los Angeles,1984,Aquatics,Swimming,"PRADO, Ricardo",BRA,Men,400m individual medley,M,Silver,"January 3, 1965 (age 51 years)",167.64,NA,123,55.90909091
+692,Los Angeles,1984,Aquatics,Swimming,"ZINDLER, Petra",FRG,Women,400m individual medley,W,Bronze,"February 11, 1966 (age 50 years)",NA,NA,119,54.09090909
+693,Los Angeles,1984,Aquatics,Swimming,"CAULKINS, Tracy Anne",USA,Women,400m individual medley,W,Gold,"January 11, 1963 (age 53 years)",175.26,NA,NA,#VALUE!
+694,Los Angeles,1984,Aquatics,Swimming,"LANDELLS, Suzanne",AUS,Women,400m individual medley,W,Silver,NA,162.56,NA,126,57.27272727
+695,Los Angeles,1984,Aquatics,Swimming,"HARDCASTLE, Sarah",GBR,Women,800m freestyle,W,Bronze,"April 9, 1969 (age 47 years)",182.88,NA,132,60
+696,Los Angeles,1984,Aquatics,Swimming,"COHEN, Tiffany Lisa",USA,Women,800m freestyle,W,Gold,"June 11, 1966 (age 50 years)",175.26,NA,139,63.18181818
+697,Los Angeles,1984,Aquatics,Swimming,"RICHARDSON, Michele",USA,Women,800m freestyle,W,Silver,NA,172.72,NA,NA,#VALUE!
+698,Seoul,1988,Aquatics,Swimming,"POLYANSKI, Igor",URS,Men,100m backstroke,M,Bronze,NA,190.5,NA,NA,#VALUE!
+699,Seoul,1988,Aquatics,Swimming,"SUZUKI, Daichi",JPN,Men,100m backstroke,M,Gold,NA,180.34,NA,150,68.18181818
+700,Seoul,1988,Aquatics,Swimming,"BERKOFF, David Charles",USA,Men,100m backstroke,M,Silver,NA,175.26,NA,154,70
+701,Seoul,1988,Aquatics,Swimming,"SIRCH, Cornelia",GDR,Women,100m backstroke,W,Bronze,NA,175.26,NA,154,70
+702,Seoul,1988,Aquatics,Swimming,"OTTO, Kristin",GDR,Women,100m backstroke,W,Gold,"February 7, 1966 (age 50 years)",185.42,NA,154,70
+703,Seoul,1988,Aquatics,Swimming,"EGERSZEGI, Krisztina",HUN,Women,100m backstroke,W,Silver,"August 16, 1974 (age 42 years)",175.26,NA,126,57.27272727
+704,Seoul,1988,Aquatics,Swimming,"VOLKOV, Dmitri",URS,Men,100m breaststroke,M,Bronze,"May 25, 1995 (age 21 years)",200.66,NA,NA,#VALUE!
+705,Seoul,1988,Aquatics,Swimming,"MOORHOUSE, Adrian David",GBR,Men,100m breaststroke,M,Gold,"May 24, 1964 (age 52 years)",187.96,NA,192,87.27272727
+706,Seoul,1988,Aquatics,Swimming,"GUTTLER, Karoly",HUN,Men,100m breaststroke,M,Silver,"June 15, 1968 (age 48 years)",187.96,NA,NA,#VALUE!
+707,Seoul,1988,Aquatics,Swimming,"HÉRNER, Silke",GDR,Women,100m breaststroke,W,Bronze,NA,NA,NA,NA,#VALUE!
+708,Seoul,1988,Aquatics,Swimming,"BOGOMILOVA-DANGALAKOVA, Tania",BUL,Women,100m breaststroke,W,Gold,"June 30, 1964 (age 52 years)",NA,NA,NA,#VALUE!
+709,Seoul,1988,Aquatics,Swimming,"FRENKEVA, Antoaneta",BUL,Women,100m breaststroke,W,Silver,"August 24, 1971 (age 45 years)",NA,NA,121,55
+710,Seoul,1988,Aquatics,Swimming,"JAMESON, Andrew Dasvid",GBR,Men,100m butterfly,M,Bronze,NA,190.5,NA,NA,#VALUE!
+711,Seoul,1988,Aquatics,Swimming,"NESTY, Anthony Conrad",SUR,Men,100m butterfly,M,Gold,NA,NA,NA,172,78.18181818
+712,Seoul,1988,Aquatics,Swimming,"BIONDI, Matthew",USA,Men,100m butterfly,M,Silver,"October 8, 1965 (age 51 years)",200.66,NA,209,95
+713,Seoul,1988,Aquatics,Swimming,"QIAN, Hong",CHN,Women,100m butterfly,W,Bronze,NA,NA,NA,137,62.27272727
+714,Seoul,1988,Aquatics,Swimming,"OTTO, Kristin",GDR,Women,100m butterfly,W,Gold,"February 7, 1966 (age 50 years)",185.42,NA,154,70
+715,Seoul,1988,Aquatics,Swimming,"WEIGANG, Birte",GDR,Women,100m butterfly,W,Silver,"January 31, 1968 (age 48 years)",175.26,NA,154,70
+716,Seoul,1988,Aquatics,Swimming,"CARON, Stephan",FRA,Men,100m freestyle,M,Bronze,"July 1, 1966 (age 50 years)",NA,NA,NA,#VALUE!
+717,Seoul,1988,Aquatics,Swimming,"BIONDI, Matthew",USA,Men,100m freestyle,M,Gold,"October 8, 1965 (age 51 years)",200.66,NA,209,95
+718,Seoul,1988,Aquatics,Swimming,"JACOBS, Christopher Charles",USA,Men,100m freestyle,M,Silver,NA,185.42,NA,181,82.27272727
+719,Seoul,1988,Aquatics,Swimming,"PLEWINSKI, Catherine",FRA,Women,100m freestyle,W,Bronze,"July 12, 1968 (age 48 years)",NA,NA,128,58.18181818
+720,Seoul,1988,Aquatics,Swimming,"OTTO, Kristin",GDR,Women,100m freestyle,W,Gold,"February 7, 1966 (age 50 years)",185.42,NA,154,70
+721,Seoul,1988,Aquatics,Swimming,"ZHUANG, Yong",CHN,Women,100m freestyle,W,Silver,"August 10, 1972 (age 44 years)",NA,NA,170,77.27272727
+722,Seoul,1988,Aquatics,Swimming,"DASSLER, Uwe",GDR,Men,1500m freestyle,M,Bronze,"February 11, 1967 (age 49 years)",193.04,NA,NA,#VALUE!
+723,Seoul,1988,Aquatics,Swimming,"SALNIKOV, Vladimir",URS,Men,1500m freestyle,M,Gold,"May 21, 1960 (age 56 years)",180.34,NA,163,74.09090909
+724,Seoul,1988,Aquatics,Swimming,"PFEIFFER, Stefan",FRG,Men,1500m freestyle,M,Silver,"November 15, 1965 (age 50 years)",190.5,NA,176,80
+725,Seoul,1988,Aquatics,Swimming,"KINGSMAN, Paul",NZL,Men,200m backstroke,M,Bronze,"June 15, 1967 (age 49 years)",182.88,NA,187,85
+726,Seoul,1988,Aquatics,Swimming,"POLYANSKI, Igor",URS,Men,200m backstroke,M,Gold,"January 16, 1990 (age 26 years)",190.5,NA,NA,#VALUE!
+727,Seoul,1988,Aquatics,Swimming,"BALTRUSCH, Frank",GDR,Men,200m backstroke,M,Silver,"March 21, 1964 (age 52 years)",193.04,NA,203,92.27272727
+728,Seoul,1988,Aquatics,Swimming,"SIRCH, Cornelia",GDR,Women,200m backstroke,W,Bronze,"October 23, 1966 (age 50 years)",175.26,NA,154,70
+729,Seoul,1988,Aquatics,Swimming,"EGERSZEGI, Krisztina",HUN,Women,200m backstroke,W,Gold,"August 16, 1974 (age 42 years)",175.26,NA,126,57.27272727
+730,Seoul,1988,Aquatics,Swimming,"ZIMMERMANN, Kathrin",GDR,Women,200m backstroke,W,Silver,NA,172.72,NA,143,65
+731,Seoul,1988,Aquatics,Swimming,"LOPEZ MIRO, Sergio",ESP,Men,200m breaststroke,M,Bronze,NA,NA,NA,NA,#VALUE!
+732,Seoul,1988,Aquatics,Swimming,"SZABO, Jozsef",HUN,Men,200m breaststroke,M,Gold,NA,185.42,NA,NA,#VALUE!
+733,Seoul,1988,Aquatics,Swimming,"GILLINGHAM, Nick",GBR,Men,200m breaststroke,M,Silver,"January 22, 1967 (age 49 years)",182.88,NA,159,72.27272727
+734,Seoul,1988,Aquatics,Swimming,"FRENKEVA, Antoaneta",BUL,Women,200m breaststroke,W,Bronze,"August 24, 1971 (age 45 years)",NA,NA,121,55
+735,Seoul,1988,Aquatics,Swimming,"HÉRNER, Silke",GDR,Women,200m breaststroke,W,Gold,NA,NA,NA,NA,#VALUE!
+736,Seoul,1988,Aquatics,Swimming,"HUANG, Xiao-Min",CHN,Women,200m breaststroke,W,Silver,"November 13, 1977 (age 38 years)",180.34,NA,NA,#VALUE!
+737,Seoul,1988,Aquatics,Swimming,"MOSSE, Anthony",NZL,Men,200m butterfly,M,Bronze,"October 29, 1964 (age 52 years)",182.88,NA,170,77.27272727
+738,Seoul,1988,Aquatics,Swimming,"GROSS, Michael",FRG,Men,200m butterfly,M,Gold,"June 21, 1947 (age 69 years)",190.5,NA,NA,#VALUE!
+739,Seoul,1988,Aquatics,Swimming,"NIELSEN, Benny Leo",DEN,Men,200m butterfly,M,Silver,"March 26, 1966 (age 50 years)",NA,NA,168,76.36363636
+740,Seoul,1988,Aquatics,Swimming,"MEAGHER, Mary T.",USA,Women,200m butterfly,W,Bronze,"October 27, 1964 (age 52 years)",172.72,NA,141,64.09090909
+741,Seoul,1988,Aquatics,Swimming,"NORD, Kathleen",GDR,Women,200m butterfly,W,Gold,"December 26, 1965 (age 50 years)",175.26,NA,143,65
+742,Seoul,1988,Aquatics,Swimming,"WEIGANG, Birte",GDR,Women,200m butterfly,W,Silver,"January 31, 1968 (age 48 years)",175.26,NA,154,70
+743,Seoul,1988,Aquatics,Swimming,"BIONDI, Matthew",USA,Men,200m freestyle,M,Bronze,"October 8, 1965 (age 51 years)",200.66,NA,209,95
+744,Seoul,1988,Aquatics,Swimming,"ARMSTRONG, Duncan John",AUS,Men,200m freestyle,M,Gold,NA,187.96,NA,163,74.09090909
+745,Seoul,1988,Aquatics,Swimming,"HOLMERTZ, Anders",SWE,Men,200m freestyle,M,Silver,"December 1, 1968 (age 47 years)",185.42,NA,161,73.18181818
+746,Seoul,1988,Aquatics,Swimming,"STELLMACH, Manuela",GDR,Women,200m freestyle,W,Bronze,"February 22, 1970 (age 46 years)",175.26,NA,143,65
+747,Seoul,1988,Aquatics,Swimming,"FRIEDRICH, Heike",GDR,Women,200m freestyle,W,Gold,"April 18, 1970 (age 46 years)",172.72,NA,139,63.18181818
+748,Seoul,1988,Aquatics,Swimming,"POLL AHRENS, Silvia",CRC,Women,200m freestyle,W,Silver,"September 24, 1970 (age 46 years)",193.04,NA,165,75
+749,Seoul,1988,Aquatics,Swimming,"YAROSHCHUK, Vadim",URS,Men,200m individual medley,M,Bronze,"April 2, 1966 (age 50 years)",NA,NA,NA,#VALUE!
+750,Seoul,1988,Aquatics,Swimming,"DARNYI, Tamas",HUN,Men,200m individual medley,M,Gold,"June 3, 1967 (age 49 years)",185.42,NA,NA,#VALUE!
+751,Seoul,1988,Aquatics,Swimming,"KUHL, Patrick",GDR,Men,200m individual medley,M,Silver,"March 26, 1968 (age 48 years)",190.5,NA,NA,#VALUE!
+752,Seoul,1988,Aquatics,Swimming,"LUNG, Noemi Ildiko",ROU,Women,200m individual medley,W,Bronze,"May 16, 1968 (age 48 years)",175.26,NA,NA,#VALUE!
+753,Seoul,1988,Aquatics,Swimming,"HUNGER, Daniela",GDR,Women,200m individual medley,W,Gold,"March 20, 1972 (age 44 years)",175.26,NA,139,63.18181818
+754,Seoul,1988,Aquatics,Swimming,"DENDEBEROVA, Elena",URS,Women,200m individual medley,W,Silver,"May 4, 1969 (age 47 years)",NA,NA,NA,#VALUE!
+755,Seoul,1988,Aquatics,Swimming,"WOJDAT, Artur",POL,Men,400m freestyle,M,Bronze,"May 20, 1968 (age 48 years)",193.04,NA,190,86.36363636
+756,Seoul,1988,Aquatics,Swimming,"DASSLER, Uwe",GDR,Men,400m freestyle,M,Gold,"February 11, 1967 (age 49 years)",193.04,NA,NA,#VALUE!
+757,Seoul,1988,Aquatics,Swimming,"ARMSTRONG, Duncan John",AUS,Men,400m freestyle,M,Silver,NA,187.96,NA,163,74.09090909
+758,Seoul,1988,Aquatics,Swimming,"MÉHRING, Anke",GDR,Women,400m freestyle,W,Bronze,NA,NA,NA,NA,#VALUE!
+759,Seoul,1988,Aquatics,Swimming,"EVANS, Janet",USA,Women,400m freestyle,W,Gold,"August 28, 1971 (age 45 years)",165.1,NA,119,54.09090909
+760,Seoul,1988,Aquatics,Swimming,"FRIEDRICH, Heike",GDR,Women,400m freestyle,W,Silver,"April 18, 1970 (age 46 years)",172.72,NA,139,63.18181818
+761,Seoul,1988,Aquatics,Swimming,"BATTISTELLI, Stefano",ITA,Men,400m individual medley,M,Bronze,"March 6, 1970 (age 46 years)",175.26,NA,134,60.90909091
+762,Seoul,1988,Aquatics,Swimming,"DARNYI, Tamas",HUN,Men,400m individual medley,M,Gold,"June 3, 1967 (age 49 years)",185.42,NA,NA,#VALUE!
+763,Seoul,1988,Aquatics,Swimming,"WHARTON, David Lee",USA,Men,400m individual medley,M,Silver,NA,182.88,NA,174,79.09090909
+764,Seoul,1988,Aquatics,Swimming,"HUNGER, Daniela",GDR,Women,400m individual medley,W,Bronze,"March 20, 1972 (age 44 years)",175.26,NA,139,63.18181818
+765,Seoul,1988,Aquatics,Swimming,"EVANS, Janet",USA,Women,400m individual medley,W,Gold,"August 28, 1971 (age 45 years)",165.1,NA,119,54.09090909
+766,Seoul,1988,Aquatics,Swimming,"LUNG, Noemi Ildiko",ROU,Women,400m individual medley,W,Silver,"May 16, 1968 (age 48 years)",175.26,NA,NA,#VALUE!
+767,Seoul,1988,Aquatics,Swimming,"PRIGODA, Guennadi",URS,Men,50m freestyle,M,Bronze,NA,180.34,NA,NA,#VALUE!
+768,Seoul,1988,Aquatics,Swimming,"BIONDI, Matthew",USA,Men,50m freestyle,M,Gold,"October 8, 1965 (age 51 years)",200.66,NA,209,95
+769,Seoul,1988,Aquatics,Swimming,"JAGER, Thomas Michael",USA,Men,50m freestyle,M,Silver,"October 6, 1964 (age 52 years)",190.5,NA,181,82.27272727
+770,Seoul,1988,Aquatics,Swimming,"MEISSNER, Katrin",GDR,Women,50m freestyle,W,Bronze,"January 17, 1973 (age 43 years)",187.96,NA,NA,#VALUE!
+771,Seoul,1988,Aquatics,Swimming,"STERKEL, Gillian Ann",USA,Women,50m freestyle,W,Bronze,"May 27, 1961 (age 55 years)",180.34,NA,NA,#VALUE!
+772,Seoul,1988,Aquatics,Swimming,"OTTO, Kristin",GDR,Women,50m freestyle,W,Gold,"February 7, 1966 (age 50 years)",185.42,NA,154,70
+773,Seoul,1988,Aquatics,Swimming,"YANG, Wenyi",CHN,Women,50m freestyle,W,Silver,NA,NA,NA,137,62.27272727
+774,Seoul,1988,Aquatics,Swimming,"MCDONALD, Julie",AUS,Women,800m freestyle,W,Bronze,NA,NA,NA,146,66.36363636
+775,Seoul,1988,Aquatics,Swimming,"EVANS, Janet",USA,Women,800m freestyle,W,Gold,NA,165.1,NA,119,54.09090909
+776,Seoul,1988,Aquatics,Swimming,"STRAUSS, Astrid",GDR,Women,800m freestyle,W,Silver,NA,187.96,NA,NA,#VALUE!
+777,Barcelona,1992,Aquatics,Swimming,"BERKOFF, David Charles",USA,Men,100m backstroke,M,Bronze,NA,175.26,NA,154,70
+778,Barcelona,1992,Aquatics,Swimming,"TEWKSBURY, Mark",CAN,Men,100m backstroke,M,Gold,NA,185.42,NA,176,80
+779,Barcelona,1992,Aquatics,Swimming,"ROUSE, Jeff Norman",USA,Men,100m backstroke,M,Silver,NA,193.04,NA,190,86.36363636
+780,Barcelona,1992,Aquatics,Swimming,"LOVELESS, Lea",USA,Women,100m backstroke,W,Bronze,"April 1, 1971 (age 45 years)",167.64,NA,134,60.90909091
+781,Barcelona,1992,Aquatics,Swimming,"EGERSZEGI, Krisztina",HUN,Women,100m backstroke,W,Gold,"August 16, 1974 (age 42 years)",175.26,NA,126,57.27272727
+782,Barcelona,1992,Aquatics,Swimming,"SZABO, Tunde",HUN,Women,100m backstroke,W,Silver,"May 31, 1974 (age 42 years)",175.26,NA,NA,#VALUE!
+783,Barcelona,1992,Aquatics,Swimming,"ROGERS, Philip John",AUS,Men,100m breaststroke,M,Bronze,"April 24, 1971 (age 45 years)",182.88,NA,179,81.36363636
+784,Barcelona,1992,Aquatics,Swimming,"DIEBEL, Nelson",USA,Men,100m breaststroke,M,Gold,"November 9, 1970 (age 45 years)",182.88,NA,185,84.09090909
+785,Barcelona,1992,Aquatics,Swimming,"ROZSA, Norbert",HUN,Men,100m breaststroke,M,Silver,"February 9, 1972 (age 44 years)",185.42,NA,NA,#VALUE!
+786,Barcelona,1992,Aquatics,Swimming,"RILEY, Samantha Linette",AUS,Women,100m breaststroke,W,Bronze,"November 13, 1972 (age 43 years)",160.02,NA,130,59.09090909
+787,Barcelona,1992,Aquatics,Swimming,"RUDKOVSKAYA, Elena",EUN,Women,100m breaststroke,W,Gold,"April 21, 1973 (age 43 years)",NA,NA,NA,#VALUE!
+788,Barcelona,1992,Aquatics,Swimming,"NALL, Anita",USA,Women,100m breaststroke,W,Silver,"July 21, 1976 (age 40 years)",165.1,NA,123,55.90909091
+789,Barcelona,1992,Aquatics,Swimming,"NESTY, Anthony Conrad",SUR,Men,100m butterfly,M,Bronze,NA,NA,NA,172,78.18181818
+790,Barcelona,1992,Aquatics,Swimming,"MORALES, Pablo",USA,Men,100m butterfly,M,Gold,"December 5, 1964 (age 51 years)",190.5,NA,185,84.09090909
+791,Barcelona,1992,Aquatics,Swimming,"SZUKALA, Rafal",POL,Men,100m butterfly,M,Silver,"April 9, 1971 (age 45 years)",182.88,NA,NA,#VALUE!
+792,Barcelona,1992,Aquatics,Swimming,"PLEWINSKI, Catherine",FRA,Women,100m butterfly,W,Bronze,"July 12, 1968 (age 48 years)",NA,NA,128,58.18181818
+793,Barcelona,1992,Aquatics,Swimming,"QIAN, Hong",CHN,Women,100m butterfly,W,Gold,NA,NA,NA,137,62.27272727
+794,Barcelona,1992,Aquatics,Swimming,"AHMANN-LEIGHTON, Christine",USA,Women,100m butterfly,W,Silver,"May 20, 1970 (age 46 years)",172.72,NA,115,52.27272727
+795,Barcelona,1992,Aquatics,Swimming,"CARON, Stephan",FRA,Men,100m freestyle,M,Bronze,"July 1, 1966 (age 50 years)",NA,NA,NA,#VALUE!
+796,Barcelona,1992,Aquatics,Swimming,"POPOV, Alexander",EUN,Men,100m freestyle,M,Gold,"November 16, 1971 (age 44 years)",198.12,NA,NA,#VALUE!
+797,Barcelona,1992,Aquatics,Swimming,"BORGES, Gustavo",BRA,Men,100m freestyle,M,Silver,"December 2, 1972 (age 43 years)",203.2,NA,216,98.18181818
+798,Barcelona,1992,Aquatics,Swimming,"VAN ALMSICK, Franziska",GER,Women,100m freestyle,W,Bronze,"April 5, 1978 (age 38 years)",180.34,NA,146,66.36363636
+799,Barcelona,1992,Aquatics,Swimming,"ZHUANG, Yong",CHN,Women,100m freestyle,W,Gold,"August 10, 1972 (age 44 years)",NA,NA,170,77.27272727
+800,Barcelona,1992,Aquatics,Swimming,"THOMPSON, Jenny",USA,Women,100m freestyle,W,Silver,"February 26, 1973 (age 43 years)",177.8,NA,152,69.09090909
+801,Barcelona,1992,Aquatics,Swimming,"HOFFMANN, J_rg",GER,Men,1500m freestyle,M,Bronze,NA,NA,NA,NA,#VALUE!
+802,Barcelona,1992,Aquatics,Swimming,"PERKINS, Kieren John",AUS,Men,1500m freestyle,M,Gold,"August 14, 1973 (age 43 years)",193.04,NA,198,90
+803,Barcelona,1992,Aquatics,Swimming,"HOUSMAN, Glen Clifford",AUS,Men,1500m freestyle,M,Silver,"September 3, 1971 (age 45 years)",182.88,NA,176,80
+804,Barcelona,1992,Aquatics,Swimming,"BATTISTELLI, Stefano",ITA,Men,200m backstroke,M,Bronze,"March 6, 1970 (age 46 years)",175.26,NA,134,60.90909091
+805,Barcelona,1992,Aquatics,Swimming,"LOPEZ-ZUBERO, Martin",ESP,Men,200m backstroke,M,Gold,"April 23, 1969 (age 47 years)",187.96,NA,NA,#VALUE!
+806,Barcelona,1992,Aquatics,Swimming,"SELKOV, Vladimir",EUN,Men,200m backstroke,M,Silver,"April 1, 1971 (age 45 years)",187.96,NA,165,75
+807,Barcelona,1992,Aquatics,Swimming,"STEVENSON, Nicole Dawn",AUS,Women,200m backstroke,W,Bronze,"June 24, 1971 (age 45 years)",175.26,NA,143,65
+808,Barcelona,1992,Aquatics,Swimming,"EGERSZEGI, Krisztina",HUN,Women,200m backstroke,W,Gold,"August 16, 1974 (age 42 years)",175.26,NA,126,57.27272727
+809,Barcelona,1992,Aquatics,Swimming,"HASE, Dagmar",GER,Women,200m backstroke,W,Silver,"December 22, 1969 (age 46 years)",182.88,NA,137,62.27272727
+810,Barcelona,1992,Aquatics,Swimming,"GILLINGHAM, Nick",GBR,Men,200m breaststroke,M,Bronze,"January 22, 1967 (age 49 years)",182.88,NA,159,72.27272727
+811,Barcelona,1992,Aquatics,Swimming,"BARROWMAN, Mike",USA,Men,200m breaststroke,M,Gold,NA,180.34,NA,165,75
+812,Barcelona,1992,Aquatics,Swimming,"ROZSA, Norbert",HUN,Men,200m breaststroke,M,Silver,"February 9, 1972 (age 44 years)",185.42,NA,NA,#VALUE!
+813,Barcelona,1992,Aquatics,Swimming,"NALL, Anita",USA,Women,200m breaststroke,W,Bronze,"July 21, 1976 (age 40 years)",165.1,NA,123,55.90909091
+814,Barcelona,1992,Aquatics,Swimming,"IWASAKI, Kyoko",JPN,Women,200m breaststroke,W,Gold,NA,160.02,NA,110,50
+815,Barcelona,1992,Aquatics,Swimming,"LIN, Li",CHN,Women,200m breaststroke,W,Silver,NA,170.18,NA,152,69.09090909
+816,Barcelona,1992,Aquatics,Swimming,"ESPOSITO, Franck",FRA,Men,200m butterfly,M,Bronze,NA,NA,NA,163,74.09090909
+817,Barcelona,1992,Aquatics,Swimming,"STEWART, Melvin",USA,Men,200m butterfly,M,Gold,NA,187.96,NA,183,83.18181818
+818,Barcelona,1992,Aquatics,Swimming,"LOADER, Danyon Joseph",NZL,Men,200m butterfly,M,Silver,NA,187.96,NA,NA,#VALUE!
+819,Barcelona,1992,Aquatics,Swimming,"O'NEILL, Susan",AUS,Women,200m butterfly,W,Bronze,"August 2, 1973 (age 43 years)",170.18,NA,139,63.18181818
+820,Barcelona,1992,Aquatics,Swimming,"SANDERS, Summer",USA,Women,200m butterfly,W,Gold,"October 13, 1972 (age 44 years)",175.26,NA,126,57.27272727
+821,Barcelona,1992,Aquatics,Swimming,"WANG, Xiaohong",CHN,Women,200m butterfly,W,Silver,"November 20, 1968 (age 47 years)",NA,NA,146,66.36363636
+822,Barcelona,1992,Aquatics,Swimming,"KASVIO, Antti Alexander",FIN,Men,200m freestyle,M,Bronze,"December 20, 1973 (age 42 years)",NA,NA,75-80,#VALUE!
+823,Barcelona,1992,Aquatics,Swimming,"SADOVYI, Evgueni",EUN,Men,200m freestyle,M,Gold,NA,NA,NA,NA,#VALUE!
+824,Barcelona,1992,Aquatics,Swimming,"HOLMERTZ, Anders",SWE,Men,200m freestyle,M,Silver,"December 1, 1968 (age 47 years)",185.42,NA,161,73.18181818
+825,Barcelona,1992,Aquatics,Swimming,"KIELGASS, Kerstin",GER,Women,200m freestyle,W,Bronze,"December 6, 1969 (age 46 years)",177.8,NA,NA,#VALUE!
+826,Barcelona,1992,Aquatics,Swimming,"HAISLETT, Nicole Lee",USA,Women,200m freestyle,W,Gold,"December 16, 1972 (age 43 years)",172.72,NA,141,64.09090909
+827,Barcelona,1992,Aquatics,Swimming,"VAN ALMSICK, Franziska",GER,Women,200m freestyle,W,Silver,"April 5, 1978 (age 38 years)",180.34,NA,146,66.36363636
+828,Barcelona,1992,Aquatics,Swimming,"CZENE, Attila",HUN,Men,200m individual medley,M,Bronze,"June 20, 1974 (age 42 years)",185.42,NA,168,76.36363636
+829,Barcelona,1992,Aquatics,Swimming,"DARNYI, Tamas",HUN,Men,200m individual medley,M,Gold,"June 3, 1967 (age 49 years)",185.42,NA,NA,#VALUE!
+830,Barcelona,1992,Aquatics,Swimming,"BURGESS, Gregory",USA,Men,200m individual medley,M,Silver,1945,193.04,47,205,93.18181818
+831,Barcelona,1992,Aquatics,Swimming,"HUNGER, Daniela",GER,Women,200m individual medley,W,Bronze,"March 20, 1972 (age 44 years)",175.26,NA,139,63.18181818
+832,Barcelona,1992,Aquatics,Swimming,"LIN, Li",CHN,Women,200m individual medley,W,Gold,"April 16, 1976 (age 40 years)",170.18,NA,152,69.09090909
+833,Barcelona,1992,Aquatics,Swimming,"SANDERS, Summer",USA,Women,200m individual medley,W,Silver,"October 13, 1972 (age 44 years)",175.26,NA,126,57.27272727
+834,Barcelona,1992,Aquatics,Swimming,"HOLMERTZ, Anders",SWE,Men,400m freestyle,M,Bronze,"December 1, 1968 (age 47 years)",185.42,NA,161,73.18181818
+835,Barcelona,1992,Aquatics,Swimming,"SADOVYI, Evgueni",EUN,Men,400m freestyle,M,Gold,NA,NA,NA,NA,#VALUE!
+836,Barcelona,1992,Aquatics,Swimming,"PERKINS, Kieren John",AUS,Men,400m freestyle,M,Silver,"August 14, 1973 (age 43 years)",193.04,NA,198,90
+837,Barcelona,1992,Aquatics,Swimming,"LEWIS, Hayley Jane",AUS,Women,400m freestyle,W,Bronze,"March 2, 1974 (age 42 years)",170.18,NA,141,64.09090909
+838,Barcelona,1992,Aquatics,Swimming,"HASE, Dagmar",GER,Women,400m freestyle,W,Gold,"December 22, 1969 (age 46 years)",182.88,NA,137,62.27272727
+839,Barcelona,1992,Aquatics,Swimming,"EVANS, Janet",USA,Women,400m freestyle,W,Silver,"August 28, 1971 (age 45 years)",165.1,NA,119,54.09090909
+840,Barcelona,1992,Aquatics,Swimming,"SACCHI, Luca",ITA,Men,400m individual medley,M,Bronze,"January 10, 1968 (age 48 years)",185.42,NA,172,78.18181818
+841,Barcelona,1992,Aquatics,Swimming,"DARNYI, Tamas",HUN,Men,400m individual medley,M,Gold,"June 3, 1967 (age 49 years)",185.42,NA,NA,#VALUE!
+842,Barcelona,1992,Aquatics,Swimming,"NAMESNIK, Eric",USA,Men,400m individual medley,M,Silver,7-Aug-70,185.42,22,172,78.18181818
+843,Barcelona,1992,Aquatics,Swimming,"SANDERS, Summer",USA,Women,400m individual medley,W,Bronze,"October 13, 1972 (age 44 years)",175.26,NA,126,57.27272727
+844,Barcelona,1992,Aquatics,Swimming,"EGERSZEGI, Krisztina",HUN,Women,400m individual medley,W,Gold,"August 16, 1974 (age 42 years)",175.26,NA,126,57.27272727
+845,Barcelona,1992,Aquatics,Swimming,"LIN, Li",CHN,Women,400m individual medley,W,Silver,"April 16, 1976 (age 40 years)",170.18,NA,152,69.09090909
+846,Barcelona,1992,Aquatics,Swimming,"JAGER, Thomas Michael",USA,Men,50m freestyle,M,Bronze,"October 6, 1964 (age 52 years)",190.5,NA,181,82.27272727
+847,Barcelona,1992,Aquatics,Swimming,"POPOV, Alexander",EUN,Men,50m freestyle,M,Gold,"November 16, 1971 (age 44 years)",198.12,NA,NA,#VALUE!
+848,Barcelona,1992,Aquatics,Swimming,"BIONDI, Matthew",USA,Men,50m freestyle,M,Silver,"October 8, 1965 (age 51 years)",200.66,NA,209,95
+849,Barcelona,1992,Aquatics,Swimming,"MARTINO, Angel",USA,Women,50m freestyle,W,Bronze,"April 25, 1967 (age 49 years)",165.1,NA,150,68.18181818
+850,Barcelona,1992,Aquatics,Swimming,"YANG, Wenyi",CHN,Women,50m freestyle,W,Gold,"January 11, 1972 (age 44 years)",NA,NA,137,62.27272727
+851,Barcelona,1992,Aquatics,Swimming,"ZHUANG, Yong",CHN,Women,50m freestyle,W,Silver,"August 10, 1972 (age 44 years)",NA,NA,170,77.27272727
+852,Barcelona,1992,Aquatics,Swimming,"HENKE, Jana",GER,Women,800m freestyle,W,Bronze,"October 1, 1973 (age 43 years)",170.18,NA,132,60
+853,Barcelona,1992,Aquatics,Swimming,"EVANS, Janet",USA,Women,800m freestyle,W,Gold,"August 28, 1971 (age 45 years)",165.1,NA,119,54.09090909
+854,Barcelona,1992,Aquatics,Swimming,"LEWIS, Hayley Jane",AUS,Women,800m freestyle,W,Silver,"March 2, 1974 (age 42 years)",170.18,NA,141,64.09090909
+855,Atlanta,1996,Aquatics,Swimming,"BENT, Neisser",CUB,Men,100m backstroke,M,Bronze,"August 7, 1976 (age 40 years)",193.04,NA,148,67.27272727
+856,Atlanta,1996,Aquatics,Swimming,"ROUSE, Jeff Norman",USA,Men,100m backstroke,M,Gold,NA,193.04,NA,190,86.36363636
+857,Atlanta,1996,Aquatics,Swimming,"FALCON CABRERA, Rodolfo",CUB,Men,100m backstroke,M,Silver,NA,NA,NA,NA,#VALUE!
+858,Atlanta,1996,Aquatics,Swimming,"KRIEL, Marianne",RSA,Women,100m backstroke,W,Bronze,NA,NA,NA,NA,#VALUE!
+859,Atlanta,1996,Aquatics,Swimming,"BOTSFORD, Beth",USA,Women,100m backstroke,W,Gold,NA,165.1,NA,108,49.09090909
+860,Atlanta,1996,Aquatics,Swimming,"HEDGEPETH, Whitney L.",USA,Women,100m backstroke,W,Silver,NA,177.8,NA,NA,#VALUE!
+861,Atlanta,1996,Aquatics,Swimming,"WARNECKE, Mark",GER,Men,100m breaststroke,M,Bronze,"February 15, 1970 (age 46 years)",187.96,NA,220,100
+862,Atlanta,1996,Aquatics,Swimming,"DEBURGHGRAEVE, Frederik",BEL,Men,100m breaststroke,M,Gold,"June 1, 1973 (age 43 years)",175.26,NA,NA,#VALUE!
+863,Atlanta,1996,Aquatics,Swimming,"LINN, Jeremy",USA,Men,100m breaststroke,M,Silver,"August 23, 1988 (age 28 years)",190.5,NA,183,83.18181818
+864,Atlanta,1996,Aquatics,Swimming,"RILEY, Samantha Linette",AUS,Women,100m breaststroke,W,Bronze,"November 13, 1972 (age 43 years)",160.02,NA,130,59.09090909
+865,Atlanta,1996,Aquatics,Swimming,"HEYNS, Penelope",RSA,Women,100m breaststroke,W,Gold,"November 8, 1974 (age 41 years)",NA,NA,139,63.18181818
+866,Atlanta,1996,Aquatics,Swimming,"BEARD, Amanda",USA,Women,100m breaststroke,W,Silver,"October 29, 1981 (age 35 years)",172.72,NA,130,59.09090909
+867,Atlanta,1996,Aquatics,Swimming,"KULIKOV, Vladislav",RUS,Men,100m butterfly,M,Bronze,"January 7, 1971 (age 45 years)",190.5,NA,190,86.36363636
+868,Atlanta,1996,Aquatics,Swimming,"PANKRATOV, Denis",RUS,Men,100m butterfly,M,Gold,"July 4, 1974 (age 42 years)",187.96,NA,185,84.09090909
+869,Atlanta,1996,Aquatics,Swimming,"MILLER, Scott",AUS,Men,100m butterfly,M,Silver,4-Apr-60,177.8,36,205,93.18181818
+870,Atlanta,1996,Aquatics,Swimming,"MARTINO, Angel",USA,Women,100m butterfly,W,Bronze,"April 25, 1967 (age 49 years)",165.1,NA,150,68.18181818
+871,Atlanta,1996,Aquatics,Swimming,"VAN DYKEN, Amy",USA,Women,100m butterfly,W,Gold,"February 15, 1973 (age 43 years)",182.88,NA,163,74.09090909
+872,Atlanta,1996,Aquatics,Swimming,"LIU, Limin",CHN,Women,100m butterfly,W,Silver,"March 27, 1976 (age 40 years)",170.18,NA,150,68.18181818
+873,Atlanta,1996,Aquatics,Swimming,"BORGES, Gustavo",BRA,Men,100m freestyle,M,Bronze,"December 2, 1972 (age 43 years)",203.2,NA,216,98.18181818
+874,Atlanta,1996,Aquatics,Swimming,"POPOV, Alexander",RUS,Men,100m freestyle,M,Gold,"November 16, 1971 (age 44 years)",198.12,NA,NA,#VALUE!
+875,Atlanta,1996,Aquatics,Swimming,"HALL, Gary Jr.",USA,Men,100m freestyle,M,Silver,"September 26, 1974 (age 42 years)",198.12,NA,218,99.09090909
+876,Atlanta,1996,Aquatics,Swimming,"MARTINO, Angel",USA,Women,100m freestyle,W,Bronze,"April 25, 1967 (age 49 years)",165.1,NA,150,68.18181818
+877,Atlanta,1996,Aquatics,Swimming,"LE, Jingyi",CHN,Women,100m freestyle,W,Gold,"March 19, 1975 (age 41 years)",177.8,NA,150,68.18181818
+878,Atlanta,1996,Aquatics,Swimming,"VOELKER, Sandra",GER,Women,100m freestyle,W,Silver,"April 1, 1974 (age 42 years)",180.34,NA,NA,#VALUE!
+879,Atlanta,1996,Aquatics,Swimming,"SMITH, Graeme",GBR,Men,1500m freestyle,M,Bronze,"February 1, 1981 (age 35 years)",190.5,NA,192,87.27272727
+880,Atlanta,1996,Aquatics,Swimming,"PERKINS, Kieren John",AUS,Men,1500m freestyle,M,Gold,"August 14, 1973 (age 43 years)",193.04,NA,198,90
+881,Atlanta,1996,Aquatics,Swimming,"KOWALSKI, Daniel",AUS,Men,1500m freestyle,M,Silver,"July 2, 1975 (age 41 years)",180.34,NA,168,76.36363636
+882,Atlanta,1996,Aquatics,Swimming,"MERISI, Emanuele",ITA,Men,200m backstroke,M,Bronze,"October 10, 1972 (age 44 years)",185.42,NA,172,78.18181818
+883,Atlanta,1996,Aquatics,Swimming,"BRIDGEWATER, Brad",USA,Men,200m backstroke,M,Gold,"March 29, 1973 (age 43 years)",190.5,NA,185,84.09090909
+884,Atlanta,1996,Aquatics,Swimming,"SCHWENK, Tripp",USA,Men,200m backstroke,M,Silver,"June 17, 1971 (age 45 years)",190.5,NA,174,79.09090909
+885,Atlanta,1996,Aquatics,Swimming,"RUND, Cathleen",GER,Women,200m backstroke,W,Bronze,"November 3, 1977 (age 39 years)",NA,NA,159,72.27272727
+886,Atlanta,1996,Aquatics,Swimming,"EGERSZEGI, Krisztina",HUN,Women,200m backstroke,W,Gold,"August 16, 1974 (age 42 years)",175.26,NA,126,57.27272727
+887,Atlanta,1996,Aquatics,Swimming,"HEDGEPETH, Whitney L.",USA,Women,200m backstroke,W,Silver,"March 19, 1971 (age 45 years)",177.8,NA,NA,#VALUE!
+888,Atlanta,1996,Aquatics,Swimming,"KORNEYEV, Andrey",RUS,Men,200m breaststroke,M,Bronze,10-Jan-74,190.5,22,176,80
+889,Atlanta,1996,Aquatics,Swimming,"ROZSA, Norbert",HUN,Men,200m breaststroke,M,Gold,"February 9, 1972 (age 44 years)",185.42,NA,NA,#VALUE!
+890,Atlanta,1996,Aquatics,Swimming,"GUTTLER, Karoly",HUN,Men,200m breaststroke,M,Silver,"June 15, 1968 (age 48 years)",187.96,NA,NA,#VALUE!
+891,Atlanta,1996,Aquatics,Swimming,"KOVACS, Agnes",HUN,Women,200m breaststroke,W,Bronze,"July 13, 1981 (age 35 years)",177.8,NA,NA,#VALUE!
+892,Atlanta,1996,Aquatics,Swimming,"HEYNS, Penelope",RSA,Women,200m breaststroke,W,Gold,"November 8, 1974 (age 41 years)",NA,NA,139,63.18181818
+893,Atlanta,1996,Aquatics,Swimming,"BEARD, Amanda",USA,Women,200m breaststroke,W,Silver,"October 29, 1981 (age 35 years)",172.72,NA,130,59.09090909
+894,Atlanta,1996,Aquatics,Swimming,"GOODMAN, Scott",AUS,Men,200m butterfly,M,Bronze,NA,182.88,NA,170,77.27272727
+895,Atlanta,1996,Aquatics,Swimming,"PANKRATOV, Denis",RUS,Men,200m butterfly,M,Gold,"July 4, 1974 (age 42 years)",187.96,NA,185,84.09090909
+896,Atlanta,1996,Aquatics,Swimming,"MALCHOW, Tom",USA,Men,200m butterfly,M,Silver,"August 18, 1976 (age 40 years)",198.12,NA,190,86.36363636
+897,Atlanta,1996,Aquatics,Swimming,"SMITH, Michelle Marie",IRL,Women,200m butterfly,W,Bronze,NA,NA,NA,157,71.36363636
+898,Atlanta,1996,Aquatics,Swimming,"O'NEILL, Susan",AUS,Women,200m butterfly,W,Gold,"August 2, 1973 (age 43 years)",170.18,NA,139,63.18181818
+899,Atlanta,1996,Aquatics,Swimming,"THOMAS, Petria",AUS,Women,200m butterfly,W,Silver,"August 25, 1975 (age 41 years)",162.56,NA,141,64.09090909
+900,Atlanta,1996,Aquatics,Swimming,"KOWALSKI, Daniel",AUS,Men,200m freestyle,M,Bronze,"July 2, 1975 (age 41 years)",180.34,NA,168,76.36363636
+901,Atlanta,1996,Aquatics,Swimming,"LOADER, Danyon Joseph",NZL,Men,200m freestyle,M,Gold,"April 21, 1975 (age 41 years)",187.96,NA,NA,#VALUE!
+902,Atlanta,1996,Aquatics,Swimming,"BORGES, Gustavo",BRA,Men,200m freestyle,M,Silver,"December 2, 1972 (age 43 years)",203.2,NA,216,98.18181818
+903,Atlanta,1996,Aquatics,Swimming,"HASE, Dagmar",GER,Women,200m freestyle,W,Bronze,"December 22, 1969 (age 46 years)",182.88,NA,137,62.27272727
+904,Atlanta,1996,Aquatics,Swimming,"POLL AHRENS, Claudia",CRC,Women,200m freestyle,W,Gold,"December 21, 1972 (age 43 years)",190.5,NA,168,76.36363636
+905,Atlanta,1996,Aquatics,Swimming,"VAN ALMSICK, Franziska",GER,Women,200m freestyle,W,Silver,"April 5, 1978 (age 38 years)",180.34,NA,146,66.36363636
+906,Atlanta,1996,Aquatics,Swimming,"MYDEN, Curtis Allen",CAN,Men,200m individual medley,M,Bronze,"December 31, 1973 (age 42 years)",187.96,NA,185,84.09090909
+907,Atlanta,1996,Aquatics,Swimming,"CZENE, Attila",HUN,Men,200m individual medley,M,Gold,"June 20, 1974 (age 42 years)",185.42,NA,168,76.36363636
+908,Atlanta,1996,Aquatics,Swimming,"SIEVINEN, Jani",FIN,Men,200m individual medley,M,Silver,"March 31, 1974 (age 42 years)",180.34,NA,174,79.09090909
+909,Atlanta,1996,Aquatics,Swimming,"LIN, Li",CHN,Women,200m individual medley,W,Bronze,"April 16, 1976 (age 40 years)",170.18,NA,152,69.09090909
+910,Atlanta,1996,Aquatics,Swimming,"SMITH, Michelle Marie",IRL,Women,200m individual medley,W,Gold,NA,NA,NA,157,71.36363636
+911,Atlanta,1996,Aquatics,Swimming,"LIMPERT, Marianne Luise",CAN,Women,200m individual medley,W,Silver,NA,180.34,NA,NA,#VALUE!
+912,Atlanta,1996,Aquatics,Swimming,"KOWALSKI, Daniel",AUS,Men,400m freestyle,M,Bronze,"July 2, 1975 (age 41 years)",180.34,NA,168,76.36363636
+913,Atlanta,1996,Aquatics,Swimming,"LOADER, Danyon Joseph",NZL,Men,400m freestyle,M,Gold,"April 21, 1975 (age 41 years)",187.96,NA,NA,#VALUE!
+914,Atlanta,1996,Aquatics,Swimming,"PALMER, Paul Rory",GBR,Men,400m freestyle,M,Silver,"October 18, 1974 (age 42 years)",200.66,NA,209,95
+915,Atlanta,1996,Aquatics,Swimming,"VLIEGHUIS, Kirsten",NED,Women,400m freestyle,W,Bronze,"May 17, 1976 (age 40 years)",172.72,NA,141,64.09090909
+916,Atlanta,1996,Aquatics,Swimming,"SMITH, Michelle Marie",IRL,Women,400m freestyle,W,Gold,NA,NA,NA,157,71.36363636
+917,Atlanta,1996,Aquatics,Swimming,"HASE, Dagmar",GER,Women,400m freestyle,W,Silver,"December 22, 1969 (age 46 years)",182.88,NA,137,62.27272727
+918,Atlanta,1996,Aquatics,Swimming,"MYDEN, Curtis Allen",CAN,Men,400m individual medley,M,Bronze,"December 31, 1973 (age 42 years)",187.96,NA,185,84.09090909
+919,Atlanta,1996,Aquatics,Swimming,"DOLAN, Tom",USA,Men,400m individual medley,M,Gold,NA,198.12,NA,190,86.36363636
+920,Atlanta,1996,Aquatics,Swimming,"NAMESNIK, Eric",USA,Men,400m individual medley,M,Silver,7-Aug-70,185.42,26,172,78.18181818
+921,Atlanta,1996,Aquatics,Swimming,"EGERSZEGI, Krisztina",HUN,Women,400m individual medley,W,Bronze,"August 16, 1974 (age 42 years)",175.26,NA,126,57.27272727
+922,Atlanta,1996,Aquatics,Swimming,"SMITH, Michelle Marie",IRL,Women,400m individual medley,W,Gold,NA,NA,NA,157,71.36363636
+923,Atlanta,1996,Aquatics,Swimming,"WAGNER, Allison",USA,Women,400m individual medley,W,Silver,"July 21, 1977 (age 39 years)",167.64,NA,117,53.18181818
+924,Atlanta,1996,Aquatics,Swimming,"SCHERER, Fernando",BRA,Men,50m freestyle,M,Bronze,"October 6, 1974 (age 42 years)",193.04,NA,187,85
+925,Atlanta,1996,Aquatics,Swimming,"POPOV, Alexander",RUS,Men,50m freestyle,M,Gold,"November 16, 1971 (age 44 years)",198.12,NA,NA,#VALUE!
+926,Atlanta,1996,Aquatics,Swimming,"HALL, Gary Jr.",USA,Men,50m freestyle,M,Silver,"September 26, 1974 (age 42 years)",198.12,NA,218,99.09090909
+927,Atlanta,1996,Aquatics,Swimming,"VOELKER, Sandra",GER,Women,50m freestyle,W,Bronze,"April 1, 1974 (age 42 years)",180.34,NA,NA,#VALUE!
+928,Atlanta,1996,Aquatics,Swimming,"VAN DYKEN, Amy",USA,Women,50m freestyle,W,Gold,"February 15, 1973 (age 43 years)",182.88,NA,163,74.09090909
+929,Atlanta,1996,Aquatics,Swimming,"LE, Jingyi",CHN,Women,50m freestyle,W,Silver,"March 19, 1975 (age 41 years)",177.8,NA,150,68.18181818
+930,Atlanta,1996,Aquatics,Swimming,"VLIEGHUIS, Kirsten",NED,Women,800m freestyle,W,Bronze,"May 17, 1976 (age 40 years)",172.72,NA,141,64.09090909
+931,Atlanta,1996,Aquatics,Swimming,"BENNETT, Brooke",USA,Women,800m freestyle,W,Gold,"May 6, 1980 (age 36 years)",165.1,NA,126,57.27272727
+932,Atlanta,1996,Aquatics,Swimming,"HASE, Dagmar",GER,Women,800m freestyle,W,Silver,"December 22, 1969 (age 46 years)",182.88,NA,137,62.27272727
+933,Sydney,2000,Aquatics,Swimming,"THELOKE, Stev",GER,Men,100m backstroke,M,Bronze,"January 18, 1978 (age 38 years)",203.2,NA,220,100
+934,Sydney,2000,Aquatics,Swimming,"KRAYZELBURG, Lenny",USA,Men,100m backstroke,M,Gold,"September 28, 1975 (age 41 years)",187.96,NA,192,87.27272727
+935,Sydney,2000,Aquatics,Swimming,"WELSH, Matthew",AUS,Men,100m backstroke,M,Silver,"November 18, 1976 (age 39 years)",187.96,NA,176,80
+936,Sydney,2000,Aquatics,Swimming,"ZHIVANEVSKAYA, Nina Alexandrovna",ESP,Women,100m backstroke,W,Bronze,"June 24, 1977 (age 39 years)",167.64,NA,123,55.90909091
+937,Sydney,2000,Aquatics,Swimming,"MOCANU, Diana",ROU,Women,100m backstroke,W,Gold,"July 19, 1984 (age 32 years)",NA,NA,150,68.18181818
+938,Sydney,2000,Aquatics,Swimming,"NAKAMURA, Mai",JPN,Women,100m backstroke,W,Silver,"July 16, 1979 (age 37 years)",162.56,NA,148,67.27272727
+939,Sydney,2000,Aquatics,Swimming,"SLUDNOV, Roman",RUS,Men,100m breaststroke,M,Bronze,"February 4, 1980 (age 36 years)",187.96,NA,163,74.09090909
+940,Sydney,2000,Aquatics,Swimming,"FIORAVANTI, Domenico",ITA,Men,100m breaststroke,M,Gold,"May 31, 1977 (age 39 years)",177.8,NA,168,76.36363636
+941,Sydney,2000,Aquatics,Swimming,"MOSES, Ed",USA,Men,100m breaststroke,M,Silver,"August 31, 1955 (age 61 years)",180.34,NA,172,78.18181818
+942,Sydney,2000,Aquatics,Swimming,"HEYNS, Penelope",RSA,Women,100m breaststroke,W,Bronze,"November 8, 1974 (age 41 years)",NA,NA,139,63.18181818
+943,Sydney,2000,Aquatics,Swimming,"QUANN, Megan",USA,Women,100m breaststroke,W,Gold,"January 15, 1984 (age 32 years)",170.18,NA,141,64.09090909
+944,Sydney,2000,Aquatics,Swimming,"JONES, Leisel",AUS,Women,100m breaststroke,W,Silver,NA,177.8,NA,150,68.18181818
+945,Sydney,2000,Aquatics,Swimming,"HUEGILL, Geoff",AUS,Men,100m butterfly,M,Bronze,NA,190.5,NA,205,93.18181818
+946,Sydney,2000,Aquatics,Swimming,"FROLANDER, Lars",SWE,Men,100m butterfly,M,Gold,NA,182.88,NA,NA,#VALUE!
+947,Sydney,2000,Aquatics,Swimming,"KLIM, Michael",AUS,Men,100m butterfly,M,Silver,NA,190.5,NA,179,81.36363636
+948,Sydney,2000,Aquatics,Swimming,"TORRES, Dara",USA,Women,100m butterfly,W,Bronze,NA,180.34,NA,150,68.18181818
+949,Sydney,2000,Aquatics,Swimming,"DE BRUIJN, Inge",NED,Women,100m butterfly,W,Gold,NA,177.8,NA,121,55
+950,Sydney,2000,Aquatics,Swimming,"MORAVCOVA, Martina",SVK,Women,100m butterfly,W,Silver,"January 16, 1976 (age 40 years)",172.72,NA,132,60
+951,Sydney,2000,Aquatics,Swimming,"HALL, Gary Jr.",USA,Men,100m freestyle,M,Bronze,"September 26, 1974 (age 42 years)",198.12,NA,218,99.09090909
+952,Sydney,2000,Aquatics,Swimming,"VAN DEN HOOGENBAND, Pieter",NED,Men,100m freestyle,M,Gold,"March 14, 1978 (age 38 years)",193.04,NA,176,80
+953,Sydney,2000,Aquatics,Swimming,"POPOV, Alexander",RUS,Men,100m freestyle,M,Silver,"November 16, 1971 (age 44 years)",198.12,NA,NA,#VALUE!
+954,Sydney,2000,Aquatics,Swimming,"THOMPSON, Jenny",USA,Women,100m freestyle,W,Bronze,"February 26, 1973 (age 43 years)",177.8,NA,152,69.09090909
+955,Sydney,2000,Aquatics,Swimming,"TORRES, Dara",USA,Women,100m freestyle,W,Bronze,"April 15, 1967 (age 49 years)",180.34,NA,150,68.18181818
+956,Sydney,2000,Aquatics,Swimming,"DE BRUIJN, Inge",NED,Women,100m freestyle,W,Gold,"August 24, 1973 (age 43 years)",177.8,NA,121,55
+957,Sydney,2000,Aquatics,Swimming,"ALSHAMMAR, Therese",SWE,Women,100m freestyle,W,Silver,"August 26, 1977 (age 39 years)",180.34,NA,NA,#VALUE!
+958,Sydney,2000,Aquatics,Swimming,"THOMPSON, Chris",USA,Men,1500m freestyle,M,Bronze,"October 20, 1990 (age 26 years)",172.72,NA,185,84.09090909
+959,Sydney,2000,Aquatics,Swimming,"HACKETT, Grant",AUS,Men,1500m freestyle,M,Gold,"May 9, 1980 (age 36 years)",198.12,NA,212,96.36363636
+960,Sydney,2000,Aquatics,Swimming,"PERKINS, Kieren John",AUS,Men,1500m freestyle,M,Silver,"August 14, 1973 (age 43 years)",193.04,NA,198,90
+961,Sydney,2000,Aquatics,Swimming,"WELSH, Matthew",AUS,Men,200m backstroke,M,Bronze,"November 18, 1976 (age 39 years)",187.96,NA,176,80
+962,Sydney,2000,Aquatics,Swimming,"KRAYZELBURG, Lenny",USA,Men,200m backstroke,M,Gold,"September 28, 1975 (age 41 years)",187.96,NA,192,87.27272727
+963,Sydney,2000,Aquatics,Swimming,"PEIRSOL, Aaron",USA,Men,200m backstroke,M,Silver,"July 23, 1983 (age 33 years)",190.5,NA,201,91.36363636
+964,Sydney,2000,Aquatics,Swimming,"NAKAO, Miki",JPN,Women,200m backstroke,W,Bronze,"June 25, 1978 (age 38 years)",162.56,NA,106,48.18181818
+965,Sydney,2000,Aquatics,Swimming,"MOCANU, Diana",ROU,Women,200m backstroke,W,Gold,"July 19, 1984 (age 32 years)",NA,NA,150,68.18181818
+966,Sydney,2000,Aquatics,Swimming,"MARACINEANU, Roxana",FRA,Women,200m backstroke,W,Silver,"May 7, 1975 (age 41 years)",165.1,NA,115,52.27272727
+967,Sydney,2000,Aquatics,Swimming,"RUMMOLO, Davide",ITA,Men,200m breaststroke,M,Bronze,"November 12, 1977 (age 38 years)",180.34,NA,165,75
+968,Sydney,2000,Aquatics,Swimming,"FIORAVANTI, Domenico",ITA,Men,200m breaststroke,M,Gold,"May 31, 1977 (age 39 years)",177.8,NA,168,76.36363636
+969,Sydney,2000,Aquatics,Swimming,"PARKIN, Terence",RSA,Men,200m breaststroke,M,Silver,"April 12, 1980 (age 36 years)",NA,NA,181,82.27272727
+970,Sydney,2000,Aquatics,Swimming,"BEARD, Amanda",USA,Women,200m breaststroke,W,Bronze,"October 29, 1981 (age 35 years)",172.72,NA,130,59.09090909
+971,Sydney,2000,Aquatics,Swimming,"KOVACS, Agnes",HUN,Women,200m breaststroke,W,Gold,"July 13, 1981 (age 35 years)",177.8,NA,NA,#VALUE!
+972,Sydney,2000,Aquatics,Swimming,"KOWAL, Kristy",USA,Women,200m breaststroke,W,Silver,"October 9, 1978 (age 38 years)",182.88,NA,146,66.36363636
+973,Sydney,2000,Aquatics,Swimming,"NORRIS, Justin",AUS,Men,200m butterfly,M,Bronze,"June 3, 1980 (age 36 years)",185.42,NA,181,82.27272727
+974,Sydney,2000,Aquatics,Swimming,"MALCHOW, Tom",USA,Men,200m butterfly,M,Gold,"August 18, 1976 (age 40 years)",198.12,NA,190,86.36363636
+975,Sydney,2000,Aquatics,Swimming,"SYLANTYEV, Denys",UKR,Men,200m butterfly,M,Silver,"October 3, 1976 (age 40 years)",185.42,NA,NA,#VALUE!
+976,Sydney,2000,Aquatics,Swimming,"THOMAS, Petria",AUS,Women,200m butterfly,W,Bronze,"August 25, 1975 (age 41 years)",162.56,NA,141,64.09090909
+977,Sydney,2000,Aquatics,Swimming,"HYMAN, Misty",USA,Women,200m butterfly,W,Gold,"March 23, 1979 (age 37 years)",170.18,NA,143,65
+978,Sydney,2000,Aquatics,Swimming,"O'NEILL, Susan",AUS,Women,200m butterfly,W,Silver,"August 2, 1973 (age 43 years)",170.18,NA,139,63.18181818
+979,Sydney,2000,Aquatics,Swimming,"ROSOLINO, Massimiliano",ITA,Men,200m freestyle,M,Bronze,"July 11, 1978 (age 38 years)",193.04,NA,194,88.18181818
+980,Sydney,2000,Aquatics,Swimming,"VAN DEN HOOGENBAND, Pieter",NED,Men,200m freestyle,M,Gold,"March 14, 1978 (age 38 years)",193.04,NA,176,80
+981,Sydney,2000,Aquatics,Swimming,"THORPE, Ian",AUS,Men,200m freestyle,M,Silver,"October 13, 1982 (age 34 years)",195.58,NA,229,104.0909091
+982,Sydney,2000,Aquatics,Swimming,"POLL AHRENS, Claudia",CRC,Women,200m freestyle,W,Bronze,"December 21, 1972 (age 43 years)",190.5,NA,168,76.36363636
+983,Sydney,2000,Aquatics,Swimming,"O'NEILL, Susan",AUS,Women,200m freestyle,W,Gold,"August 2, 1973 (age 43 years)",170.18,NA,139,63.18181818
+984,Sydney,2000,Aquatics,Swimming,"MORAVCOVA, Martina",SVK,Women,200m freestyle,W,Silver,"January 16, 1976 (age 40 years)",172.72,NA,132,60
+985,Sydney,2000,Aquatics,Swimming,"WILKENS, Tom",USA,Men,200m individual medley,M,Bronze,NA,187.96,NA,181,82.27272727
+986,Sydney,2000,Aquatics,Swimming,"ROSOLINO, Massimiliano",ITA,Men,200m individual medley,M,Gold,"July 11, 1978 (age 38 years)",193.04,NA,194,88.18181818
+987,Sydney,2000,Aquatics,Swimming,"DOLAN, Tom",USA,Men,200m individual medley,M,Silver,NA,198.12,NA,190,86.36363636
+988,Sydney,2000,Aquatics,Swimming,"TEUSCHER, Cristina",USA,Women,200m individual medley,W,Bronze,"March 12, 1978 (age 38 years)",185.42,NA,150,68.18181818
+989,Sydney,2000,Aquatics,Swimming,"KLOCHKOVA, Yana",UKR,Women,200m individual medley,W,Gold,"August 7, 1982 (age 34 years)",182.88,NA,154,70
+990,Sydney,2000,Aquatics,Swimming,"CASLARU, Beatrice",ROU,Women,200m individual medley,W,Silver,NA,170.18,NA,NA,#VALUE!
+991,Sydney,2000,Aquatics,Swimming,"KELLER, Klete",USA,Men,400m freestyle,M,Bronze,NA,198.12,NA,214,97.27272727
+992,Sydney,2000,Aquatics,Swimming,"THORPE, Ian",AUS,Men,400m freestyle,M,Gold,NA,195.58,NA,229,104.0909091
+993,Sydney,2000,Aquatics,Swimming,"ROSOLINO, Massimiliano",ITA,Men,400m freestyle,M,Silver,NA,193.04,NA,194,88.18181818
+994,Sydney,2000,Aquatics,Swimming,"POLL AHRENS, Claudia",CRC,Women,400m freestyle,W,Bronze,NA,190.5,NA,168,76.36363636
+995,Sydney,2000,Aquatics,Swimming,"BENNETT, Brooke",USA,Women,400m freestyle,W,Gold,NA,165.1,NA,126,57.27272727
+996,Sydney,2000,Aquatics,Swimming,"MUNZ, Diana",USA,Women,400m freestyle,W,Silver,"June 19, 1982 (age 34 years)",162.56,NA,123,55.90909091
+997,Sydney,2000,Aquatics,Swimming,"MYDEN, Curtis Allen",CAN,Men,400m individual medley,M,Bronze,"December 31, 1973 (age 42 years)",187.96,NA,185,84.09090909
+998,Sydney,2000,Aquatics,Swimming,"DOLAN, Tom",USA,Men,400m individual medley,M,Gold,NA,198.12,NA,190,86.36363636
+999,Sydney,2000,Aquatics,Swimming,"VENDT, Erik",USA,Men,400m individual medley,M,Silver,"January 9, 1981 (age 35 years)",180.34,NA,165,75
+1000,Sydney,2000,Aquatics,Swimming,"CASLARU, Beatrice",ROU,Women,400m individual medley,W,Bronze,"August 20, 1975 (age 41 years)",170.18,NA,NA,#VALUE!
+1001,Sydney,2000,Aquatics,Swimming,"KLOCHKOVA, Yana",UKR,Women,400m individual medley,W,Gold,"August 7, 1982 (age 34 years)",182.88,NA,154,70
+1002,Sydney,2000,Aquatics,Swimming,"TAJIMA, Yasuko",JPN,Women,400m individual medley,W,Silver,"May 8, 1981 (age 35 years)",NA,NA,139,63.18181818
+1003,Sydney,2000,Aquatics,Swimming,"VAN DEN HOOGENBAND, Pieter",NED,Men,50m freestyle,M,Bronze,"March 14, 1978 (age 38 years)",193.04,NA,176,80
+1004,Sydney,2000,Aquatics,Swimming,"ERVIN, Anthony",USA,Men,50m freestyle,M,Gold,"May 26, 1981 (age 35 years)",190.5,NA,170,77.27272727
+1005,Sydney,2000,Aquatics,Swimming,"HALL, Gary Jr.",USA,Men,50m freestyle,M,Gold,"September 26, 1974 (age 42 years)",198.12,NA,218,99.09090909
+1006,Sydney,2000,Aquatics,Swimming,"TORRES, Dara",USA,Women,50m freestyle,W,Bronze,"April 15, 1967 (age 49 years)",180.34,NA,150,68.18181818
+1007,Sydney,2000,Aquatics,Swimming,"DE BRUIJN, Inge",NED,Women,50m freestyle,W,Gold,"August 24, 1973 (age 43 years)",177.8,NA,121,55
+1008,Sydney,2000,Aquatics,Swimming,"ALSHAMMAR, Therese",SWE,Women,50m freestyle,W,Silver,"August 26, 1977 (age 39 years)",180.34,NA,NA,#VALUE!
+1009,Sydney,2000,Aquatics,Swimming,"SANDENO, Kaitlin",USA,Women,800m freestyle,W,Bronze,"March 13, 1983 (age 33 years)",167.64,NA,119,54.09090909
+1010,Sydney,2000,Aquatics,Swimming,"BENNETT, Brooke",USA,Women,800m freestyle,W,Gold,"May 6, 1980 (age 36 years)",165.1,NA,126,57.27272727
+1011,Sydney,2000,Aquatics,Swimming,"KLOCHKOVA, Yana",UKR,Women,800m freestyle,W,Silver,"August 7, 1982 (age 34 years)",182.88,NA,154,70
+1012,Athens,2004,Aquatics,Swimming,"MORITA, Tomomi",JPN,Men,100m backstroke,M,Bronze,NA,170.18,NA,150,68.18181818
+1013,Athens,2004,Aquatics,Swimming,"PEIRSOL, Aaron",USA,Men,100m backstroke,M,Gold,"July 23, 1983 (age 33 years)",190.5,NA,201,91.36363636
+1014,Athens,2004,Aquatics,Swimming,"ROGAN, Markus",AUT,Men,100m backstroke,M,Silver,"May 4, 1982 (age 34 years)",195.58,NA,205,93.18181818
+1015,Athens,2004,Aquatics,Swimming,"MANAUDOU, Laure",FRA,Women,100m backstroke,W,Bronze,NA,180.34,NA,152,69.09090909
+1016,Athens,2004,Aquatics,Swimming,"COUGHLIN, Natalie",USA,Women,100m backstroke,W,Gold,"August 23, 1982 (age 34 years)",172.72,NA,139,63.18181818
+1017,Athens,2004,Aquatics,Swimming,"COVENTRY, Kirsty",ZIM,Women,100m backstroke,W,Silver,"September 16, 1983 (age 33 years)",172.72,NA,132,60
+1018,Athens,2004,Aquatics,Swimming,"DUBOSCQ, Hugues",FRA,Men,100m breaststroke,M,Bronze,"August 29, 1981 (age 35 years)",190.5,NA,185,84.09090909
+1019,Athens,2004,Aquatics,Swimming,"KITAJIMA, Kosuke",JPN,Men,100m breaststroke,M,Gold,"September 22, 1982 (age 34 years)",177.8,NA,161,73.18181818
+1020,Athens,2004,Aquatics,Swimming,"HANSEN, Brendan",USA,Men,100m breaststroke,M,Silver,"August 15, 1981 (age 35 years)",182.88,NA,187,85
+1021,Athens,2004,Aquatics,Swimming,"JONES, Leisel",AUS,Women,100m breaststroke,W,Bronze,"August 30, 1985 (age 31 years)",177.8,NA,150,68.18181818
+1022,Athens,2004,Aquatics,Swimming,"LUO, Xuejuan",CHN,Women,100m breaststroke,W,Gold,"January 26, 1984 (age 32 years)",167.64,NA,141,64.09090909
+1023,Athens,2004,Aquatics,Swimming,"HANSON, Brooke",AUS,Women,100m breaststroke,W,Silver,"March 18, 1978 (age 38 years)",175.26,NA,148,67.27272727
+1024,Athens,2004,Aquatics,Swimming,"SERDINOV, Andriy",UKR,Men,100m butterfly,M,Bronze,"November 17, 1982 (age 33 years)",NA,NA,170,77.27272727
+1025,Athens,2004,Aquatics,Swimming,"PHELPS, Michael",USA,Men,100m butterfly,M,Gold,"June 30, 1985 (age 31 years)",193.04,NA,196,89.09090909
+1026,Athens,2004,Aquatics,Swimming,"CROCKER, Ian",USA,Men,100m butterfly,M,Silver,"August 31, 1982 (age 34 years)",193.04,NA,190,86.36363636
+1027,Athens,2004,Aquatics,Swimming,"DE BRUIJN, Inge",NED,Women,100m butterfly,W,Bronze,"August 24, 1973 (age 43 years)",177.8,NA,121,55
+1028,Athens,2004,Aquatics,Swimming,"THOMAS, Petria",AUS,Women,100m butterfly,W,Gold,"August 25, 1975 (age 41 years)",162.56,NA,141,64.09090909
+1029,Athens,2004,Aquatics,Swimming,"JEDRZEJCZAK, Otylia",POL,Women,100m butterfly,W,Silver,"December 13, 1983 (age 32 years)",187.96,NA,NA,#VALUE!
+1030,Athens,2004,Aquatics,Swimming,"THORPE, Ian",AUS,Men,100m freestyle,M,Bronze,"October 13, 1982 (age 34 years)",195.58,NA,229,104.0909091
+1031,Athens,2004,Aquatics,Swimming,"VAN DEN HOOGENBAND, Pieter",NED,Men,100m freestyle,M,Gold,"March 14, 1978 (age 38 years)",193.04,NA,176,80
+1032,Athens,2004,Aquatics,Swimming,"SCHOEMAN, Roland",RSA,Men,100m freestyle,M,Silver,"July 3, 1980 (age 36 years)",190.5,NA,185,84.09090909
+1033,Athens,2004,Aquatics,Swimming,"COUGHLIN, Natalie",USA,Women,100m freestyle,W,Bronze,"August 23, 1982 (age 34 years)",172.72,NA,139,63.18181818
+1034,Athens,2004,Aquatics,Swimming,"HENRY, Jodie",AUS,Women,100m freestyle,W,Gold,"November 17, 1983 (age 32 years)",175.26,NA,139,63.18181818
+1035,Athens,2004,Aquatics,Swimming,"DE BRUIJN, Inge",NED,Women,100m freestyle,W,Silver,NA,177.8,NA,121,55
+1036,Athens,2004,Aquatics,Swimming,"DAVIES, David",GBR,Men,1500m freestyle,M,Bronze,NA,NA,NA,185,84.09090909
+1037,Athens,2004,Aquatics,Swimming,"HACKETT, Grant",AUS,Men,1500m freestyle,M,Gold,NA,198.12,NA,212,96.36363636
+1038,Athens,2004,Aquatics,Swimming,"JENSEN, Larsen",USA,Men,1500m freestyle,M,Silver,NA,182.88,NA,194,88.18181818
+1039,Athens,2004,Aquatics,Swimming,"FLOREA, Razvan Ionut",ROU,Men,200m backstroke,M,Bronze,NA,193.04,NA,NA,#VALUE!
+1040,Athens,2004,Aquatics,Swimming,"PEIRSOL, Aaron",USA,Men,200m backstroke,M,Gold,"July 23, 1983 (age 33 years)",190.5,NA,201,91.36363636
+1041,Athens,2004,Aquatics,Swimming,"ROGAN, Markus",AUT,Men,200m backstroke,M,Silver,"May 4, 1982 (age 34 years)",195.58,NA,205,93.18181818
+1042,Athens,2004,Aquatics,Swimming,"BUSCHSCHULTE, Antje",GER,Women,200m backstroke,W,Bronze,"December 27, 1978 (age 37 years)",185.42,NA,165,75
+1043,Athens,2004,Aquatics,Swimming,"NAKAMURA, Reiko",JPN,Women,200m backstroke,W,Bronze,"May 17, 1982 (age 34 years)",NA,NA,121,55
+1044,Athens,2004,Aquatics,Swimming,"COVENTRY, Kirsty",ZIM,Women,200m backstroke,W,Gold,"September 16, 1983 (age 33 years)",172.72,NA,132,60
+1045,Athens,2004,Aquatics,Swimming,"KOMAROVA, Stanislava",RUS,Women,200m backstroke,W,Silver,"June 12, 1986 (age 30 years)",NA,NA,130,59.09090909
+1046,Athens,2004,Aquatics,Swimming,"HANSEN, Brendan",USA,Men,200m breaststroke,M,Bronze,"August 15, 1981 (age 35 years)",182.88,NA,187,85
+1047,Athens,2004,Aquatics,Swimming,"KITAJIMA, Kosuke",JPN,Men,200m breaststroke,M,Gold,"September 22, 1982 (age 34 years)",177.8,NA,161,73.18181818
+1048,Athens,2004,Aquatics,Swimming,"GYURTA, Daniel",HUN,Men,200m breaststroke,M,Silver,"May 4, 1989 (age 27 years)",185.42,NA,NA,#VALUE!
+1049,Athens,2004,Aquatics,Swimming,"POLESKA, Anne",GER,Women,200m breaststroke,W,Bronze,"February 20, 1980 (age 36 years)",180.34,NA,139,63.18181818
+1050,Athens,2004,Aquatics,Swimming,"BEARD, Amanda",USA,Women,200m breaststroke,W,Gold,"October 29, 1981 (age 35 years)",172.72,NA,130,59.09090909
+1051,Athens,2004,Aquatics,Swimming,"JONES, Leisel",AUS,Women,200m breaststroke,W,Silver,"August 30, 1985 (age 31 years)",177.8,NA,150,68.18181818
+1052,Athens,2004,Aquatics,Swimming,"PARRY, Stephen",GBR,Men,200m butterfly,M,Bronze,"January 22, 1949 (age 67 years)",170.18,NA,198,90
+1053,Athens,2004,Aquatics,Swimming,"PHELPS, Michael",USA,Men,200m butterfly,M,Gold,"June 30, 1985 (age 31 years)",193.04,NA,196,89.09090909
+1054,Athens,2004,Aquatics,Swimming,"YAMAMOTO, Takashi",JPN,Men,200m butterfly,M,Silver,NA,NA,NA,159,72.27272727
+1055,Athens,2004,Aquatics,Swimming,"NAKANISHI, Yuko",JPN,Women,200m butterfly,W,Bronze,"April 24, 1981 (age 35 years)",NA,NA,119,54.09090909
+1056,Athens,2004,Aquatics,Swimming,"JEDRZEJCZAK, Otylia",POL,Women,200m butterfly,W,Gold,"December 13, 1983 (age 32 years)",187.96,NA,NA,#VALUE!
+1057,Athens,2004,Aquatics,Swimming,"THOMAS, Petria",AUS,Women,200m butterfly,W,Silver,"August 25, 1975 (age 41 years)",162.56,NA,141,64.09090909
+1058,Athens,2004,Aquatics,Swimming,"PHELPS, Michael",USA,Men,200m freestyle,M,Bronze,"June 30, 1985 (age 31 years)",193.04,NA,196,89.09090909
+1059,Athens,2004,Aquatics,Swimming,"THORPE, Ian",AUS,Men,200m freestyle,M,Gold,"October 13, 1982 (age 34 years)",195.58,NA,229,104.0909091
+1060,Athens,2004,Aquatics,Swimming,"VAN DEN HOOGENBAND, Pieter",NED,Men,200m freestyle,M,Silver,"March 14, 1978 (age 38 years)",193.04,NA,176,80
+1061,Athens,2004,Aquatics,Swimming,"FIGUES, Solenne",FRA,Women,200m freestyle,W,Bronze,"June 6, 1979 (age 37 years)",177.8,NA,NA,#VALUE!
+1062,Athens,2004,Aquatics,Swimming,"POTEC, Camelia",ROU,Women,200m freestyle,W,Gold,"February 19, 1982 (age 34 years)",177.8,NA,143,65
+1063,Athens,2004,Aquatics,Swimming,"PELLEGRINI, Federica",ITA,Women,200m freestyle,W,Silver,"August 5, 1988 (age 28 years)",177.8,NA,150,68.18181818
+1064,Athens,2004,Aquatics,Swimming,"BOVELL, George",TRI,Men,200m individual medley,M,Bronze,"July 18, 1983 (age 33 years)",195.58,NA,163,74.09090909
+1065,Athens,2004,Aquatics,Swimming,"PHELPS, Michael",USA,Men,200m individual medley,M,Gold,"June 30, 1985 (age 31 years)",193.04,NA,196,89.09090909
+1066,Athens,2004,Aquatics,Swimming,"LOCHTE, Ryan",USA,Men,200m individual medley,M,Silver,"August 3, 1984 (age 32 years)",187.96,NA,196,89.09090909
+1067,Athens,2004,Aquatics,Swimming,"COVENTRY, Kirsty",ZIM,Women,200m individual medley,W,Bronze,"September 16, 1983 (age 33 years)",172.72,NA,132,60
+1068,Athens,2004,Aquatics,Swimming,"KLOCHKOVA, Yana",UKR,Women,200m individual medley,W,Gold,"August 7, 1982 (age 34 years)",182.88,NA,154,70
+1069,Athens,2004,Aquatics,Swimming,"BEARD, Amanda",USA,Women,200m individual medley,W,Silver,"October 29, 1981 (age 35 years)",172.72,NA,130,59.09090909
+1070,Athens,2004,Aquatics,Swimming,"KELLER, Klete",USA,Men,400m freestyle,M,Bronze,"March 21, 1982 (age 34 years)",198.12,NA,214,97.27272727
+1071,Athens,2004,Aquatics,Swimming,"THORPE, Ian",AUS,Men,400m freestyle,M,Gold,"October 13, 1982 (age 34 years)",195.58,NA,229,104.0909091
+1072,Athens,2004,Aquatics,Swimming,"HACKETT, Grant",AUS,Men,400m freestyle,M,Silver,"May 9, 1980 (age 36 years)",198.12,NA,212,96.36363636
+1073,Athens,2004,Aquatics,Swimming,"SANDENO, Kaitlin",USA,Women,400m freestyle,W,Bronze,"March 13, 1983 (age 33 years)",167.64,NA,119,54.09090909
+1074,Athens,2004,Aquatics,Swimming,"MANAUDOU, Laure",FRA,Women,400m freestyle,W,Gold,NA,180.34,NA,152,69.09090909
+1075,Athens,2004,Aquatics,Swimming,"JEDRZEJCZAK, Otylia",POL,Women,400m freestyle,W,Silver,"December 13, 1983 (age 32 years)",187.96,NA,NA,#VALUE!
+1076,Athens,2004,Aquatics,Swimming,"CSEH, Laszlo",HUN,Men,400m individual medley,M,Bronze,"December 3, 1985 (age 30 years)",187.96,NA,NA,#VALUE!
+1077,Athens,2004,Aquatics,Swimming,"PHELPS, Michael",USA,Men,400m individual medley,M,Gold,"June 30, 1985 (age 31 years)",193.04,NA,196,89.09090909
+1078,Athens,2004,Aquatics,Swimming,"VENDT, Erik",USA,Men,400m individual medley,M,Silver,"January 9, 1981 (age 35 years)",180.34,NA,165,75
+1079,Athens,2004,Aquatics,Swimming,"BARDACH, Georgina",ARG,Women,400m individual medley,W,Bronze,"August 18, 1983 (age 33 years)",170.18,NA,139,63.18181818
+1080,Athens,2004,Aquatics,Swimming,"KLOCHKOVA, Yana",UKR,Women,400m individual medley,W,Gold,"August 7, 1982 (age 34 years)",182.88,NA,154,70
+1081,Athens,2004,Aquatics,Swimming,"SANDENO, Kaitlin",USA,Women,400m individual medley,W,Silver,NA,NA,NA,119,54.09090909
+1082,Athens,2004,Aquatics,Swimming,"SCHOEMAN, Roland",RSA,Men,50m freestyle,M,Bronze,NA,NA,NA,185,84.09090909
+1083,Athens,2004,Aquatics,Swimming,"HALL, Gary Jr.",USA,Men,50m freestyle,M,Gold,NA,NA,NA,218,99.09090909
+1084,Athens,2004,Aquatics,Swimming,"DRAGANJA, Duje",CRO,Men,50m freestyle,M,Silver,NA,NA,NA,190,86.36363636
+1085,Athens,2004,Aquatics,Swimming,"TRICKETT, Lisbeth",AUS,Women,50m freestyle,W,Bronze,NA,NA,NA,132,60
+1086,Athens,2004,Aquatics,Swimming,"DE BRUIJN, Inge",NED,Women,50m freestyle,W,Gold,NA,177.8,NA,121,55
+1087,Athens,2004,Aquatics,Swimming,"METELLA, Malia",FRA,Women,50m freestyle,W,Silver,"February 23, 1982 (age 34 years)",175.26,NA,148,67.27272727
+1088,Athens,2004,Aquatics,Swimming,"MUNZ, Diana",USA,Women,800m freestyle,W,Bronze,"June 19, 1982 (age 34 years)",162.56,NA,123,55.90909091
+1089,Athens,2004,Aquatics,Swimming,"SHIBATA, Ai",JPN,Women,800m freestyle,W,Gold,"May 14, 1982 (age 34 years)",175.26,NA,139,63.18181818
+1090,Athens,2004,Aquatics,Swimming,"MANAUDOU, Laure",FRA,Women,800m freestyle,W,Silver,NA,180.34,NA,152,69.09090909
+1091,Beijing,2008,Aquatics,Swimming,"STOECKEL, Hayden",AUS,Men,100m backstroke,M,Bronze,"August 10, 1984 (age 32 years)",198.12,NA,209,95
+1092,Beijing,2008,Aquatics,Swimming,"VYATCHANIN, Arkady",RUS,Men,100m backstroke,M,Bronze,"April 4, 1984 (age 32 years)",203.2,NA,NA,#VALUE!
+1093,Beijing,2008,Aquatics,Swimming,"PEIRSOL, Aaron",USA,Men,100m backstroke,M,Gold,"July 23, 1983 (age 33 years)",190.5,NA,201,91.36363636
+1094,Beijing,2008,Aquatics,Swimming,"GREVERS, Matt",USA,Men,100m backstroke,M,Silver,"March 26, 1985 (age 31 years)",203.2,NA,231,105
+1095,Beijing,2008,Aquatics,Swimming,"HOELZER, Margaret",USA,Women,100m backstroke,W,Bronze,"March 30, 1983 (age 33 years)",180.34,NA,174,79.09090909
+1096,Beijing,2008,Aquatics,Swimming,"COUGHLIN, Natalie",USA,Women,100m backstroke,W,Gold,"August 23, 1982 (age 34 years)",172.72,NA,139,63.18181818
+1097,Beijing,2008,Aquatics,Swimming,"COVENTRY, Kirsty",ZIM,Women,100m backstroke,W,Silver,"September 16, 1983 (age 33 years)",172.72,NA,132,60
+1098,Beijing,2008,Aquatics,Swimming,"DUBOSCQ, Hugues",FRA,Men,100m breaststroke,M,Bronze,"August 29, 1981 (age 35 years)",190.5,NA,185,84.09090909
+1099,Beijing,2008,Aquatics,Swimming,"KITAJIMA, Kosuke",JPN,Men,100m breaststroke,M,Gold,"September 22, 1982 (age 34 years)",177.8,NA,161,73.18181818
+1100,Beijing,2008,Aquatics,Swimming,"OEN, Alexander Dale",NOR,Men,100m breaststroke,M,Silver,21-May-85,190.5,23,176,80
+1101,Beijing,2008,Aquatics,Swimming,"JUKIC, Mirna",AUT,Women,100m breaststroke,W,Bronze,"April 9, 1986 (age 30 years)",177.8,NA,150,68.18181818
+1102,Beijing,2008,Aquatics,Swimming,"JONES, Leisel",AUS,Women,100m breaststroke,W,Gold,"August 30, 1985 (age 31 years)",177.8,NA,150,68.18181818
+1103,Beijing,2008,Aquatics,Swimming,"SONI, Rebecca",USA,Women,100m breaststroke,W,Silver,"March 18, 1987 (age 29 years)",172.72,NA,134,60.90909091
+1104,Beijing,2008,Aquatics,Swimming,"LAUTERSTEIN, Andrew",AUS,Men,100m butterfly,M,Bronze,"May 22, 1987 (age 29 years)",185.42,NA,198,90
+1105,Beijing,2008,Aquatics,Swimming,"PHELPS, Michael",USA,Men,100m butterfly,M,Gold,"June 30, 1985 (age 31 years)",193.04,NA,196,89.09090909
+1106,Beijing,2008,Aquatics,Swimming,"CAVIC, Milorad",SRB,Men,100m butterfly,M,Silver,"May 31, 1984 (age 32 years)",195.58,NA,NA,#VALUE!
+1107,Beijing,2008,Aquatics,Swimming,"SCHIPPER, Jessicah",AUS,Women,100m butterfly,W,Bronze,"November 19, 1986 (age 29 years)",170.18,NA,132,60
+1108,Beijing,2008,Aquatics,Swimming,"TRICKETT, Lisbeth",AUS,Women,100m butterfly,W,Gold,"January 28, 1985 (age 31 years)",167.64,NA,132,60
+1109,Beijing,2008,Aquatics,Swimming,"MAGNUSON, Christine",USA,Women,100m butterfly,W,Silver,"October 17, 1985 (age 31 years)",185.42,NA,161,73.18181818
+1110,Beijing,2008,Aquatics,Swimming,"CIELO FILHO, Cesar",BRA,Men,100m freestyle,M,Bronze,"January 10, 1987 (age 29 years)",195.58,NA,NA,#VALUE!
+1111,Beijing,2008,Aquatics,Swimming,"LEZAK, Jason",USA,Men,100m freestyle,M,Bronze,"November 12, 1975 (age 40 years)",193.04,NA,216,98.18181818
+1112,Beijing,2008,Aquatics,Swimming,"BERNARD, Alain",FRA,Men,100m freestyle,M,Gold,"May 1, 1983 (age 33 years)",195.58,NA,198,90
+1113,Beijing,2008,Aquatics,Swimming,"SULLIVAN, Eamon",AUS,Men,100m freestyle,M,Silver,"August 30, 1985 (age 31 years)",187.96,NA,172,78.18181818
+1114,Beijing,2008,Aquatics,Swimming,"COUGHLIN, Natalie",USA,Women,100m freestyle,W,Bronze,"August 23, 1982 (age 34 years)",172.72,NA,139,63.18181818
+1115,Beijing,2008,Aquatics,Swimming,"STEFFEN, Britta",GER,Women,100m freestyle,W,Gold,"November 16, 1983 (age 32 years)",180.34,NA,132,60
+1116,Beijing,2008,Aquatics,Swimming,"TRICKETT, Lisbeth",AUS,Women,100m freestyle,W,Silver,"January 28, 1985 (age 31 years)",167.64,NA,132,60
+1117,Beijing,2008,Aquatics,Swimming,"COCHRANE, Ryan",CAN,Men,1500m freestyle,M,Bronze,"October 29, 1988 (age 28 years)",193.04,NA,176,80
+1118,Beijing,2008,Aquatics,Swimming,"MELLOULI, Oussama",TUN,Men,1500m freestyle,M,Gold,"February 16, 1984 (age 32 years)",193.04,NA,185,84.09090909
+1119,Beijing,2008,Aquatics,Swimming,"HACKETT, Grant",AUS,Men,1500m freestyle,M,Silver,"May 9, 1980 (age 36 years)",198.12,NA,212,96.36363636
+1120,Beijing,2008,Aquatics,Swimming,"VYATCHANIN, Arkady",RUS,Men,200m backstroke,M,Bronze,"April 4, 1984 (age 32 years)",203.2,NA,NA,#VALUE!
+1121,Beijing,2008,Aquatics,Swimming,"LOCHTE, Ryan",USA,Men,200m backstroke,M,Gold,"August 3, 1984 (age 32 years)",187.96,NA,196,89.09090909
+1122,Beijing,2008,Aquatics,Swimming,"PEIRSOL, Aaron",USA,Men,200m backstroke,M,Silver,"July 23, 1983 (age 33 years)",190.5,NA,201,91.36363636
+1123,Beijing,2008,Aquatics,Swimming,"NAKAMURA, Reiko",JPN,Women,200m backstroke,W,Bronze,"May 17, 1982 (age 34 years)",NA,NA,121,55
+1124,Beijing,2008,Aquatics,Swimming,"COVENTRY, Kirsty",ZIM,Women,200m backstroke,W,Gold,"September 16, 1983 (age 33 years)",172.72,NA,132,60
+1125,Beijing,2008,Aquatics,Swimming,"HOELZER, Margaret",USA,Women,200m backstroke,W,Silver,"March 30, 1983 (age 33 years)",180.34,NA,174,79.09090909
+1126,Beijing,2008,Aquatics,Swimming,"DUBOSCQ, Hugues",FRA,Men,200m breaststroke,M,Bronze,"August 29, 1981 (age 35 years)",190.5,NA,185,84.09090909
+1127,Beijing,2008,Aquatics,Swimming,"KITAJIMA, Kosuke",JPN,Men,200m breaststroke,M,Gold,"September 22, 1982 (age 34 years)",177.8,NA,161,73.18181818
+1128,Beijing,2008,Aquatics,Swimming,"RICKARD, Brenton",AUS,Men,200m breaststroke,M,Silver,NA,193.04,NA,203,92.27272727
+1129,Beijing,2008,Aquatics,Swimming,"NORDENSTAM, Sara",NOR,Women,200m breaststroke,W,Bronze,NA,170.18,NA,154,70
+1130,Beijing,2008,Aquatics,Swimming,"SONI, Rebecca",USA,Women,200m breaststroke,W,Gold,NA,172.72,NA,134,60.90909091
+1131,Beijing,2008,Aquatics,Swimming,"JONES, Leisel",AUS,Women,200m breaststroke,W,Silver,NA,177.8,NA,150,68.18181818
+1132,Beijing,2008,Aquatics,Swimming,"MATSUDA, Takeshi",JPN,Men,200m butterfly,M,Bronze,NA,182.88,NA,187,85
+1133,Beijing,2008,Aquatics,Swimming,"PHELPS, Michael",USA,Men,200m butterfly,M,Gold,NA,193.04,NA,196,89.09090909
+1134,Beijing,2008,Aquatics,Swimming,"CSEH, Laszlo",HUN,Men,200m butterfly,M,Silver,NA,187.96,NA,NA,#VALUE!
+1135,Beijing,2008,Aquatics,Swimming,"SCHIPPER, Jessicah",AUS,Women,200m butterfly,W,Bronze,NA,170.18,NA,132,60
+1136,Beijing,2008,Aquatics,Swimming,"LIU, Zige",CHN,Women,200m butterfly,W,Gold,NA,180.34,NA,154,70
+1137,Beijing,2008,Aquatics,Swimming,"JIAO, Liuyang",CHN,Women,200m butterfly,W,Silver,"August 6, 1991 (age 25 years)",172.72,NA,139,63.18181818
+1138,Beijing,2008,Aquatics,Swimming,"VANDERKAAY, Peter",USA,Men,200m freestyle,M,Bronze,"February 12, 1984 (age 32 years)",193.04,NA,209,95
+1139,Beijing,2008,Aquatics,Swimming,"PHELPS, Michael",USA,Men,200m freestyle,M,Gold,"June 30, 1985 (age 31 years)",193.04,NA,196,89.09090909
+1140,Beijing,2008,Aquatics,Swimming,"PARK, Taehwan",KOR,Men,200m freestyle,M,Silver,"September 27, 1989 (age 27 years)",182.88,NA,NA,#VALUE!
+1141,Beijing,2008,Aquatics,Swimming,"PANG, Jiaying",CHN,Women,200m freestyle,W,Bronze,"January 6, 1985 (age 31 years)",177.8,NA,141,64.09090909
+1142,Beijing,2008,Aquatics,Swimming,"PELLEGRINI, Federica",ITA,Women,200m freestyle,W,Gold,"August 5, 1988 (age 28 years)",177.8,NA,150,68.18181818
+1143,Beijing,2008,Aquatics,Swimming,"ISAKOVIC, Sara",SLO,Women,200m freestyle,W,Silver,"June 9, 1988 (age 28 years)",175.26,NA,NA,#VALUE!
+1144,Beijing,2008,Aquatics,Swimming,"LOCHTE, Ryan",USA,Men,200m individual medley,M,Bronze,"August 3, 1984 (age 32 years)",187.96,NA,196,89.09090909
+1145,Beijing,2008,Aquatics,Swimming,"PHELPS, Michael",USA,Men,200m individual medley,M,Gold,"June 30, 1985 (age 31 years)",193.04,NA,196,89.09090909
+1146,Beijing,2008,Aquatics,Swimming,"CSEH, Laszlo",HUN,Men,200m individual medley,M,Silver,"December 3, 1985 (age 30 years)",187.96,NA,NA,#VALUE!
+1147,Beijing,2008,Aquatics,Swimming,"COUGHLIN, Natalie",USA,Women,200m individual medley,W,Bronze,"August 23, 1982 (age 34 years)",172.72,NA,139,63.18181818
+1148,Beijing,2008,Aquatics,Swimming,"RICE, Stephanie",AUS,Women,200m individual medley,W,Gold,"June 17, 1988 (age 28 years)",175.26,NA,148,67.27272727
+1149,Beijing,2008,Aquatics,Swimming,"COVENTRY, Kirsty",ZIM,Women,200m individual medley,W,Silver,"September 16, 1983 (age 33 years)",172.72,NA,132,60
+1150,Beijing,2008,Aquatics,Swimming,"JENSEN, Larsen",USA,Men,400m freestyle,M,Bronze,"September 1, 1985 (age 31 years)",182.88,NA,194,88.18181818
+1151,Beijing,2008,Aquatics,Swimming,"PARK, Taehwan",KOR,Men,400m freestyle,M,Gold,"September 27, 1989 (age 27 years)",182.88,NA,NA,#VALUE!
+1152,Beijing,2008,Aquatics,Swimming,"ZHANG, Lin",CHN,Men,400m freestyle,M,Silver,"January 6, 1987 (age 29 years)",187.96,NA,170,77.27272727
+1153,Beijing,2008,Aquatics,Swimming,"JACKSON, Joanne",GBR,Women,400m freestyle,W,Bronze,"July 26, 1928 (age 88 years)",185.42,NA,168,76.36363636
+1154,Beijing,2008,Aquatics,Swimming,"ADLINGTON, Rebecca",GBR,Women,400m freestyle,W,Gold,"February 17, 1989 (age 27 years)",177.8,NA,154,70
+1155,Beijing,2008,Aquatics,Swimming,"HOFF, Katie",USA,Women,400m freestyle,W,Silver,"June 3, 1989 (age 27 years)",175.26,NA,141,64.09090909
+1156,Beijing,2008,Aquatics,Swimming,"LOCHTE, Ryan",USA,Men,400m individual medley,M,Bronze,"August 3, 1984 (age 32 years)",187.96,NA,196,89.09090909
+1157,Beijing,2008,Aquatics,Swimming,"PHELPS, Michael",USA,Men,400m individual medley,M,Gold,"June 30, 1985 (age 31 years)",193.04,NA,196,89.09090909
+1158,Beijing,2008,Aquatics,Swimming,"CSEH, Laszlo",HUN,Men,400m individual medley,M,Silver,"December 3, 1985 (age 30 years)",187.96,NA,NA,#VALUE!
+1159,Beijing,2008,Aquatics,Swimming,"HOFF, Katie",USA,Women,400m individual medley,W,Bronze,"June 3, 1989 (age 27 years)",175.26,NA,141,64.09090909
+1160,Beijing,2008,Aquatics,Swimming,"RICE, Stephanie",AUS,Women,400m individual medley,W,Gold,"June 17, 1988 (age 28 years)",175.26,NA,148,67.27272727
+1161,Beijing,2008,Aquatics,Swimming,"COVENTRY, Kirsty",ZIM,Women,400m individual medley,W,Silver,"September 16, 1983 (age 33 years)",172.72,NA,132,60
+1162,Beijing,2008,Aquatics,Swimming,"BERNARD, Alain",FRA,Men,50m freestyle,M,Bronze,"May 1, 1983 (age 33 years)",195.58,NA,198,90
+1163,Beijing,2008,Aquatics,Swimming,"CIELO FILHO, Cesar",BRA,Men,50m freestyle,M,Gold,"January 10, 1987 (age 29 years)",195.58,NA,NA,#VALUE!
+1164,Beijing,2008,Aquatics,Swimming,"LEVEAUX, Amaury",FRA,Men,50m freestyle,M,Silver,"December 2, 1985 (age 30 years)",203.2,NA,194,88.18181818
+1165,Beijing,2008,Aquatics,Swimming,"CAMPBELL, Cate",AUS,Women,50m freestyle,W,Bronze,"May 20, 1992 (age 24 years)",185.42,NA,148,67.27272727
+1166,Beijing,2008,Aquatics,Swimming,"STEFFEN, Britta",GER,Women,50m freestyle,W,Gold,"November 16, 1983 (age 32 years)",180.34,NA,132,60
+1167,Beijing,2008,Aquatics,Swimming,"TORRES, Dara",USA,Women,50m freestyle,W,Silver,"April 15, 1967 (age 49 years)",180.34,NA,150,68.18181818
+1168,Beijing,2008,Aquatics,Swimming,"FRIIS, Lotte",DEN,Women,800m freestyle,W,Bronze,"February 9, 1988 (age 28 years)",182.88,NA,161,73.18181818
+1169,Beijing,2008,Aquatics,Swimming,"ADLINGTON, Rebecca",GBR,Women,800m freestyle,W,Gold,"February 17, 1989 (age 27 years)",177.8,NA,154,70
+1170,Beijing,2008,Aquatics,Swimming,"FILIPPI, Alessia",ITA,Women,800m freestyle,W,Silver,"June 23, 1987 (age 29 years)",185.42,NA,139,63.18181818
